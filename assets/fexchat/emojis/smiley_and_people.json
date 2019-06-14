@@ -1,0 +1,3132 @@
+window.smiley_and_people= [
+   {
+    "name": "GRINNING FACE",
+    "short_name": "grinning",
+    "category": "Smileys &amp; People",
+    "image": "1f600.png",
+    "pattern": ":sp00000:"
+},
+{
+    "name": "GRINNING FACE WITH SMILING EYES",
+    "short_name": "grin",
+    "category": "Smileys &amp; People",
+    "image": "1f601.png",
+    "pattern": ":sp00001:"
+},
+{
+    "name": "FACE WITH TEARS OF JOY",
+    "short_name": "joy",
+    "category": "Smileys &amp; People",
+    "image": "1f602.png",
+    "pattern": ":sp00002:"
+},
+{
+    "name": "SMILING FACE WITH OPEN MOUTH",
+    "short_name": "smiley",
+    "category": "Smileys &amp; People",
+    "image": "1f603.png",
+    "pattern": ":sp00003:"
+},
+{
+    "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "short_name": "smile",
+    "category": "Smileys &amp; People",
+    "image": "1f604.png",
+    "pattern": ":sp00004:"
+},
+{
+    "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "short_name": "sweat_smile",
+    "category": "Smileys &amp; People",
+    "image": "1f605.png",
+    "pattern": ":sp00005:"
+},
+{
+    "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "short_name": "laughing",
+    "category": "Smileys &amp; People",
+    "image": "1f606.png",
+    "pattern": ":sp00006:"
+},
+{
+    "name": "SMILING FACE WITH HALO",
+    "short_name": "innocent",
+    "category": "Smileys &amp; People",
+    "image": "1f607.png",
+    "pattern": ":sp00007:"
+},
+{
+    "name": "SMILING FACE WITH HORNS",
+    "short_name": "smiling_imp",
+    "category": "Smileys &amp; People",
+    "image": "1f608.png",
+    "pattern": ":sp00008:"
+},
+{
+    "name": "WINKING FACE",
+    "short_name": "wink",
+    "category": "Smileys &amp; People",
+    "image": "1f609.png",
+    "pattern": ":sp00009:"
+},
+{
+    "name": "SMILING FACE WITH SMILING EYES",
+    "short_name": "blush",
+    "category": "Smileys &amp; People",
+    "image": "1f60a.png",
+    "pattern": ":sp00010:"
+},
+{
+    "name": "FACE SAVOURING DELICIOUS FOOD",
+    "short_name": "yum",
+    "category": "Smileys &amp; People",
+    "image": "1f60b.png",
+    "pattern": ":sp00011:"
+},
+{
+    "name": "RELIEVED FACE",
+    "short_name": "relieved",
+    "category": "Smileys &amp; People",
+    "image": "1f60c.png",
+    "pattern": ":sp00012:"
+},
+{
+    "name": "SMILING FACE WITH HEART-SHAPED EYES",
+    "short_name": "heart_eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f60d.png",
+    "pattern": ":sp00013:"
+},
+{
+    "name": "SMILING FACE WITH SUNGLASSES",
+    "short_name": "sunglasses",
+    "category": "Smileys &amp; People",
+    "image": "1f60e.png",
+    "pattern": ":sp00014:"
+},
+{
+    "name": "SMIRKING FACE",
+    "short_name": "smirk",
+    "category": "Smileys &amp; People",
+    "image": "1f60f.png",
+    "pattern": ":sp00015:"
+},
+{
+    "name": "NEUTRAL FACE",
+    "short_name": "neutral_face",
+    "category": "Smileys &amp; People",
+    "image": "1f610.png",
+    "pattern": ":sp00016:"
+},
+{
+    "name": "EXPRESSIONLESS FACE",
+    "short_name": "expressionless",
+    "category": "Smileys &amp; People",
+    "image": "1f611.png",
+    "pattern": ":sp00017:"
+},
+{
+    "name": "UNAMUSED FACE",
+    "short_name": "unamused",
+    "category": "Smileys &amp; People",
+    "image": "1f612.png",
+    "pattern": ":sp00018:"
+},
+{
+    "name": "FACE WITH COLD SWEAT",
+    "short_name": "sweat",
+    "category": "Smileys &amp; People",
+    "image": "1f613.png",
+    "pattern": ":sp00019:"
+},
+{
+    "name": "PENSIVE FACE",
+    "short_name": "pensive",
+    "category": "Smileys &amp; People",
+    "image": "1f614.png",
+    "pattern": ":sp00020:"
+},
+{
+    "name": "CONFUSED FACE",
+    "short_name": "confused",
+    "category": "Smileys &amp; People",
+    "image": "1f615.png",
+    "pattern": ":sp00021:"
+},
+{
+    "name": "CONFOUNDED FACE",
+    "short_name": "confounded",
+    "category": "Smileys &amp; People",
+    "image": "1f616.png",
+    "pattern": ":sp00022:"
+},
+{
+    "name": "KISSING FACE",
+    "short_name": "kissing",
+    "category": "Smileys &amp; People",
+    "image": "1f617.png",
+    "pattern": ":sp00023:"
+},
+{
+    "name": "FACE THROWING A KISS",
+    "short_name": "kissing_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f618.png",
+    "pattern": ":sp00024:"
+},
+{
+    "name": "KISSING FACE WITH SMILING EYES",
+    "short_name": "kissing_smiling_eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f619.png",
+    "pattern": ":sp00025:"
+},
+{
+    "name": "KISSING FACE WITH CLOSED EYES",
+    "short_name": "kissing_closed_eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f61a.png",
+    "pattern": ":sp00026:"
+},
+{
+    "name": "FACE WITH STUCK-OUT TONGUE",
+    "short_name": "stuck_out_tongue",
+    "category": "Smileys &amp; People",
+    "image": "1f61b.png",
+    "pattern": ":sp00027:"
+},
+{
+    "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "short_name": "stuck_out_tongue_winking_eye",
+    "category": "Smileys &amp; People",
+    "image": "1f61c.png",
+    "pattern": ":sp00028:"
+},
+{
+    "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "short_name": "stuck_out_tongue_closed_eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f61d.png",
+    "pattern": ":sp00029:"
+},
+{
+    "name": "DISAPPOINTED FACE",
+    "short_name": "disappointed",
+    "category": "Smileys &amp; People",
+    "image": "1f61e.png",
+    "pattern": ":sp00030:"
+},
+{
+    "name": "WORRIED FACE",
+    "short_name": "worried",
+    "category": "Smileys &amp; People",
+    "image": "1f61f.png",
+    "pattern": ":sp00031:"
+},
+{
+    "name": "ANGRY FACE",
+    "short_name": "angry",
+    "category": "Smileys &amp; People",
+    "image": "1f620.png",
+    "pattern": ":sp00032:"
+},
+{
+    "name": "POUTING FACE",
+    "short_name": "rage",
+    "category": "Smileys &amp; People",
+    "image": "1f621.png",
+    "pattern": ":sp00033:"
+},
+{
+    "name": "CRYING FACE",
+    "short_name": "cry",
+    "category": "Smileys &amp; People",
+    "image": "1f622.png",
+    "pattern": ":sp00034:"
+},
+{
+    "name": "PERSEVERING FACE",
+    "short_name": "persevere",
+    "category": "Smileys &amp; People",
+    "image": "1f623.png",
+    "pattern": ":sp00035:"
+},
+{
+    "name": "FACE WITH LOOK OF TRIUMPH",
+    "short_name": "triumph",
+    "category": "Smileys &amp; People",
+    "image": "1f624.png",
+    "pattern": ":sp00036:"
+},
+{
+    "name": "DISAPPOINTED BUT RELIEVED FACE",
+    "short_name": "disappointed_relieved",
+    "category": "Smileys &amp; People",
+    "image": "1f625.png",
+    "pattern": ":sp00037:"
+},
+{
+    "name": "FROWNING FACE WITH OPEN MOUTH",
+    "short_name": "frowning",
+    "category": "Smileys &amp; People",
+    "image": "1f626.png",
+    "pattern": ":sp00038:"
+},
+{
+    "name": "ANGUISHED FACE",
+    "short_name": "anguished",
+    "category": "Smileys &amp; People",
+    "image": "1f627.png",
+    "pattern": ":sp00039:"
+},
+{
+    "name": "FEARFUL FACE",
+    "short_name": "fearful",
+    "category": "Smileys &amp; People",
+    "image": "1f628.png",
+    "pattern": ":sp00040:"
+},
+{
+    "name": "WEARY FACE",
+    "short_name": "weary",
+    "category": "Smileys &amp; People",
+    "image": "1f629.png",
+    "pattern": ":sp00041:"
+},
+{
+    "name": "SLEEPY FACE",
+    "short_name": "sleepy",
+    "category": "Smileys &amp; People",
+    "image": "1f62a.png",
+    "pattern": ":sp00042:"
+},
+{
+    "name": "TIRED FACE",
+    "short_name": "tired_face",
+    "category": "Smileys &amp; People",
+    "image": "1f62b.png",
+    "pattern": ":sp00043:"
+},
+{
+    "name": "GRIMACING FACE",
+    "short_name": "grimacing",
+    "category": "Smileys &amp; People",
+    "image": "1f62c.png",
+    "pattern": ":sp00044:"
+},
+{
+    "name": "LOUDLY CRYING FACE",
+    "short_name": "sob",
+    "category": "Smileys &amp; People",
+    "image": "1f62d.png",
+    "pattern": ":sp00045:"
+},
+{
+    "name": "FACE WITH OPEN MOUTH",
+    "short_name": "open_mouth",
+    "category": "Smileys &amp; People",
+    "image": "1f62e.png",
+    "pattern": ":sp00046:"
+},
+{
+    "name": "HUSHED FACE",
+    "short_name": "hushed",
+    "category": "Smileys &amp; People",
+    "image": "1f62f.png",
+    "pattern": ":sp00047:"
+},
+{
+    "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "short_name": "cold_sweat",
+    "category": "Smileys &amp; People",
+    "image": "1f630.png",
+    "pattern": ":sp00048:"
+},
+{
+    "name": "FACE SCREAMING IN FEAR",
+    "short_name": "scream",
+    "category": "Smileys &amp; People",
+    "image": "1f631.png",
+    "pattern": ":sp00049:"
+},
+{
+    "name": "ASTONISHED FACE",
+    "short_name": "astonished",
+    "category": "Smileys &amp; People",
+    "image": "1f632.png",
+    "pattern": ":sp00050:"
+},
+{
+    "name": "FLUSHED FACE",
+    "short_name": "flushed",
+    "category": "Smileys &amp; People",
+    "image": "1f633.png",
+    "pattern": ":sp00051:"
+},
+{
+    "name": "SLEEPING FACE",
+    "short_name": "sleeping",
+    "category": "Smileys &amp; People",
+    "image": "1f634.png",
+    "pattern": ":sp00052:"
+},
+{
+    "name": "DIZZY FACE",
+    "short_name": "dizzy_face",
+    "category": "Smileys &amp; People",
+    "image": "1f635.png",
+    "pattern": ":sp00053:"
+},
+{
+    "name": "FACE WITHOUT MOUTH",
+    "short_name": "no_mouth",
+    "category": "Smileys &amp; People",
+    "image": "1f636.png",
+    "pattern": ":sp00054:"
+},
+{
+    "name": "FACE WITH MEDICAL MASK",
+    "short_name": "mask",
+    "category": "Smileys &amp; People",
+    "image": "1f637.png",
+    "pattern": ":sp00055:"
+},
+{
+    "name": "GRINNING CAT FACE WITH SMILING EYES",
+    "short_name": "smile_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f638.png",
+    "pattern": ":sp00056:"
+},
+{
+    "name": "CAT FACE WITH TEARS OF JOY",
+    "short_name": "joy_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f639.png",
+    "pattern": ":sp00057:"
+},
+{
+    "name": "SMILING CAT FACE WITH OPEN MOUTH",
+    "short_name": "smiley_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f63a.png",
+    "pattern": ":sp00058:"
+},
+{
+    "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+    "short_name": "heart_eyes_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f63b.png",
+    "pattern": ":sp00059:"
+},
+{
+    "name": "CAT FACE WITH WRY SMILE",
+    "short_name": "smirk_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f63c.png",
+    "pattern": ":sp00060:"
+},
+{
+    "name": "KISSING CAT FACE WITH CLOSED EYES",
+    "short_name": "kissing_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f63d.png",
+    "pattern": ":sp00061:"
+},
+{
+    "name": "POUTING CAT FACE",
+    "short_name": "pouting_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f63e.png",
+    "pattern": ":sp00062:"
+},
+{
+    "name": "CRYING CAT FACE",
+    "short_name": "crying_cat_face",
+    "category": "Smileys &amp; People",
+    "image": "1f63f.png",
+    "pattern": ":sp00063:"
+},
+{
+    "name": "WEARY CAT FACE",
+    "short_name": "scream_cat",
+    "category": "Smileys &amp; People",
+    "image": "1f640.png",
+    "pattern": ":sp00064:"
+},
+{
+    "name": "SLIGHTLY FROWNING FACE",
+    "short_name": "slightly_frowning_face",
+    "category": "Smileys &amp; People",
+    "image": "1f641.png",
+    "pattern": ":sp00065:"
+},
+{
+    "name": "SLIGHTLY SMILING FACE",
+    "short_name": "slightly_smiling_face",
+    "category": "Smileys &amp; People",
+    "image": "1f642.png",
+    "pattern": ":sp00066:"
+},
+{
+    "name": "UPSIDE-DOWN FACE",
+    "short_name": "upside_down_face",
+    "category": "Smileys &amp; People",
+    "image": "1f643.png",
+    "pattern": ":sp00067:"
+},
+{
+    "name": "FACE WITH ROLLING EYES",
+    "short_name": "face_with_rolling_eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f644.png",
+    "pattern": ":sp00068:"
+},
+{
+    "name": "null",
+    "short_name": "woman-gesturing-no",
+    "category": "Smileys &amp; People",
+    "image": "1f645-200d-2640-fe0f.png",
+    "pattern": ":sp00069:"
+},
+{
+    "name": "null",
+    "short_name": "man-gesturing-no",
+    "category": "Smileys &amp; People",
+    "image": "1f645-200d-2642-fe0f.png",
+    "pattern": ":sp00070:"
+},
+{
+    "name": "FACE WITH NO GOOD GESTURE",
+    "short_name": "no_good",
+    "category": "Smileys &amp; People",
+    "image": "1f645.png",
+    "pattern": ":sp00071:"
+},
+{
+    "name": "null",
+    "short_name": "woman-gesturing-ok",
+    "category": "Smileys &amp; People",
+    "image": "1f646-200d-2640-fe0f.png",
+    "pattern": ":sp00072:"
+},
+{
+    "name": "null",
+    "short_name": "man-gesturing-ok",
+    "category": "Smileys &amp; People",
+    "image": "1f646-200d-2642-fe0f.png",
+    "pattern": ":sp00073:"
+},
+{
+    "name": "FACE WITH OK GESTURE",
+    "short_name": "ok_woman",
+    "category": "Smileys &amp; People",
+    "image": "1f646.png",
+    "pattern": ":sp00074:"
+},
+{
+    "name": "null",
+    "short_name": "woman-bowing",
+    "category": "Smileys &amp; People",
+    "image": "1f647-200d-2640-fe0f.png",
+    "pattern": ":sp00075:"
+},
+{
+    "name": "null",
+    "short_name": "man-bowing",
+    "category": "Smileys &amp; People",
+    "image": "1f647-200d-2642-fe0f.png",
+    "pattern": ":sp00076:"
+},
+{
+    "name": "PERSON BOWING DEEPLY",
+    "short_name": "bow",
+    "category": "Smileys &amp; People",
+    "image": "1f647.png",
+    "pattern": ":sp00077:"
+},
+{
+    "name": "SEE-NO-EVIL MONKEY",
+    "short_name": "see_no_evil",
+    "category": "Smileys &amp; People",
+    "image": "1f648.png",
+    "pattern": ":sp00078:"
+},
+{
+    "name": "HEAR-NO-EVIL MONKEY",
+    "short_name": "hear_no_evil",
+    "category": "Smileys &amp; People",
+    "image": "1f649.png",
+    "pattern": ":sp00079:"
+},
+{
+    "name": "SPEAK-NO-EVIL MONKEY",
+    "short_name": "speak_no_evil",
+    "category": "Smileys &amp; People",
+    "image": "1f64a.png",
+    "pattern": ":sp00080:"
+},
+{
+    "name": "null",
+    "short_name": "woman-raising-hand",
+    "category": "Smileys &amp; People",
+    "image": "1f64b-200d-2640-fe0f.png",
+    "pattern": ":sp00081:"
+},
+{
+    "name": "null",
+    "short_name": "man-raising-hand",
+    "category": "Smileys &amp; People",
+    "image": "1f64b-200d-2642-fe0f.png",
+    "pattern": ":sp00082:"
+},
+{
+    "name": "HAPPY PERSON RAISING ONE HAND",
+    "short_name": "raising_hand",
+    "category": "Smileys &amp; People",
+    "image": "1f64b.png",
+    "pattern": ":sp00083:"
+},
+{
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+    "short_name": "raised_hands",
+    "category": "Smileys &amp; People",
+    "image": "1f64c.png",
+    "pattern": ":sp00084:"
+},
+{
+    "name": "null",
+    "short_name": "woman-frowning",
+    "category": "Smileys &amp; People",
+    "image": "1f64d-200d-2640-fe0f.png",
+    "pattern": ":sp00085:"
+},
+{
+    "name": "null",
+    "short_name": "man-frowning",
+    "category": "Smileys &amp; People",
+    "image": "1f64d-200d-2642-fe0f.png",
+    "pattern": ":sp00086:"
+},
+{
+    "name": "PERSON FROWNING",
+    "short_name": "person_frowning",
+    "category": "Smileys &amp; People",
+    "image": "1f64d.png",
+    "pattern": ":sp00087:"
+},
+{
+    "name": "null",
+    "short_name": "woman-pouting",
+    "category": "Smileys &amp; People",
+    "image": "1f64e-200d-2640-fe0f.png",
+    "pattern": ":sp00088:"
+},
+{
+    "name": "null",
+    "short_name": "man-pouting",
+    "category": "Smileys &amp; People",
+    "image": "1f64e-200d-2642-fe0f.png",
+    "pattern": ":sp00089:"
+},
+{
+    "name": "PERSON WITH POUTING FACE",
+    "short_name": "person_with_pouting_face",
+    "category": "Smileys &amp; People",
+    "image": "1f64e.png",
+    "pattern": ":sp00090:"
+},
+{
+    "name": "PERSON WITH FOLDED HANDS",
+    "short_name": "pray",
+    "category": "Smileys &amp; People",
+    "image": "1f64f.png",
+    "pattern": ":sp00091:"
+},
+{
+    "name": "null",
+    "short_name": "woman-rowing-boat",
+    "category": "Smileys &amp; People",
+    "image": "1f6a3-200d-2640-fe0f.png",
+    "pattern": ":sp00092:"
+},
+{
+    "name": "null",
+    "short_name": "man-rowing-boat",
+    "category": "Smileys &amp; People",
+    "image": "1f6a3-200d-2642-fe0f.png",
+    "pattern": ":sp00093:"
+},
+{
+    "name": "ROWBOAT",
+    "short_name": "rowboat",
+    "category": "Smileys &amp; People",
+    "image": "1f6a3.png",
+    "pattern": ":sp00094:"
+},
+{
+    "name": "null",
+    "short_name": "woman-biking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b4-200d-2640-fe0f.png",
+    "pattern": ":sp00095:"
+},
+{
+    "name": "null",
+    "short_name": "man-biking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b4-200d-2642-fe0f.png",
+    "pattern": ":sp00096:"
+},
+{
+    "name": "BICYCLIST",
+    "short_name": "bicyclist",
+    "category": "Smileys &amp; People",
+    "image": "1f6b4.png",
+    "pattern": ":sp00097:"
+},
+{
+    "name": "null",
+    "short_name": "woman-mountain-biking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b5-200d-2640-fe0f.png",
+    "pattern": ":sp00098:"
+},
+{
+    "name": "null",
+    "short_name": "man-mountain-biking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b5-200d-2642-fe0f.png",
+    "pattern": ":sp00099:"
+},
+{
+    "name": "MOUNTAIN BICYCLIST",
+    "short_name": "mountain_bicyclist",
+    "category": "Smileys &amp; People",
+    "image": "1f6b5.png",
+    "pattern": ":sp00100:"
+},
+{
+    "name": "null",
+    "short_name": "woman-walking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b6-200d-2640-fe0f.png",
+    "pattern": ":sp00101:"
+},
+{
+    "name": "null",
+    "short_name": "man-walking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b6-200d-2642-fe0f.png",
+    "pattern": ":sp00102:"
+},
+{
+    "name": "PEDESTRIAN",
+    "short_name": "walking",
+    "category": "Smileys &amp; People",
+    "image": "1f6b6.png",
+    "pattern": ":sp00103:"
+},
+{
+    "name": "BATH",
+    "short_name": "bath",
+    "category": "Smileys &amp; People",
+    "image": "1f6c0.png",
+    "pattern": ":sp00104:"
+},
+{
+    "name": "SLEEPING ACCOMMODATION",
+    "short_name": "sleeping_accommodation",
+    "category": "Smileys &amp; People",
+    "image": "1f6cc.png",
+    "pattern": ":sp00105:"
+},
+{
+    "name": "null",
+    "short_name": "shopping_bags",
+    "category": "Smileys &amp; People",
+    "image": "1f6cd-fe0f.png",
+    "pattern": ":sp00106:"
+},
+{
+    "name": "ZIPPER-MOUTH FACE",
+    "short_name": "zipper_mouth_face",
+    "category": "Smileys &amp; People",
+    "image": "1f910.png",
+    "pattern": ":sp00107:"
+},
+{
+    "name": "MONEY-MOUTH FACE",
+    "short_name": "money_mouth_face",
+    "category": "Smileys &amp; People",
+    "image": "1f911.png",
+    "pattern": ":sp00108:"
+},
+{
+    "name": "FACE WITH THERMOMETER",
+    "short_name": "face_with_thermometer",
+    "category": "Smileys &amp; People",
+    "image": "1f912.png",
+    "pattern": ":sp00109:"
+},
+{
+    "name": "NERD FACE",
+    "short_name": "nerd_face",
+    "category": "Smileys &amp; People",
+    "image": "1f913.png",
+    "pattern": ":sp00110:"
+},
+{
+    "name": "THINKING FACE",
+    "short_name": "thinking_face",
+    "category": "Smileys &amp; People",
+    "image": "1f914.png",
+    "pattern": ":sp00111:"
+},
+{
+    "name": "FACE WITH HEAD-BANDAGE",
+    "short_name": "face_with_head_bandage",
+    "category": "Smileys &amp; People",
+    "image": "1f915.png",
+    "pattern": ":sp00112:"
+},
+{
+    "name": "ROBOT FACE",
+    "short_name": "robot_face",
+    "category": "Smileys &amp; People",
+    "image": "1f916.png",
+    "pattern": ":sp00113:"
+},
+{
+    "name": "HUGGING FACE",
+    "short_name": "hugging_face",
+    "category": "Smileys &amp; People",
+    "image": "1f917.png",
+    "pattern": ":sp00114:"
+},
+{
+    "name": "SIGN OF THE HORNS",
+    "short_name": "the_horns",
+    "category": "Smileys &amp; People",
+    "image": "1f918.png",
+    "pattern": ":sp00115:"
+},
+{
+    "name": "CALL ME HAND",
+    "short_name": "call_me_hand",
+    "category": "Smileys &amp; People",
+    "image": "1f919.png",
+    "pattern": ":sp00116:"
+},
+{
+    "name": "RAISED BACK OF HAND",
+    "short_name": "raised_back_of_hand",
+    "category": "Smileys &amp; People",
+    "image": "1f91a.png",
+    "pattern": ":sp00117:"
+},
+{
+    "name": "LEFT-FACING FIST",
+    "short_name": "left-facing_fist",
+    "category": "Smileys &amp; People",
+    "image": "1f91b.png",
+    "pattern": ":sp00118:"
+},
+{
+    "name": "RIGHT-FACING FIST",
+    "short_name": "right-facing_fist",
+    "category": "Smileys &amp; People",
+    "image": "1f91c.png",
+    "pattern": ":sp00119:"
+},
+{
+    "name": "HANDSHAKE",
+    "short_name": "handshake",
+    "category": "Smileys &amp; People",
+    "image": "1f91d.png",
+    "pattern": ":sp00120:"
+},
+{
+    "name": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+    "short_name": "crossed_fingers",
+    "category": "Smileys &amp; People",
+    "image": "1f91e.png",
+    "pattern": ":sp00121:"
+},
+{
+    "name": "I LOVE YOU HAND SIGN",
+    "short_name": "i_love_you_hand_sign",
+    "category": "Smileys &amp; People",
+    "image": "1f91f.png",
+    "pattern": ":sp00122:"
+},
+{
+    "name": "FACE WITH COWBOY HAT",
+    "short_name": "face_with_cowboy_hat",
+    "category": "Smileys &amp; People",
+    "image": "1f920.png",
+    "pattern": ":sp00123:"
+},
+{
+    "name": "CLOWN FACE",
+    "short_name": "clown_face",
+    "category": "Smileys &amp; People",
+    "image": "1f921.png",
+    "pattern": ":sp00124:"
+},
+{
+    "name": "NAUSEATED FACE",
+    "short_name": "nauseated_face",
+    "category": "Smileys &amp; People",
+    "image": "1f922.png",
+    "pattern": ":sp00125:"
+},
+{
+    "name": "ROLLING ON THE FLOOR LAUGHING",
+    "short_name": "rolling_on_the_floor_laughing",
+    "category": "Smileys &amp; People",
+    "image": "1f923.png",
+    "pattern": ":sp00126:"
+},
+{
+    "name": "DROOLING FACE",
+    "short_name": "drooling_face",
+    "category": "Smileys &amp; People",
+    "image": "1f924.png",
+    "pattern": ":sp00127:"
+},
+{
+    "name": "LYING FACE",
+    "short_name": "lying_face",
+    "category": "Smileys &amp; People",
+    "image": "1f925.png",
+    "pattern": ":sp00128:"
+},
+{
+    "name": "null",
+    "short_name": "woman-facepalming",
+    "category": "Smileys &amp; People",
+    "image": "1f926-200d-2640-fe0f.png",
+    "pattern": ":sp00129:"
+},
+{
+    "name": "null",
+    "short_name": "man-facepalming",
+    "category": "Smileys &amp; People",
+    "image": "1f926-200d-2642-fe0f.png",
+    "pattern": ":sp00130:"
+},
+{
+    "name": "FACE PALM",
+    "short_name": "face_palm",
+    "category": "Smileys &amp; People",
+    "image": "1f926.png",
+    "pattern": ":sp00131:"
+},
+{
+    "name": "SNEEZING FACE",
+    "short_name": "sneezing_face",
+    "category": "Smileys &amp; People",
+    "image": "1f927.png",
+    "pattern": ":sp00132:"
+},
+{
+    "name": "FACE WITH ONE EYEBROW RAISED",
+    "short_name": "face_with_raised_eyebrow",
+    "category": "Smileys &amp; People",
+    "image": "1f928.png",
+    "pattern": ":sp00133:"
+},
+{
+    "name": "GRINNING FACE WITH STAR EYES",
+    "short_name": "star-struck",
+    "category": "Smileys &amp; People",
+    "image": "1f929.png",
+    "pattern": ":sp00134:"
+},
+{
+    "name": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
+    "short_name": "zany_face",
+    "category": "Smileys &amp; People",
+    "image": "1f92a.png",
+    "pattern": ":sp00135:"
+},
+{
+    "name": "FACE WITH FINGER COVERING CLOSED LIPS",
+    "short_name": "shushing_face",
+    "category": "Smileys &amp; People",
+    "image": "1f92b.png",
+    "pattern": ":sp00136:"
+},
+{
+    "name": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
+    "short_name": "face_with_symbols_on_mouth",
+    "category": "Smileys &amp; People",
+    "image": "1f92c.png",
+    "pattern": ":sp00137:"
+},
+{
+    "name": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
+    "short_name": "face_with_hand_over_mouth",
+    "category": "Smileys &amp; People",
+    "image": "1f92d.png",
+    "pattern": ":sp00138:"
+},
+{
+    "name": "FACE WITH OPEN MOUTH VOMITING",
+    "short_name": "face_vomiting",
+    "category": "Smileys &amp; People",
+    "image": "1f92e.png",
+    "pattern": ":sp00139:"
+},
+{
+    "name": "SHOCKED FACE WITH EXPLODING HEAD",
+    "short_name": "exploding_head",
+    "category": "Smileys &amp; People",
+    "image": "1f92f.png",
+    "pattern": ":sp00140:"
+},
+{
+    "name": "PREGNANT WOMAN",
+    "short_name": "pregnant_woman",
+    "category": "Smileys &amp; People",
+    "image": "1f930.png",
+    "pattern": ":sp00141:"
+},
+{
+    "name": "BREAST-FEEDING",
+    "short_name": "breast-feeding",
+    "category": "Smileys &amp; People",
+    "image": "1f931.png",
+    "pattern": ":sp00142:"
+},
+{
+    "name": "PALMS UP TOGETHER",
+    "short_name": "palms_up_together",
+    "category": "Smileys &amp; People",
+    "image": "1f932.png",
+    "pattern": ":sp00143:"
+},
+{
+    "name": "SELFIE",
+    "short_name": "selfie",
+    "category": "Smileys &amp; People",
+    "image": "1f933.png",
+    "pattern": ":sp00144:"
+},
+{
+    "name": "PRINCE",
+    "short_name": "prince",
+    "category": "Smileys &amp; People",
+    "image": "1f934.png",
+    "pattern": ":sp00145:"
+},
+{
+    "name": "MAN IN TUXEDO",
+    "short_name": "man_in_tuxedo",
+    "category": "Smileys &amp; People",
+    "image": "1f935.png",
+    "pattern": ":sp00146:"
+},
+{
+    "name": "MOTHER CHRISTMAS",
+    "short_name": "mrs_claus",
+    "category": "Smileys &amp; People",
+    "image": "1f936.png",
+    "pattern": ":sp00147:"
+},
+{
+    "name": "null",
+    "short_name": "woman-shrugging",
+    "category": "Smileys &amp; People",
+    "image": "1f937-200d-2640-fe0f.png",
+    "pattern": ":sp00148:"
+},
+{
+    "name": "null",
+    "short_name": "man-shrugging",
+    "category": "Smileys &amp; People",
+    "image": "1f937-200d-2642-fe0f.png",
+    "pattern": ":sp00149:"
+},
+{
+    "name": "SHRUG",
+    "short_name": "shrug",
+    "category": "Smileys &amp; People",
+    "image": "1f937.png",
+    "pattern": ":sp00150:"
+},
+{
+    "name": "null",
+    "short_name": "woman-cartwheeling",
+    "category": "Smileys &amp; People",
+    "image": "1f938-200d-2640-fe0f.png",
+    "pattern": ":sp00151:"
+},
+{
+    "name": "null",
+    "short_name": "man-cartwheeling",
+    "category": "Smileys &amp; People",
+    "image": "1f938-200d-2642-fe0f.png",
+    "pattern": ":sp00152:"
+},
+{
+    "name": "PERSON DOING CARTWHEEL",
+    "short_name": "person_doing_cartwheel",
+    "category": "Smileys &amp; People",
+    "image": "1f938.png",
+    "pattern": ":sp00153:"
+},
+{
+    "name": "null",
+    "short_name": "woman-juggling",
+    "category": "Smileys &amp; People",
+    "image": "1f939-200d-2640-fe0f.png",
+    "pattern": ":sp00154:"
+},
+{
+    "name": "null",
+    "short_name": "man-juggling",
+    "category": "Smileys &amp; People",
+    "image": "1f939-200d-2642-fe0f.png",
+    "pattern": ":sp00155:"
+},
+{
+    "name": "JUGGLING",
+    "short_name": "juggling",
+    "category": "Smileys &amp; People",
+    "image": "1f939.png",
+    "pattern": ":sp00156:"
+},
+{
+    "name": "FENCER",
+    "short_name": "fencer",
+    "category": "Smileys &amp; People",
+    "image": "1f93a.png",
+    "pattern": ":sp00157:"
+},
+{
+    "name": "null",
+    "short_name": "woman-wrestling",
+    "category": "Smileys &amp; People",
+    "image": "1f93c-200d-2640-fe0f.png",
+    "pattern": ":sp00158:"
+},
+{
+    "name": "null",
+    "short_name": "man-wrestling",
+    "category": "Smileys &amp; People",
+    "image": "1f93c-200d-2642-fe0f.png",
+    "pattern": ":sp00159:"
+},
+{
+    "name": "WRESTLERS",
+    "short_name": "wrestlers",
+    "category": "Smileys &amp; People",
+    "image": "1f93c.png",
+    "pattern": ":sp00160:"
+},
+{
+    "name": "null",
+    "short_name": "woman-playing-water-polo",
+    "category": "Smileys &amp; People",
+    "image": "1f93d-200d-2640-fe0f.png",
+    "pattern": ":sp00161:"
+},
+{
+    "name": "null",
+    "short_name": "man-playing-water-polo",
+    "category": "Smileys &amp; People",
+    "image": "1f93d-200d-2642-fe0f.png",
+    "pattern": ":sp00162:"
+},
+{
+    "name": "WATER POLO",
+    "short_name": "water_polo",
+    "category": "Smileys &amp; People",
+    "image": "1f93d.png",
+    "pattern": ":sp00163:"
+},
+{
+    "name": "null",
+    "short_name": "woman-playing-handball",
+    "category": "Smileys &amp; People",
+    "image": "1f93e-200d-2640-fe0f.png",
+    "pattern": ":sp00164:"
+},
+{
+    "name": "null",
+    "short_name": "man-playing-handball",
+    "category": "Smileys &amp; People",
+    "image": "1f93e-200d-2642-fe0f.png",
+    "pattern": ":sp00165:"
+},
+{
+    "name": "HANDBALL",
+    "short_name": "handball",
+    "category": "Smileys &amp; People",
+    "image": "1f93e.png",
+    "pattern": ":sp00166:"
+},
+{
+    "name": "FACE WITH MONOCLE",
+    "short_name": "face_with_monocle",
+    "category": "Smileys &amp; People",
+    "image": "1f9d0.png",
+    "pattern": ":sp00167:"
+},
+{
+    "name": "ADULT",
+    "short_name": "adult",
+    "category": "Smileys &amp; People",
+    "image": "1f9d1.png",
+    "pattern": ":sp00168:"
+},
+{
+    "name": "CHILD",
+    "short_name": "child",
+    "category": "Smileys &amp; People",
+    "image": "1f9d2.png",
+    "pattern": ":sp00169:"
+},
+{
+    "name": "OLDER ADULT",
+    "short_name": "older_adult",
+    "category": "Smileys &amp; People",
+    "image": "1f9d3.png",
+    "pattern": ":sp00170:"
+},
+{
+    "name": "BEARDED PERSON",
+    "short_name": "bearded_person",
+    "category": "Smileys &amp; People",
+    "image": "1f9d4.png",
+    "pattern": ":sp00171:"
+},
+{
+    "name": "PERSON WITH HEADSCARF",
+    "short_name": "person_with_headscarf",
+    "category": "Smileys &amp; People",
+    "image": "1f9d5.png",
+    "pattern": ":sp00172:"
+},
+{
+    "name": "null",
+    "short_name": "woman_in_steamy_room",
+    "category": "Smileys &amp; People",
+    "image": "1f9d6-200d-2640-fe0f.png",
+    "pattern": ":sp00173:"
+},
+{
+    "name": "null",
+    "short_name": "man_in_steamy_room",
+    "category": "Smileys &amp; People",
+    "image": "1f9d6-200d-2642-fe0f.png",
+    "pattern": ":sp00174:"
+},
+{
+    "name": "PERSON IN STEAMY ROOM",
+    "short_name": "person_in_steamy_room",
+    "category": "Smileys &amp; People",
+    "image": "1f9d6.png",
+    "pattern": ":sp00175:"
+},
+{
+    "name": "null",
+    "short_name": "woman_climbing",
+    "category": "Smileys &amp; People",
+    "image": "1f9d7-200d-2640-fe0f.png",
+    "pattern": ":sp00176:"
+},
+{
+    "name": "null",
+    "short_name": "man_climbing",
+    "category": "Smileys &amp; People",
+    "image": "1f9d7-200d-2642-fe0f.png",
+    "pattern": ":sp00177:"
+},
+{
+    "name": "PERSON CLIMBING",
+    "short_name": "person_climbing",
+    "category": "Smileys &amp; People",
+    "image": "1f9d7.png",
+    "pattern": ":sp00178:"
+},
+{
+    "name": "null",
+    "short_name": "woman_in_lotus_position",
+    "category": "Smileys &amp; People",
+    "image": "1f9d8-200d-2640-fe0f.png",
+    "pattern": ":sp00179:"
+},
+{
+    "name": "null",
+    "short_name": "man_in_lotus_position",
+    "category": "Smileys &amp; People",
+    "image": "1f9d8-200d-2642-fe0f.png",
+    "pattern": ":sp00180:"
+},
+{
+    "name": "PERSON IN LOTUS POSITION",
+    "short_name": "person_in_lotus_position",
+    "category": "Smileys &amp; People",
+    "image": "1f9d8.png",
+    "pattern": ":sp00181:"
+},
+{
+    "name": "null",
+    "short_name": "female_mage",
+    "category": "Smileys &amp; People",
+    "image": "1f9d9-200d-2640-fe0f.png",
+    "pattern": ":sp00182:"
+},
+{
+    "name": "null",
+    "short_name": "male_mage",
+    "category": "Smileys &amp; People",
+    "image": "1f9d9-200d-2642-fe0f.png",
+    "pattern": ":sp00183:"
+},
+{
+    "name": "MAGE",
+    "short_name": "mage",
+    "category": "Smileys &amp; People",
+    "image": "1f9d9.png",
+    "pattern": ":sp00184:"
+},
+{
+    "name": "null",
+    "short_name": "female_fairy",
+    "category": "Smileys &amp; People",
+    "image": "1f9da-200d-2640-fe0f.png",
+    "pattern": ":sp00185:"
+},
+{
+    "name": "null",
+    "short_name": "male_fairy",
+    "category": "Smileys &amp; People",
+    "image": "1f9da-200d-2642-fe0f.png",
+    "pattern": ":sp00186:"
+},
+{
+    "name": "FAIRY",
+    "short_name": "fairy",
+    "category": "Smileys &amp; People",
+    "image": "1f9da.png",
+    "pattern": ":sp00187:"
+},
+{
+    "name": "null",
+    "short_name": "female_vampire",
+    "category": "Smileys &amp; People",
+    "image": "1f9db-200d-2640-fe0f.png",
+    "pattern": ":sp00188:"
+},
+{
+    "name": "null",
+    "short_name": "male_vampire",
+    "category": "Smileys &amp; People",
+    "image": "1f9db-200d-2642-fe0f.png",
+    "pattern": ":sp00189:"
+},
+{
+    "name": "VAMPIRE",
+    "short_name": "vampire",
+    "category": "Smileys &amp; People",
+    "image": "1f9db.png",
+    "pattern": ":sp00190:"
+},
+{
+    "name": "null",
+    "short_name": "mermaid",
+    "category": "Smileys &amp; People",
+    "image": "1f9dc-200d-2640-fe0f.png",
+    "pattern": ":sp00191:"
+},
+{
+    "name": "null",
+    "short_name": "merman",
+    "category": "Smileys &amp; People",
+    "image": "1f9dc-200d-2642-fe0f.png",
+    "pattern": ":sp00192:"
+},
+{
+    "name": "MERPERSON",
+    "short_name": "merperson",
+    "category": "Smileys &amp; People",
+    "image": "1f9dc.png",
+    "pattern": ":sp00193:"
+},
+{
+    "name": "null",
+    "short_name": "female_elf",
+    "category": "Smileys &amp; People",
+    "image": "1f9dd-200d-2640-fe0f.png",
+    "pattern": ":sp00194:"
+},
+{
+    "name": "null",
+    "short_name": "male_elf",
+    "category": "Smileys &amp; People",
+    "image": "1f9dd-200d-2642-fe0f.png",
+    "pattern": ":sp00195:"
+},
+{
+    "name": "ELF",
+    "short_name": "elf",
+    "category": "Smileys &amp; People",
+    "image": "1f9dd.png",
+    "pattern": ":sp00196:"
+},
+{
+    "name": "null",
+    "short_name": "female_genie",
+    "category": "Smileys &amp; People",
+    "image": "1f9de-200d-2640-fe0f.png",
+    "pattern": ":sp00197:"
+},
+{
+    "name": "null",
+    "short_name": "male_genie",
+    "category": "Smileys &amp; People",
+    "image": "1f9de-200d-2642-fe0f.png",
+    "pattern": ":sp00198:"
+},
+{
+    "name": "GENIE",
+    "short_name": "genie",
+    "category": "Smileys &amp; People",
+    "image": "1f9de.png",
+    "pattern": ":sp00199:"
+},
+{
+    "name": "null",
+    "short_name": "female_zombie",
+    "category": "Smileys &amp; People",
+    "image": "1f9df-200d-2640-fe0f.png",
+    "pattern": ":sp00200:"
+},
+{
+    "name": "null",
+    "short_name": "male_zombie",
+    "category": "Smileys &amp; People",
+    "image": "1f9df-200d-2642-fe0f.png",
+    "pattern": ":sp00201:"
+},
+{
+    "name": "ZOMBIE",
+    "short_name": "zombie",
+    "category": "Smileys &amp; People",
+    "image": "1f9df.png",
+    "pattern": ":sp00202:"
+},
+{
+    "name": "BRAIN",
+    "short_name": "brain",
+    "category": "Smileys &amp; People",
+    "image": "1f9e0.png",
+    "pattern": ":sp00203:"
+},
+{
+    "name": "ORANGE HEART",
+    "short_name": "orange_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f9e1.png",
+    "pattern": ":sp00204:"
+},
+{
+    "name": "BILLED CAP",
+    "short_name": "billed_cap",
+    "category": "Smileys &amp; People",
+    "image": "1f9e2.png",
+    "pattern": ":sp00205:"
+},
+{
+    "name": "SCARF",
+    "short_name": "scarf",
+    "category": "Smileys &amp; People",
+    "image": "1f9e3.png",
+    "pattern": ":sp00206:"
+},
+{
+    "name": "GLOVES",
+    "short_name": "gloves",
+    "category": "Smileys &amp; People",
+    "image": "1f9e4.png",
+    "pattern": ":sp00207:"
+},
+{
+    "name": "COAT",
+    "short_name": "coat",
+    "category": "Smileys &amp; People",
+    "image": "1f9e5.png",
+    "pattern": ":sp00208:"
+},
+{
+    "name": "SOCKS",
+    "short_name": "socks",
+    "category": "Smileys &amp; People",
+    "image": "1f9e6.png",
+    "pattern": ":sp00209:"
+},
+{
+    "name": "WHITE UP POINTING INDEX",
+    "short_name": "point_up",
+    "category": "Smileys &amp; People",
+    "image": "261d-fe0f.png",
+    "pattern": ":sp00210:"
+},
+{
+    "name": "null",
+    "short_name": "skull_and_crossbones",
+    "category": "Smileys &amp; People",
+    "image": "2620-fe0f.png",
+    "pattern": ":sp00211:"
+},
+{
+    "name": "null",
+    "short_name": "white_frowning_face",
+    "category": "Smileys &amp; People",
+    "image": "2639-fe0f.png",
+    "pattern": ":sp00212:"
+},
+{
+    "name": "WHITE SMILING FACE",
+    "short_name": "relaxed",
+    "category": "Smileys &amp; People",
+    "image": "263a-fe0f.png",
+    "pattern": ":sp00213:"
+},
+{
+    "name": "null",
+    "short_name": "helmet_with_white_cross",
+    "category": "Smileys &amp; People",
+    "image": "26d1-fe0f.png",
+    "pattern": ":sp00214:"
+},
+{
+    "name": "null",
+    "short_name": "skier",
+    "category": "Smileys &amp; People",
+    "image": "26f7-fe0f.png",
+    "pattern": ":sp00215:"
+},
+{
+    "name": "null",
+    "short_name": "woman-bouncing-ball",
+    "category": "Smileys &amp; People",
+    "image": "26f9-fe0f-200d-2640-fe0f.png",
+    "pattern": ":sp00216:"
+},
+{
+    "name": "null",
+    "short_name": "man-bouncing-ball",
+    "category": "Smileys &amp; People",
+    "image": "26f9-fe0f-200d-2642-fe0f.png",
+    "pattern": ":sp00217:"
+},
+{
+    "name": "null",
+    "short_name": "person_with_ball",
+    "category": "Smileys &amp; People",
+    "image": "26f9-fe0f.png",
+    "pattern": ":sp00218:"
+},
+{
+    "name": "RAISED FIST",
+    "short_name": "fist",
+    "category": "Smileys &amp; People",
+    "image": "270a.png",
+    "pattern": ":sp00219:"
+},
+{
+    "name": "RAISED HAND",
+    "short_name": "hand",
+    "category": "Smileys &amp; People",
+    "image": "270b.png",
+    "pattern": ":sp00220:"
+},
+{
+    "name": "VICTORY HAND",
+    "short_name": "v",
+    "category": "Smileys &amp; People",
+    "image": "270c-fe0f.png",
+    "pattern": ":sp00221:"
+},
+{
+    "name": "null",
+    "short_name": "writing_hand",
+    "category": "Smileys &amp; People",
+    "image": "270d-fe0f.png",
+    "pattern": ":sp00222:"
+},
+{
+    "name": "null",
+    "short_name": "heavy_heart_exclamation_mark_ornament",
+    "category": "Smileys &amp; People",
+    "image": "2763-fe0f.png",
+    "pattern": ":sp00223:"
+},
+{
+    "name": "HEAVY BLACK HEART",
+    "short_name": "heart",
+    "category": "Smileys &amp; People",
+    "image": "2764-fe0f.png",
+    "pattern": ":sp00224:"
+},
+{
+    "name": "FATHER CHRISTMAS",
+    "short_name": "santa",
+    "category": "Smileys &amp; People",
+    "image": "1f385.png",
+    "pattern": ":sp00225:"
+},
+{
+    "name": "SCHOOL SATCHEL",
+    "short_name": "school_satchel",
+    "category": "Smileys &amp; People",
+    "image": "1f392.png",
+    "pattern": ":sp00226:"
+},
+{
+    "name": "GRADUATION CAP",
+    "short_name": "mortar_board",
+    "category": "Smileys &amp; People",
+    "image": "1f393.png",
+    "pattern": ":sp00227:"
+},
+{
+    "name": "TOP HAT",
+    "short_name": "tophat",
+    "category": "Smileys &amp; People",
+    "image": "1f3a9.png",
+    "pattern": ":sp00228:"
+},
+{
+    "name": "SNOWBOARDER",
+    "short_name": "snowboarder",
+    "category": "Smileys &amp; People",
+    "image": "1f3c2.png",
+    "pattern": ":sp00229:"
+},
+{
+    "name": "null",
+    "short_name": "woman-running",
+    "category": "Smileys &amp; People",
+    "image": "1f3c3-200d-2640-fe0f.png",
+    "pattern": ":sp00230:"
+},
+{
+    "name": "null",
+    "short_name": "man-running",
+    "category": "Smileys &amp; People",
+    "image": "1f3c3-200d-2642-fe0f.png",
+    "pattern": ":sp00231:"
+},
+{
+    "name": "RUNNER",
+    "short_name": "runner",
+    "category": "Smileys &amp; People",
+    "image": "1f3c3.png",
+    "pattern": ":sp00232:"
+},
+{
+    "name": "null",
+    "short_name": "woman-surfing",
+    "category": "Smileys &amp; People",
+    "image": "1f3c4-200d-2640-fe0f.png",
+    "pattern": ":sp00233:"
+},
+{
+    "name": "null",
+    "short_name": "man-surfing",
+    "category": "Smileys &amp; People",
+    "image": "1f3c4-200d-2642-fe0f.png",
+    "pattern": ":sp00234:"
+},
+{
+    "name": "SURFER",
+    "short_name": "surfer",
+    "category": "Smileys &amp; People",
+    "image": "1f3c4.png",
+    "pattern": ":sp00235:"
+},
+{
+    "name": "HORSE RACING",
+    "short_name": "horse_racing",
+    "category": "Smileys &amp; People",
+    "image": "1f3c7.png",
+    "pattern": ":sp00236:"
+},
+{
+    "name": "null",
+    "short_name": "woman-swimming",
+    "category": "Smileys &amp; People",
+    "image": "1f3ca-200d-2640-fe0f.png",
+    "pattern": ":sp00237:"
+},
+{
+    "name": "null",
+    "short_name": "man-swimming",
+    "category": "Smileys &amp; People",
+    "image": "1f3ca-200d-2642-fe0f.png",
+    "pattern": ":sp00238:"
+},
+{
+    "name": "SWIMMER",
+    "short_name": "swimmer",
+    "category": "Smileys &amp; People",
+    "image": "1f3ca.png",
+    "pattern": ":sp00239:"
+},
+{
+    "name": "null",
+    "short_name": "woman-lifting-weights",
+    "category": "Smileys &amp; People",
+    "image": "1f3cb-fe0f-200d-2640-fe0f.png",
+    "pattern": ":sp00240:"
+},
+{
+    "name": "null",
+    "short_name": "man-lifting-weights",
+    "category": "Smileys &amp; People",
+    "image": "1f3cb-fe0f-200d-2642-fe0f.png",
+    "pattern": ":sp00241:"
+},
+{
+    "name": "null",
+    "short_name": "weight_lifter",
+    "category": "Smileys &amp; People",
+    "image": "1f3cb-fe0f.png",
+    "pattern": ":sp00242:"
+},
+{
+    "name": "null",
+    "short_name": "woman-golfing",
+    "category": "Smileys &amp; People",
+    "image": "1f3cc-fe0f-200d-2640-fe0f.png",
+    "pattern": ":sp00243:"
+},
+{
+    "name": "null",
+    "short_name": "man-golfing",
+    "category": "Smileys &amp; People",
+    "image": "1f3cc-fe0f-200d-2642-fe0f.png",
+    "pattern": ":sp00244:"
+},
+{
+    "name": "null",
+    "short_name": "golfer",
+    "category": "Smileys &amp; People",
+    "image": "1f3cc-fe0f.png",
+    "pattern": ":sp00245:"
+},
+{
+    "name": "null",
+    "short_name": "racing_motorcycle",
+    "category": "Smileys &amp; People",
+    "image": "1f3cd-fe0f.png",
+    "pattern": ":sp00246:"
+},
+{
+    "name": "null",
+    "short_name": "racing_car",
+    "category": "Smileys &amp; People",
+    "image": "1f3ce-fe0f.png",
+    "pattern": ":sp00247:"
+},
+{
+    "name": "EYES",
+    "short_name": "eyes",
+    "category": "Smileys &amp; People",
+    "image": "1f440.png",
+    "pattern": ":sp00248:"
+},
+{
+    "name": "null",
+    "short_name": "eye-in-speech-bubble",
+    "category": "Smileys &amp; People",
+    "image": "1f441-fe0f-200d-1f5e8-fe0f.png",
+    "pattern": ":sp00249:"
+},
+{
+    "name": "null",
+    "short_name": "eye",
+    "category": "Smileys &amp; People",
+    "image": "1f441-fe0f.png",
+    "pattern": ":sp00250:"
+},
+{
+    "name": "EAR",
+    "short_name": "ear",
+    "category": "Smileys &amp; People",
+    "image": "1f442.png",
+    "pattern": ":sp00251:"
+},
+{
+    "name": "NOSE",
+    "short_name": "nose",
+    "category": "Smileys &amp; People",
+    "image": "1f443.png",
+    "pattern": ":sp00252:"
+},
+{
+    "name": "MOUTH",
+    "short_name": "lips",
+    "category": "Smileys &amp; People",
+    "image": "1f444.png",
+    "pattern": ":sp00253:"
+},
+{
+    "name": "TONGUE",
+    "short_name": "tongue",
+    "category": "Smileys &amp; People",
+    "image": "1f445.png",
+    "pattern": ":sp00254:"
+},
+{
+    "name": "WHITE UP POINTING BACKHAND INDEX",
+    "short_name": "point_up_2",
+    "category": "Smileys &amp; People",
+    "image": "1f446.png",
+    "pattern": ":sp00255:"
+},
+{
+    "name": "WHITE DOWN POINTING BACKHAND INDEX",
+    "short_name": "point_down",
+    "category": "Smileys &amp; People",
+    "image": "1f447.png",
+    "pattern": ":sp00256:"
+},
+{
+    "name": "WHITE LEFT POINTING BACKHAND INDEX",
+    "short_name": "point_left",
+    "category": "Smileys &amp; People",
+    "image": "1f448.png",
+    "pattern": ":sp00257:"
+},
+{
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX",
+    "short_name": "point_right",
+    "category": "Smileys &amp; People",
+    "image": "1f449.png",
+    "pattern": ":sp00258:"
+},
+{
+    "name": "FISTED HAND SIGN",
+    "short_name": "facepunch",
+    "category": "Smileys &amp; People",
+    "image": "1f44a.png",
+    "pattern": ":sp00259:"
+},
+{
+    "name": "WAVING HAND SIGN",
+    "short_name": "wave",
+    "category": "Smileys &amp; People",
+    "image": "1f44b.png",
+    "pattern": ":sp00260:"
+},
+{
+    "name": "OK HAND SIGN",
+    "short_name": "ok_hand",
+    "category": "Smileys &amp; People",
+    "image": "1f44c.png",
+    "pattern": ":sp00261:"
+},
+{
+    "name": "THUMBS UP SIGN",
+    "short_name": "+1",
+    "category": "Smileys &amp; People",
+    "image": "1f44d.png",
+    "pattern": ":sp00262:"
+},
+{
+    "name": "THUMBS DOWN SIGN",
+    "short_name": "-1",
+    "category": "Smileys &amp; People",
+    "image": "1f44e.png",
+    "pattern": ":sp00263:"
+},
+{
+    "name": "CLAPPING HANDS SIGN",
+    "short_name": "clap",
+    "category": "Smileys &amp; People",
+    "image": "1f44f.png",
+    "pattern": ":sp00264:"
+},
+{
+    "name": "OPEN HANDS SIGN",
+    "short_name": "open_hands",
+    "category": "Smileys &amp; People",
+    "image": "1f450.png",
+    "pattern": ":sp00265:"
+},
+{
+    "name": "CROWN",
+    "short_name": "crown",
+    "category": "Smileys &amp; People",
+    "image": "1f451.png",
+    "pattern": ":sp00266:"
+},
+{
+    "name": "WOMANS HAT",
+    "short_name": "womans_hat",
+    "category": "Smileys &amp; People",
+    "image": "1f452.png",
+    "pattern": ":sp00267:"
+},
+{
+    "name": "EYEGLASSES",
+    "short_name": "eyeglasses",
+    "category": "Smileys &amp; People",
+    "image": "1f453.png",
+    "pattern": ":sp00268:"
+},
+{
+    "name": "NECKTIE",
+    "short_name": "necktie",
+    "category": "Smileys &amp; People",
+    "image": "1f454.png",
+    "pattern": ":sp00269:"
+},
+{
+    "name": "T-SHIRT",
+    "short_name": "shirt",
+    "category": "Smileys &amp; People",
+    "image": "1f455.png",
+    "pattern": ":sp00270:"
+},
+{
+    "name": "JEANS",
+    "short_name": "jeans",
+    "category": "Smileys &amp; People",
+    "image": "1f456.png",
+    "pattern": ":sp00271:"
+},
+{
+    "name": "DRESS",
+    "short_name": "dress",
+    "category": "Smileys &amp; People",
+    "image": "1f457.png",
+    "pattern": ":sp00272:"
+},
+{
+    "name": "KIMONO",
+    "short_name": "kimono",
+    "category": "Smileys &amp; People",
+    "image": "1f458.png",
+    "pattern": ":sp00273:"
+},
+{
+    "name": "BIKINI",
+    "short_name": "bikini",
+    "category": "Smileys &amp; People",
+    "image": "1f459.png",
+    "pattern": ":sp00274:"
+},
+{
+    "name": "WOMANS CLOTHES",
+    "short_name": "womans_clothes",
+    "category": "Smileys &amp; People",
+    "image": "1f45a.png",
+    "pattern": ":sp00275:"
+},
+{
+    "name": "PURSE",
+    "short_name": "purse",
+    "category": "Smileys &amp; People",
+    "image": "1f45b.png",
+    "pattern": ":sp00276:"
+},
+{
+    "name": "HANDBAG",
+    "short_name": "handbag",
+    "category": "Smileys &amp; People",
+    "image": "1f45c.png",
+    "pattern": ":sp00277:"
+},
+{
+    "name": "POUCH",
+    "short_name": "pouch",
+    "category": "Smileys &amp; People",
+    "image": "1f45d.png",
+    "pattern": ":sp00278:"
+},
+{
+    "name": "MANS SHOE",
+    "short_name": "mans_shoe",
+    "category": "Smileys &amp; People",
+    "image": "1f45e.png",
+    "pattern": ":sp00279:"
+},
+{
+    "name": "ATHLETIC SHOE",
+    "short_name": "athletic_shoe",
+    "category": "Smileys &amp; People",
+    "image": "1f45f.png",
+    "pattern": ":sp00280:"
+},
+{
+    "name": "HIGH-HEELED SHOE",
+    "short_name": "high_heel",
+    "category": "Smileys &amp; People",
+    "image": "1f460.png",
+    "pattern": ":sp00281:"
+},
+{
+    "name": "WOMANS SANDAL",
+    "short_name": "sandal",
+    "category": "Smileys &amp; People",
+    "image": "1f461.png",
+    "pattern": ":sp00282:"
+},
+{
+    "name": "WOMANS BOOTS",
+    "short_name": "boot",
+    "category": "Smileys &amp; People",
+    "image": "1f462.png",
+    "pattern": ":sp00283:"
+},
+{
+    "name": "FOOTPRINTS",
+    "short_name": "footprints",
+    "category": "Smileys &amp; People",
+    "image": "1f463.png",
+    "pattern": ":sp00284:"
+},
+{
+    "name": "BUST IN SILHOUETTE",
+    "short_name": "bust_in_silhouette",
+    "category": "Smileys &amp; People",
+    "image": "1f464.png",
+    "pattern": ":sp00285:"
+},
+{
+    "name": "BUSTS IN SILHOUETTE",
+    "short_name": "busts_in_silhouette",
+    "category": "Smileys &amp; People",
+    "image": "1f465.png",
+    "pattern": ":sp00286:"
+},
+{
+    "name": "BOY",
+    "short_name": "boy",
+    "category": "Smileys &amp; People",
+    "image": "1f466.png",
+    "pattern": ":sp00287:"
+},
+{
+    "name": "GIRL",
+    "short_name": "girl",
+    "category": "Smileys &amp; People",
+    "image": "1f467.png",
+    "pattern": ":sp00288:"
+},
+{
+    "name": "null",
+    "short_name": "male-farmer",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f33e.png",
+    "pattern": ":sp00289:"
+},
+{
+    "name": "null",
+    "short_name": "male-cook",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f373.png",
+    "pattern": ":sp00290:"
+},
+{
+    "name": "null",
+    "short_name": "male-student",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f393.png",
+    "pattern": ":sp00291:"
+},
+{
+    "name": "null",
+    "short_name": "male-singer",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f3a4.png",
+    "pattern": ":sp00292:"
+},
+{
+    "name": "null",
+    "short_name": "male-artist",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f3a8.png",
+    "pattern": ":sp00293:"
+},
+{
+    "name": "null",
+    "short_name": "male-teacher",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f3eb.png",
+    "pattern": ":sp00294:"
+},
+{
+    "name": "null",
+    "short_name": "male-factory-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f3ed.png",
+    "pattern": ":sp00295:"
+},
+{
+    "name": "null",
+    "short_name": "man-boy-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f466-200d-1f466.png",
+    "pattern": ":sp00296:"
+},
+{
+    "name": "null",
+    "short_name": "man-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f466.png",
+    "pattern": ":sp00297:"
+},
+{
+    "name": "null",
+    "short_name": "man-girl-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f467-200d-1f466.png",
+    "pattern": ":sp00298:"
+},
+{
+    "name": "null",
+    "short_name": "man-girl-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f467-200d-1f467.png",
+    "pattern": ":sp00299:"
+},
+{
+    "name": "null",
+    "short_name": "man-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f467.png",
+    "pattern": ":sp00300:"
+},
+{
+    "name": "null",
+    "short_name": "man-man-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f468-200d-1f466.png",
+    "pattern": ":sp00301:"
+},
+{
+    "name": "null",
+    "short_name": "man-man-boy-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f468-200d-1f466-200d-1f466.png",
+    "pattern": ":sp00302:"
+},
+{
+    "name": "null",
+    "short_name": "man-man-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f468-200d-1f467.png",
+    "pattern": ":sp00303:"
+},
+{
+    "name": "null",
+    "short_name": "man-man-girl-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f468-200d-1f467-200d-1f466.png",
+    "pattern": ":sp00304:"
+},
+{
+    "name": "null",
+    "short_name": "man-man-girl-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f468-200d-1f467-200d-1f467.png",
+    "pattern": ":sp00305:"
+},
+{
+    "name": "null",
+    "short_name": "man-woman-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f469-200d-1f466.png",
+    "pattern": ":sp00306:"
+},
+{
+    "name": "null",
+    "short_name": "man-woman-boy-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f469-200d-1f466-200d-1f466.png",
+    "pattern": ":sp00307:"
+},
+{
+    "name": "null",
+    "short_name": "man-woman-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f469-200d-1f467.png",
+    "pattern": ":sp00308:"
+},
+{
+    "name": "null",
+    "short_name": "man-woman-girl-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f469-200d-1f467-200d-1f466.png",
+    "pattern": ":sp00309:"
+},
+{
+    "name": "null",
+    "short_name": "man-woman-girl-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f469-200d-1f467-200d-1f467.png",
+    "pattern": ":sp00310:"
+},
+{
+    "name": "null",
+    "short_name": "male-technologist",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f4bb.png",
+    "pattern": ":sp00311:"
+},
+{
+    "name": "null",
+    "short_name": "male-office-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f4bc.png",
+    "pattern": ":sp00312:"
+},
+{
+    "name": "null",
+    "short_name": "male-mechanic",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f527.png",
+    "pattern": ":sp00313:"
+},
+{
+    "name": "null",
+    "short_name": "male-scientist",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f52c.png",
+    "pattern": ":sp00314:"
+},
+{
+    "name": "null",
+    "short_name": "male-astronaut",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f680.png",
+    "pattern": ":sp00315:"
+},
+{
+    "name": "null",
+    "short_name": "male-firefighter",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-1f692.png",
+    "pattern": ":sp00316:"
+},
+{
+    "name": "null",
+    "short_name": "male-doctor",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-2695-fe0f.png",
+    "pattern": ":sp00317:"
+},
+{
+    "name": "null",
+    "short_name": "male-judge",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-2696-fe0f.png",
+    "pattern": ":sp00318:"
+},
+{
+    "name": "null",
+    "short_name": "male-pilot",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-2708-fe0f.png",
+    "pattern": ":sp00319:"
+},
+{
+    "name": "null",
+    "short_name": "man-heart-man",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-2764-fe0f-200d-1f468.png",
+    "pattern": ":sp00320:"
+},
+{
+    "name": "null",
+    "short_name": "man-kiss-man",
+    "category": "Smileys &amp; People",
+    "image": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
+    "pattern": ":sp00321:"
+},
+{
+    "name": "MAN",
+    "short_name": "man",
+    "category": "Smileys &amp; People",
+    "image": "1f468.png",
+    "pattern": ":sp00322:"
+},
+{
+    "name": "null",
+    "short_name": "female-farmer",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f33e.png",
+    "pattern": ":sp00323:"
+},
+{
+    "name": "null",
+    "short_name": "female-cook",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f373.png",
+    "pattern": ":sp00324:"
+},
+{
+    "name": "null",
+    "short_name": "female-student",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f393.png",
+    "pattern": ":sp00325:"
+},
+{
+    "name": "null",
+    "short_name": "female-singer",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f3a4.png",
+    "pattern": ":sp00326:"
+},
+{
+    "name": "null",
+    "short_name": "female-artist",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f3a8.png",
+    "pattern": ":sp00327:"
+},
+{
+    "name": "null",
+    "short_name": "female-teacher",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f3eb.png",
+    "pattern": ":sp00328:"
+},
+{
+    "name": "null",
+    "short_name": "female-factory-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f3ed.png",
+    "pattern": ":sp00329:"
+},
+{
+    "name": "null",
+    "short_name": "woman-boy-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f466-200d-1f466.png",
+    "pattern": ":sp00330:"
+},
+{
+    "name": "null",
+    "short_name": "woman-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f466.png",
+    "pattern": ":sp00331:"
+},
+{
+    "name": "null",
+    "short_name": "woman-girl-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f467-200d-1f466.png",
+    "pattern": ":sp00332:"
+},
+{
+    "name": "null",
+    "short_name": "woman-girl-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f467-200d-1f467.png",
+    "pattern": ":sp00333:"
+},
+{
+    "name": "null",
+    "short_name": "woman-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f467.png",
+    "pattern": ":sp00334:"
+},
+{
+    "name": "null",
+    "short_name": "woman-woman-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f469-200d-1f466.png",
+    "pattern": ":sp00335:"
+},
+{
+    "name": "null",
+    "short_name": "woman-woman-boy-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f469-200d-1f466-200d-1f466.png",
+    "pattern": ":sp00336:"
+},
+{
+    "name": "null",
+    "short_name": "woman-woman-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f469-200d-1f467.png",
+    "pattern": ":sp00337:"
+},
+{
+    "name": "null",
+    "short_name": "woman-woman-girl-boy",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f469-200d-1f467-200d-1f466.png",
+    "pattern": ":sp00338:"
+},
+{
+    "name": "null",
+    "short_name": "woman-woman-girl-girl",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f469-200d-1f467-200d-1f467.png",
+    "pattern": ":sp00339:"
+},
+{
+    "name": "null",
+    "short_name": "female-technologist",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f4bb.png",
+    "pattern": ":sp00340:"
+},
+{
+    "name": "null",
+    "short_name": "female-office-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f4bc.png",
+    "pattern": ":sp00341:"
+},
+{
+    "name": "null",
+    "short_name": "female-mechanic",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f527.png",
+    "pattern": ":sp00342:"
+},
+{
+    "name": "null",
+    "short_name": "female-scientist",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f52c.png",
+    "pattern": ":sp00343:"
+},
+{
+    "name": "null",
+    "short_name": "female-astronaut",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f680.png",
+    "pattern": ":sp00344:"
+},
+{
+    "name": "null",
+    "short_name": "female-firefighter",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-1f692.png",
+    "pattern": ":sp00345:"
+},
+{
+    "name": "null",
+    "short_name": "female-doctor",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2695-fe0f.png",
+    "pattern": ":sp00346:"
+},
+{
+    "name": "null",
+    "short_name": "female-judge",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2696-fe0f.png",
+    "pattern": ":sp00347:"
+},
+{
+    "name": "null",
+    "short_name": "female-pilot",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2708-fe0f.png",
+    "pattern": ":sp00348:"
+},
+{
+    "name": "null",
+    "short_name": "woman-heart-man",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2764-fe0f-200d-1f468.png",
+    "pattern": ":sp00349:"
+},
+{
+    "name": "null",
+    "short_name": "woman-heart-woman",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2764-fe0f-200d-1f469.png",
+    "pattern": ":sp00350:"
+},
+{
+    "name": "null",
+    "short_name": "woman-kiss-man",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
+    "pattern": ":sp00351:"
+},
+{
+    "name": "null",
+    "short_name": "woman-kiss-woman",
+    "category": "Smileys &amp; People",
+    "image": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png",
+    "pattern": ":sp00352:"
+},
+{
+    "name": "WOMAN",
+    "short_name": "woman",
+    "category": "Smileys &amp; People",
+    "image": "1f469.png",
+    "pattern": ":sp00353:"
+},
+{
+    "name": "FAMILY",
+    "short_name": "family",
+    "category": "Smileys &amp; People",
+    "image": "1f46a.png",
+    "pattern": ":sp00354:"
+},
+{
+    "name": "MAN AND WOMAN HOLDING HANDS",
+    "short_name": "couple",
+    "category": "Smileys &amp; People",
+    "image": "1f46b.png",
+    "pattern": ":sp00355:"
+},
+{
+    "name": "TWO MEN HOLDING HANDS",
+    "short_name": "two_men_holding_hands",
+    "category": "Smileys &amp; People",
+    "image": "1f46c.png",
+    "pattern": ":sp00356:"
+},
+{
+    "name": "TWO WOMEN HOLDING HANDS",
+    "short_name": "two_women_holding_hands",
+    "category": "Smileys &amp; People",
+    "image": "1f46d.png",
+    "pattern": ":sp00357:"
+},
+{
+    "name": "null",
+    "short_name": "female-police-officer",
+    "category": "Smileys &amp; People",
+    "image": "1f46e-200d-2640-fe0f.png",
+    "pattern": ":sp00358:"
+},
+{
+    "name": "null",
+    "short_name": "male-police-officer",
+    "category": "Smileys &amp; People",
+    "image": "1f46e-200d-2642-fe0f.png",
+    "pattern": ":sp00359:"
+},
+{
+    "name": "POLICE OFFICER",
+    "short_name": "cop",
+    "category": "Smileys &amp; People",
+    "image": "1f46e.png",
+    "pattern": ":sp00360:"
+},
+{
+    "name": "null",
+    "short_name": "woman-with-bunny-ears-partying",
+    "category": "Smileys &amp; People",
+    "image": "1f46f-200d-2640-fe0f.png",
+    "pattern": ":sp00361:"
+},
+{
+    "name": "null",
+    "short_name": "man-with-bunny-ears-partying",
+    "category": "Smileys &amp; People",
+    "image": "1f46f-200d-2642-fe0f.png",
+    "pattern": ":sp00362:"
+},
+{
+    "name": "WOMAN WITH BUNNY EARS",
+    "short_name": "dancers",
+    "category": "Smileys &amp; People",
+    "image": "1f46f.png",
+    "pattern": ":sp00363:"
+},
+{
+    "name": "BRIDE WITH VEIL",
+    "short_name": "bride_with_veil",
+    "category": "Smileys &amp; People",
+    "image": "1f470.png",
+    "pattern": ":sp00364:"
+},
+{
+    "name": "null",
+    "short_name": "blond-haired-woman",
+    "category": "Smileys &amp; People",
+    "image": "1f471-200d-2640-fe0f.png",
+    "pattern": ":sp00365:"
+},
+{
+    "name": "null",
+    "short_name": "blond-haired-man",
+    "category": "Smileys &amp; People",
+    "image": "1f471-200d-2642-fe0f.png",
+    "pattern": ":sp00366:"
+},
+{
+    "name": "PERSON WITH BLOND HAIR",
+    "short_name": "person_with_blond_hair",
+    "category": "Smileys &amp; People",
+    "image": "1f471.png",
+    "pattern": ":sp00367:"
+},
+{
+    "name": "MAN WITH GUA PI MAO",
+    "short_name": "man_with_gua_pi_mao",
+    "category": "Smileys &amp; People",
+    "image": "1f472.png",
+    "pattern": ":sp00368:"
+},
+{
+    "name": "null",
+    "short_name": "woman-wearing-turban",
+    "category": "Smileys &amp; People",
+    "image": "1f473-200d-2640-fe0f.png",
+    "pattern": ":sp00369:"
+},
+{
+    "name": "null",
+    "short_name": "man-wearing-turban",
+    "category": "Smileys &amp; People",
+    "image": "1f473-200d-2642-fe0f.png",
+    "pattern": ":sp00370:"
+},
+{
+    "name": "MAN WITH TURBAN",
+    "short_name": "man_with_turban",
+    "category": "Smileys &amp; People",
+    "image": "1f473.png",
+    "pattern": ":sp00371:"
+},
+{
+    "name": "OLDER MAN",
+    "short_name": "older_man",
+    "category": "Smileys &amp; People",
+    "image": "1f474.png",
+    "pattern": ":sp00372:"
+},
+{
+    "name": "OLDER WOMAN",
+    "short_name": "older_woman",
+    "category": "Smileys &amp; People",
+    "image": "1f475.png",
+    "pattern": ":sp00373:"
+},
+{
+    "name": "BABY",
+    "short_name": "baby",
+    "category": "Smileys &amp; People",
+    "image": "1f476.png",
+    "pattern": ":sp00374:"
+},
+{
+    "name": "null",
+    "short_name": "female-construction-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f477-200d-2640-fe0f.png",
+    "pattern": ":sp00375:"
+},
+{
+    "name": "null",
+    "short_name": "male-construction-worker",
+    "category": "Smileys &amp; People",
+    "image": "1f477-200d-2642-fe0f.png",
+    "pattern": ":sp00376:"
+},
+{
+    "name": "CONSTRUCTION WORKER",
+    "short_name": "construction_worker",
+    "category": "Smileys &amp; People",
+    "image": "1f477.png",
+    "pattern": ":sp00377:"
+},
+{
+    "name": "PRINCESS",
+    "short_name": "princess",
+    "category": "Smileys &amp; People",
+    "image": "1f478.png",
+    "pattern": ":sp00378:"
+},
+{
+    "name": "JAPANESE OGRE",
+    "short_name": "japanese_ogre",
+    "category": "Smileys &amp; People",
+    "image": "1f479.png",
+    "pattern": ":sp00379:"
+},
+{
+    "name": "JAPANESE GOBLIN",
+    "short_name": "japanese_goblin",
+    "category": "Smileys &amp; People",
+    "image": "1f47a.png",
+    "pattern": ":sp00380:"
+},
+{
+    "name": "GHOST",
+    "short_name": "ghost",
+    "category": "Smileys &amp; People",
+    "image": "1f47b.png",
+    "pattern": ":sp00381:"
+},
+{
+    "name": "BABY ANGEL",
+    "short_name": "angel",
+    "category": "Smileys &amp; People",
+    "image": "1f47c.png",
+    "pattern": ":sp00382:"
+},
+{
+    "name": "EXTRATERRESTRIAL ALIEN",
+    "short_name": "alien",
+    "category": "Smileys &amp; People",
+    "image": "1f47d.png",
+    "pattern": ":sp00383:"
+},
+{
+    "name": "ALIEN MONSTER",
+    "short_name": "space_invader",
+    "category": "Smileys &amp; People",
+    "image": "1f47e.png",
+    "pattern": ":sp00384:"
+},
+{
+    "name": "IMP",
+    "short_name": "imp",
+    "category": "Smileys &amp; People",
+    "image": "1f47f.png",
+    "pattern": ":sp00385:"
+},
+{
+    "name": "SKULL",
+    "short_name": "skull",
+    "category": "Smileys &amp; People",
+    "image": "1f480.png",
+    "pattern": ":sp00386:"
+},
+{
+    "name": "null",
+    "short_name": "woman-tipping-hand",
+    "category": "Smileys &amp; People",
+    "image": "1f481-200d-2640-fe0f.png",
+    "pattern": ":sp00387:"
+},
+{
+    "name": "null",
+    "short_name": "man-tipping-hand",
+    "category": "Smileys &amp; People",
+    "image": "1f481-200d-2642-fe0f.png",
+    "pattern": ":sp00388:"
+},
+{
+    "name": "INFORMATION DESK PERSON",
+    "short_name": "information_desk_person",
+    "category": "Smileys &amp; People",
+    "image": "1f481.png",
+    "pattern": ":sp00389:"
+},
+{
+    "name": "null",
+    "short_name": "female-guard",
+    "category": "Smileys &amp; People",
+    "image": "1f482-200d-2640-fe0f.png",
+    "pattern": ":sp00390:"
+},
+{
+    "name": "null",
+    "short_name": "male-guard",
+    "category": "Smileys &amp; People",
+    "image": "1f482-200d-2642-fe0f.png",
+    "pattern": ":sp00391:"
+},
+{
+    "name": "GUARDSMAN",
+    "short_name": "guardsman",
+    "category": "Smileys &amp; People",
+    "image": "1f482.png",
+    "pattern": ":sp00392:"
+},
+{
+    "name": "DANCER",
+    "short_name": "dancer",
+    "category": "Smileys &amp; People",
+    "image": "1f483.png",
+    "pattern": ":sp00393:"
+},
+{
+    "name": "LIPSTICK",
+    "short_name": "lipstick",
+    "category": "Smileys &amp; People",
+    "image": "1f484.png",
+    "pattern": ":sp00394:"
+},
+{
+    "name": "NAIL POLISH",
+    "short_name": "nail_care",
+    "category": "Smileys &amp; People",
+    "image": "1f485.png",
+    "pattern": ":sp00395:"
+},
+{
+    "name": "null",
+    "short_name": "woman-getting-massage",
+    "category": "Smileys &amp; People",
+    "image": "1f486-200d-2640-fe0f.png",
+    "pattern": ":sp00396:"
+},
+{
+    "name": "null",
+    "short_name": "man-getting-massage",
+    "category": "Smileys &amp; People",
+    "image": "1f486-200d-2642-fe0f.png",
+    "pattern": ":sp00397:"
+},
+{
+    "name": "FACE MASSAGE",
+    "short_name": "massage",
+    "category": "Smileys &amp; People",
+    "image": "1f486.png",
+    "pattern": ":sp00398:"
+},
+{
+    "name": "null",
+    "short_name": "woman-getting-haircut",
+    "category": "Smileys &amp; People",
+    "image": "1f487-200d-2640-fe0f.png",
+    "pattern": ":sp00399:"
+},
+{
+    "name": "null",
+    "short_name": "man-getting-haircut",
+    "category": "Smileys &amp; People",
+    "image": "1f487-200d-2642-fe0f.png",
+    "pattern": ":sp00400:"
+},
+{
+    "name": "HAIRCUT",
+    "short_name": "haircut",
+    "category": "Smileys &amp; People",
+    "image": "1f487.png",
+    "pattern": ":sp00401:"
+},
+{
+    "name": "KISS MARK",
+    "short_name": "kiss",
+    "category": "Smileys &amp; People",
+    "image": "1f48b.png",
+    "pattern": ":sp00402:"
+},
+{
+    "name": "LOVE LETTER",
+    "short_name": "love_letter",
+    "category": "Smileys &amp; People",
+    "image": "1f48c.png",
+    "pattern": ":sp00403:"
+},
+{
+    "name": "RING",
+    "short_name": "ring",
+    "category": "Smileys &amp; People",
+    "image": "1f48d.png",
+    "pattern": ":sp00404:"
+},
+{
+    "name": "GEM STONE",
+    "short_name": "gem",
+    "category": "Smileys &amp; People",
+    "image": "1f48e.png",
+    "pattern": ":sp00405:"
+},
+{
+    "name": "KISS",
+    "short_name": "couplekiss",
+    "category": "Smileys &amp; People",
+    "image": "1f48f.png",
+    "pattern": ":sp00406:"
+},
+{
+    "name": "COUPLE WITH HEART",
+    "short_name": "couple_with_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f491.png",
+    "pattern": ":sp00407:"
+},
+{
+    "name": "BEATING HEART",
+    "short_name": "heartbeat",
+    "category": "Smileys &amp; People",
+    "image": "1f493.png",
+    "pattern": ":sp00408:"
+},
+{
+    "name": "BROKEN HEART",
+    "short_name": "broken_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f494.png",
+    "pattern": ":sp00409:"
+},
+{
+    "name": "TWO HEARTS",
+    "short_name": "two_hearts",
+    "category": "Smileys &amp; People",
+    "image": "1f495.png",
+    "pattern": ":sp00410:"
+},
+{
+    "name": "SPARKLING HEART",
+    "short_name": "sparkling_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f496.png",
+    "pattern": ":sp00411:"
+},
+{
+    "name": "GROWING HEART",
+    "short_name": "heartpulse",
+    "category": "Smileys &amp; People",
+    "image": "1f497.png",
+    "pattern": ":sp00412:"
+},
+{
+    "name": "HEART WITH ARROW",
+    "short_name": "cupid",
+    "category": "Smileys &amp; People",
+    "image": "1f498.png",
+    "pattern": ":sp00413:"
+},
+{
+    "name": "BLUE HEART",
+    "short_name": "blue_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f499.png",
+    "pattern": ":sp00414:"
+},
+{
+    "name": "GREEN HEART",
+    "short_name": "green_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f49a.png",
+    "pattern": ":sp00415:"
+},
+{
+    "name": "YELLOW HEART",
+    "short_name": "yellow_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f49b.png",
+    "pattern": ":sp00416:"
+},
+{
+    "name": "PURPLE HEART",
+    "short_name": "purple_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f49c.png",
+    "pattern": ":sp00417:"
+},
+{
+    "name": "HEART WITH RIBBON",
+    "short_name": "gift_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f49d.png",
+    "pattern": ":sp00418:"
+},
+{
+    "name": "REVOLVING HEARTS",
+    "short_name": "revolving_hearts",
+    "category": "Smileys &amp; People",
+    "image": "1f49e.png",
+    "pattern": ":sp00419:"
+},
+{
+    "name": "HEART DECORATION",
+    "short_name": "heart_decoration",
+    "category": "Smileys &amp; People",
+    "image": "1f49f.png",
+    "pattern": ":sp00420:"
+},
+{
+    "name": "ANGER SYMBOL",
+    "short_name": "anger",
+    "category": "Smileys &amp; People",
+    "image": "1f4a2.png",
+    "pattern": ":sp00421:"
+},
+{
+    "name": "BOMB",
+    "short_name": "bomb",
+    "category": "Smileys &amp; People",
+    "image": "1f4a3.png",
+    "pattern": ":sp00422:"
+},
+{
+    "name": "SLEEPING SYMBOL",
+    "short_name": "zzz",
+    "category": "Smileys &amp; People",
+    "image": "1f4a4.png",
+    "pattern": ":sp00423:"
+},
+{
+    "name": "COLLISION SYMBOL",
+    "short_name": "boom",
+    "category": "Smileys &amp; People",
+    "image": "1f4a5.png",
+    "pattern": ":sp00424:"
+},
+{
+    "name": "SPLASHING SWEAT SYMBOL",
+    "short_name": "sweat_drops",
+    "category": "Smileys &amp; People",
+    "image": "1f4a6.png",
+    "pattern": ":sp00425:"
+},
+{
+    "name": "DASH SYMBOL",
+    "short_name": "dash",
+    "category": "Smileys &amp; People",
+    "image": "1f4a8.png",
+    "pattern": ":sp00426:"
+},
+{
+    "name": "PILE OF POO",
+    "short_name": "hankey",
+    "category": "Smileys &amp; People",
+    "image": "1f4a9.png",
+    "pattern": ":sp00427:"
+},
+{
+    "name": "FLEXED BICEPS",
+    "short_name": "muscle",
+    "category": "Smileys &amp; People",
+    "image": "1f4aa.png",
+    "pattern": ":sp00428:"
+},
+{
+    "name": "DIZZY SYMBOL",
+    "short_name": "dizzy",
+    "category": "Smileys &amp; People",
+    "image": "1f4ab.png",
+    "pattern": ":sp00429:"
+},
+{
+    "name": "SPEECH BALLOON",
+    "short_name": "speech_balloon",
+    "category": "Smileys &amp; People",
+    "image": "1f4ac.png",
+    "pattern": ":sp00430:"
+},
+{
+    "name": "THOUGHT BALLOON",
+    "short_name": "thought_balloon",
+    "category": "Smileys &amp; People",
+    "image": "1f4ad.png",
+    "pattern": ":sp00431:"
+},
+{
+    "name": "PRAYER BEADS",
+    "short_name": "prayer_beads",
+    "category": "Smileys &amp; People",
+    "image": "1f4ff.png",
+    "pattern": ":sp00432:"
+},
+{
+    "name": "null",
+    "short_name": "hole",
+    "category": "Smileys &amp; People",
+    "image": "1f573-fe0f.png",
+    "pattern": ":sp00433:"
+},
+{
+    "name": "null",
+    "short_name": "man_in_business_suit_levitating",
+    "category": "Smileys &amp; People",
+    "image": "1f574-fe0f.png",
+    "pattern": ":sp00434:"
+},
+{
+    "name": "null",
+    "short_name": "female-detective",
+    "category": "Smileys &amp; People",
+    "image": "1f575-fe0f-200d-2640-fe0f.png",
+    "pattern": ":sp00435:"
+},
+{
+    "name": "null",
+    "short_name": "male-detective",
+    "category": "Smileys &amp; People",
+    "image": "1f575-fe0f-200d-2642-fe0f.png",
+    "pattern": ":sp00436:"
+},
+{
+    "name": "null",
+    "short_name": "sleuth_or_spy",
+    "category": "Smileys &amp; People",
+    "image": "1f575-fe0f.png",
+    "pattern": ":sp00437:"
+},
+{
+    "name": "null",
+    "short_name": "dark_sunglasses",
+    "category": "Smileys &amp; People",
+    "image": "1f576-fe0f.png",
+    "pattern": ":sp00438:"
+},
+{
+    "name": "MAN DANCING",
+    "short_name": "man_dancing",
+    "category": "Smileys &amp; People",
+    "image": "1f57a.png",
+    "pattern": ":sp00439:"
+},
+{
+    "name": "null",
+    "short_name": "raised_hand_with_fingers_splayed",
+    "category": "Smileys &amp; People",
+    "image": "1f590-fe0f.png",
+    "pattern": ":sp00440:"
+},
+{
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
+    "short_name": "middle_finger",
+    "category": "Smileys &amp; People",
+    "image": "1f595.png",
+    "pattern": ":sp00441:"
+},
+{
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
+    "short_name": "spock-hand",
+    "category": "Smileys &amp; People",
+    "image": "1f596.png",
+    "pattern": ":sp00442:"
+},
+{
+    "name": "BLACK HEART",
+    "short_name": "black_heart",
+    "category": "Smileys &amp; People",
+    "image": "1f5a4.png",
+    "pattern": ":sp00443:"
+},
+{
+    "name": "null",
+    "short_name": "speaking_head_in_silhouette",
+    "category": "Smileys &amp; People",
+    "image": "1f5e3-fe0f.png",
+    "pattern": ":sp00444:"
+},
+{
+    "name": "null",
+    "short_name": "left_speech_bubble",
+    "category": "Smileys &amp; People",
+    "image": "1f5e8-fe0f.png",
+    "pattern": ":sp00445:"
+},
+{
+    "name": "null",
+    "short_name": "right_anger_bubble",
+    "category": "Smileys &amp; People",
+    "image": "1f5ef-fe0f.png",
+    "pattern": ":sp00446:"
+}
+    
+]

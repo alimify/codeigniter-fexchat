@@ -1,0 +1,1451 @@
+window.travel_and_places=[
+    {
+        "name": "CYCLONE",
+        "short_name": "cyclone",
+        "category": "Travel &amp; Places",
+        "image": "1f300.png",
+        "pattern": ":tp00000:"
+    },
+    {
+        "name": "FOGGY",
+        "short_name": "foggy",
+        "category": "Travel &amp; Places",
+        "image": "1f301.png",
+        "pattern": ":tp00001:"
+    },
+    {
+        "name": "CLOSED UMBRELLA",
+        "short_name": "closed_umbrella",
+        "category": "Travel &amp; Places",
+        "image": "1f302.png",
+        "pattern": ":tp00002:"
+    },
+    {
+        "name": "NIGHT WITH STARS",
+        "short_name": "night_with_stars",
+        "category": "Travel &amp; Places",
+        "image": "1f303.png",
+        "pattern": ":tp00003:"
+    },
+    {
+        "name": "SUNRISE OVER MOUNTAINS",
+        "short_name": "sunrise_over_mountains",
+        "category": "Travel &amp; Places",
+        "image": "1f304.png",
+        "pattern": ":tp00004:"
+    },
+    {
+        "name": "SUNRISE",
+        "short_name": "sunrise",
+        "category": "Travel &amp; Places",
+        "image": "1f305.png",
+        "pattern": ":tp00005:"
+    },
+    {
+        "name": "CITYSCAPE AT DUSK",
+        "short_name": "city_sunset",
+        "category": "Travel &amp; Places",
+        "image": "1f306.png",
+        "pattern": ":tp00006:"
+    },
+    {
+        "name": "SUNSET OVER BUILDINGS",
+        "short_name": "city_sunrise",
+        "category": "Travel &amp; Places",
+        "image": "1f307.png",
+        "pattern": ":tp00007:"
+    },
+    {
+        "name": "RAINBOW",
+        "short_name": "rainbow",
+        "category": "Travel &amp; Places",
+        "image": "1f308.png",
+        "pattern": ":tp00008:"
+    },
+    {
+        "name": "BRIDGE AT NIGHT",
+        "short_name": "bridge_at_night",
+        "category": "Travel &amp; Places",
+        "image": "1f309.png",
+        "pattern": ":tp00009:"
+    },
+    {
+        "name": "WATER WAVE",
+        "short_name": "ocean",
+        "category": "Travel &amp; Places",
+        "image": "1f30a.png",
+        "pattern": ":tp00010:"
+    },
+    {
+        "name": "VOLCANO",
+        "short_name": "volcano",
+        "category": "Travel &amp; Places",
+        "image": "1f30b.png",
+        "pattern": ":tp00011:"
+    },
+    {
+        "name": "MILKY WAY",
+        "short_name": "milky_way",
+        "category": "Travel &amp; Places",
+        "image": "1f30c.png",
+        "pattern": ":tp00012:"
+    },
+    {
+        "name": "EARTH GLOBE EUROPE-AFRICA",
+        "short_name": "earth_africa",
+        "category": "Travel &amp; Places",
+        "image": "1f30d.png",
+        "pattern": ":tp00013:"
+    },
+    {
+        "name": "EARTH GLOBE AMERICAS",
+        "short_name": "earth_americas",
+        "category": "Travel &amp; Places",
+        "image": "1f30e.png",
+        "pattern": ":tp00014:"
+    },
+    {
+        "name": "EARTH GLOBE ASIA-AUSTRALIA",
+        "short_name": "earth_asia",
+        "category": "Travel &amp; Places",
+        "image": "1f30f.png",
+        "pattern": ":tp00015:"
+    },
+    {
+        "name": "GLOBE WITH MERIDIANS",
+        "short_name": "globe_with_meridians",
+        "category": "Travel &amp; Places",
+        "image": "1f310.png",
+        "pattern": ":tp00016:"
+    },
+    {
+        "name": "NEW MOON SYMBOL",
+        "short_name": "new_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f311.png",
+        "pattern": ":tp00017:"
+    },
+    {
+        "name": "WAXING CRESCENT MOON SYMBOL",
+        "short_name": "waxing_crescent_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f312.png",
+        "pattern": ":tp00018:"
+    },
+    {
+        "name": "FIRST QUARTER MOON SYMBOL",
+        "short_name": "first_quarter_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f313.png",
+        "pattern": ":tp00019:"
+    },
+    {
+        "name": "WAXING GIBBOUS MOON SYMBOL",
+        "short_name": "moon",
+        "category": "Travel &amp; Places",
+        "image": "1f314.png",
+        "pattern": ":tp00020:"
+    },
+    {
+        "name": "FULL MOON SYMBOL",
+        "short_name": "full_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f315.png",
+        "pattern": ":tp00021:"
+    },
+    {
+        "name": "WANING GIBBOUS MOON SYMBOL",
+        "short_name": "waning_gibbous_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f316.png",
+        "pattern": ":tp00022:"
+    },
+    {
+        "name": "LAST QUARTER MOON SYMBOL",
+        "short_name": "last_quarter_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f317.png",
+        "pattern": ":tp00023:"
+    },
+    {
+        "name": "WANING CRESCENT MOON SYMBOL",
+        "short_name": "waning_crescent_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f318.png",
+        "pattern": ":tp00024:"
+    },
+    {
+        "name": "CRESCENT MOON",
+        "short_name": "crescent_moon",
+        "category": "Travel &amp; Places",
+        "image": "1f319.png",
+        "pattern": ":tp00025:"
+    },
+    {
+        "name": "NEW MOON WITH FACE",
+        "short_name": "new_moon_with_face",
+        "category": "Travel &amp; Places",
+        "image": "1f31a.png",
+        "pattern": ":tp00026:"
+    },
+    {
+        "name": "FIRST QUARTER MOON WITH FACE",
+        "short_name": "first_quarter_moon_with_face",
+        "category": "Travel &amp; Places",
+        "image": "1f31b.png",
+        "pattern": ":tp00027:"
+    },
+    {
+        "name": "LAST QUARTER MOON WITH FACE",
+        "short_name": "last_quarter_moon_with_face",
+        "category": "Travel &amp; Places",
+        "image": "1f31c.png",
+        "pattern": ":tp00028:"
+    },
+    {
+        "name": "FULL MOON WITH FACE",
+        "short_name": "full_moon_with_face",
+        "category": "Travel &amp; Places",
+        "image": "1f31d.png",
+        "pattern": ":tp00029:"
+    },
+    {
+        "name": "SUN WITH FACE",
+        "short_name": "sun_with_face",
+        "category": "Travel &amp; Places",
+        "image": "1f31e.png",
+        "pattern": ":tp00030:"
+    },
+    {
+        "name": "GLOWING STAR",
+        "short_name": "star2",
+        "category": "Travel &amp; Places",
+        "image": "1f31f.png",
+        "pattern": ":tp00031:"
+    },
+    {
+        "name": "SHOOTING STAR",
+        "short_name": "stars",
+        "category": "Travel &amp; Places",
+        "image": "1f320.png",
+        "pattern": ":tp00032:"
+    },
+    {
+        "name": "null",
+        "short_name": "thermometer",
+        "category": "Travel &amp; Places",
+        "image": "1f321-fe0f.png",
+        "pattern": ":tp00033:"
+    },
+    {
+        "name": "null",
+        "short_name": "mostly_sunny",
+        "category": "Travel &amp; Places",
+        "image": "1f324-fe0f.png",
+        "pattern": ":tp00034:"
+    },
+    {
+        "name": "null",
+        "short_name": "barely_sunny",
+        "category": "Travel &amp; Places",
+        "image": "1f325-fe0f.png",
+        "pattern": ":tp00035:"
+    },
+    {
+        "name": "null",
+        "short_name": "partly_sunny_rain",
+        "category": "Travel &amp; Places",
+        "image": "1f326-fe0f.png",
+        "pattern": ":tp00036:"
+    },
+    {
+        "name": "null",
+        "short_name": "rain_cloud",
+        "category": "Travel &amp; Places",
+        "image": "1f327-fe0f.png",
+        "pattern": ":tp00037:"
+    },
+    {
+        "name": "null",
+        "short_name": "snow_cloud",
+        "category": "Travel &amp; Places",
+        "image": "1f328-fe0f.png",
+        "pattern": ":tp00038:"
+    },
+    {
+        "name": "null",
+        "short_name": "lightning",
+        "category": "Travel &amp; Places",
+        "image": "1f329-fe0f.png",
+        "pattern": ":tp00039:"
+    },
+    {
+        "name": "null",
+        "short_name": "tornado",
+        "category": "Travel &amp; Places",
+        "image": "1f32a-fe0f.png",
+        "pattern": ":tp00040:"
+    },
+    {
+        "name": "null",
+        "short_name": "fog",
+        "category": "Travel &amp; Places",
+        "image": "1f32b-fe0f.png",
+        "pattern": ":tp00041:"
+    },
+    {
+        "name": "null",
+        "short_name": "wind_blowing_face",
+        "category": "Travel &amp; Places",
+        "image": "1f32c-fe0f.png",
+        "pattern": ":tp00042:"
+    },
+    {
+        "name": "CAROUSEL HORSE",
+        "short_name": "carousel_horse",
+        "category": "Travel &amp; Places",
+        "image": "1f3a0.png",
+        "pattern": ":tp00043:"
+    },
+    {
+        "name": "FERRIS WHEEL",
+        "short_name": "ferris_wheel",
+        "category": "Travel &amp; Places",
+        "image": "1f3a1.png",
+        "pattern": ":tp00044:"
+    },
+    {
+        "name": "ROLLER COASTER",
+        "short_name": "roller_coaster",
+        "category": "Travel &amp; Places",
+        "image": "1f3a2.png",
+        "pattern": ":tp00045:"
+    },
+    {
+        "name": "ARTIST PALETTE",
+        "short_name": "art",
+        "category": "Travel &amp; Places",
+        "image": "1f3a8.png",
+        "pattern": ":tp00046:"
+    },
+    {
+        "name": "CIRCUS TENT",
+        "short_name": "circus_tent",
+        "category": "Travel &amp; Places",
+        "image": "1f3aa.png",
+        "pattern": ":tp00047:"
+    },
+    {
+        "name": "PERFORMING ARTS",
+        "short_name": "performing_arts",
+        "category": "Travel &amp; Places",
+        "image": "1f3ad.png",
+        "pattern": ":tp00048:"
+    },
+    {
+        "name": "SLOT MACHINE",
+        "short_name": "slot_machine",
+        "category": "Travel &amp; Places",
+        "image": "1f3b0.png",
+        "pattern": ":tp00049:"
+    },
+    {
+        "name": "null",
+        "short_name": "snow_capped_mountain",
+        "category": "Travel &amp; Places",
+        "image": "1f3d4-fe0f.png",
+        "pattern": ":tp00050:"
+    },
+    {
+        "name": "null",
+        "short_name": "camping",
+        "category": "Travel &amp; Places",
+        "image": "1f3d5-fe0f.png",
+        "pattern": ":tp00051:"
+    },
+    {
+        "name": "null",
+        "short_name": "beach_with_umbrella",
+        "category": "Travel &amp; Places",
+        "image": "1f3d6-fe0f.png",
+        "pattern": ":tp00052:"
+    },
+    {
+        "name": "null",
+        "short_name": "building_construction",
+        "category": "Travel &amp; Places",
+        "image": "1f3d7-fe0f.png",
+        "pattern": ":tp00053:"
+    },
+    {
+        "name": "null",
+        "short_name": "house_buildings",
+        "category": "Travel &amp; Places",
+        "image": "1f3d8-fe0f.png",
+        "pattern": ":tp00054:"
+    },
+    {
+        "name": "null",
+        "short_name": "cityscape",
+        "category": "Travel &amp; Places",
+        "image": "1f3d9-fe0f.png",
+        "pattern": ":tp00055:"
+    },
+    {
+        "name": "null",
+        "short_name": "derelict_house_building",
+        "category": "Travel &amp; Places",
+        "image": "1f3da-fe0f.png",
+        "pattern": ":tp00056:"
+    },
+    {
+        "name": "null",
+        "short_name": "classical_building",
+        "category": "Travel &amp; Places",
+        "image": "1f3db-fe0f.png",
+        "pattern": ":tp00057:"
+    },
+    {
+        "name": "null",
+        "short_name": "desert",
+        "category": "Travel &amp; Places",
+        "image": "1f3dc-fe0f.png",
+        "pattern": ":tp00058:"
+    },
+    {
+        "name": "null",
+        "short_name": "desert_island",
+        "category": "Travel &amp; Places",
+        "image": "1f3dd-fe0f.png",
+        "pattern": ":tp00059:"
+    },
+    {
+        "name": "null",
+        "short_name": "national_park",
+        "category": "Travel &amp; Places",
+        "image": "1f3de-fe0f.png",
+        "pattern": ":tp00060:"
+    },
+    {
+        "name": "null",
+        "short_name": "stadium",
+        "category": "Travel &amp; Places",
+        "image": "1f3df-fe0f.png",
+        "pattern": ":tp00061:"
+    },
+    {
+        "name": "HOUSE BUILDING",
+        "short_name": "house",
+        "category": "Travel &amp; Places",
+        "image": "1f3e0.png",
+        "pattern": ":tp00062:"
+    },
+    {
+        "name": "HOUSE WITH GARDEN",
+        "short_name": "house_with_garden",
+        "category": "Travel &amp; Places",
+        "image": "1f3e1.png",
+        "pattern": ":tp00063:"
+    },
+    {
+        "name": "OFFICE BUILDING",
+        "short_name": "office",
+        "category": "Travel &amp; Places",
+        "image": "1f3e2.png",
+        "pattern": ":tp00064:"
+    },
+    {
+        "name": "JAPANESE POST OFFICE",
+        "short_name": "post_office",
+        "category": "Travel &amp; Places",
+        "image": "1f3e3.png",
+        "pattern": ":tp00065:"
+    },
+    {
+        "name": "EUROPEAN POST OFFICE",
+        "short_name": "european_post_office",
+        "category": "Travel &amp; Places",
+        "image": "1f3e4.png",
+        "pattern": ":tp00066:"
+    },
+    {
+        "name": "HOSPITAL",
+        "short_name": "hospital",
+        "category": "Travel &amp; Places",
+        "image": "1f3e5.png",
+        "pattern": ":tp00067:"
+    },
+    {
+        "name": "BANK",
+        "short_name": "bank",
+        "category": "Travel &amp; Places",
+        "image": "1f3e6.png",
+        "pattern": ":tp00068:"
+    },
+    {
+        "name": "HOTEL",
+        "short_name": "hotel",
+        "category": "Travel &amp; Places",
+        "image": "1f3e8.png",
+        "pattern": ":tp00069:"
+    },
+    {
+        "name": "LOVE HOTEL",
+        "short_name": "love_hotel",
+        "category": "Travel &amp; Places",
+        "image": "1f3e9.png",
+        "pattern": ":tp00070:"
+    },
+    {
+        "name": "CONVENIENCE STORE",
+        "short_name": "convenience_store",
+        "category": "Travel &amp; Places",
+        "image": "1f3ea.png",
+        "pattern": ":tp00071:"
+    },
+    {
+        "name": "SCHOOL",
+        "short_name": "school",
+        "category": "Travel &amp; Places",
+        "image": "1f3eb.png",
+        "pattern": ":tp00072:"
+    },
+    {
+        "name": "DEPARTMENT STORE",
+        "short_name": "department_store",
+        "category": "Travel &amp; Places",
+        "image": "1f3ec.png",
+        "pattern": ":tp00073:"
+    },
+    {
+        "name": "FACTORY",
+        "short_name": "factory",
+        "category": "Travel &amp; Places",
+        "image": "1f3ed.png",
+        "pattern": ":tp00074:"
+    },
+    {
+        "name": "JAPANESE CASTLE",
+        "short_name": "japanese_castle",
+        "category": "Travel &amp; Places",
+        "image": "1f3ef.png",
+        "pattern": ":tp00075:"
+    },
+    {
+        "name": "EUROPEAN CASTLE",
+        "short_name": "european_castle",
+        "category": "Travel &amp; Places",
+        "image": "1f3f0.png",
+        "pattern": ":tp00076:"
+    },
+    {
+        "name": "BARBER POLE",
+        "short_name": "barber",
+        "category": "Travel &amp; Places",
+        "image": "1f488.png",
+        "pattern": ":tp00077:"
+    },
+    {
+        "name": "WEDDING",
+        "short_name": "wedding",
+        "category": "Travel &amp; Places",
+        "image": "1f492.png",
+        "pattern": ":tp00078:"
+    },
+    {
+        "name": "DROPLET",
+        "short_name": "droplet",
+        "category": "Travel &amp; Places",
+        "image": "1f4a7.png",
+        "pattern": ":tp00079:"
+    },
+    {
+        "name": "SEAT",
+        "short_name": "seat",
+        "category": "Travel &amp; Places",
+        "image": "1f4ba.png",
+        "pattern": ":tp00080:"
+    },
+    {
+        "name": "FIRE",
+        "short_name": "fire",
+        "category": "Travel &amp; Places",
+        "image": "1f525.png",
+        "pattern": ":tp00081:"
+    },
+    {
+        "name": "KAABA",
+        "short_name": "kaaba",
+        "category": "Travel &amp; Places",
+        "image": "1f54b.png",
+        "pattern": ":tp00082:"
+    },
+    {
+        "name": "MOSQUE",
+        "short_name": "mosque",
+        "category": "Travel &amp; Places",
+        "image": "1f54c.png",
+        "pattern": ":tp00083:"
+    },
+    {
+        "name": "SYNAGOGUE",
+        "short_name": "synagogue",
+        "category": "Travel &amp; Places",
+        "image": "1f54d.png",
+        "pattern": ":tp00084:"
+    },
+    {
+        "name": "CLOCK FACE ONE OCLOCK",
+        "short_name": "clock1",
+        "category": "Travel &amp; Places",
+        "image": "1f550.png",
+        "pattern": ":tp00085:"
+    },
+    {
+        "name": "CLOCK FACE TWO OCLOCK",
+        "short_name": "clock2",
+        "category": "Travel &amp; Places",
+        "image": "1f551.png",
+        "pattern": ":tp00086:"
+    },
+    {
+        "name": "CLOCK FACE THREE OCLOCK",
+        "short_name": "clock3",
+        "category": "Travel &amp; Places",
+        "image": "1f552.png",
+        "pattern": ":tp00087:"
+    },
+    {
+        "name": "CLOCK FACE FOUR OCLOCK",
+        "short_name": "clock4",
+        "category": "Travel &amp; Places",
+        "image": "1f553.png",
+        "pattern": ":tp00088:"
+    },
+    {
+        "name": "CLOCK FACE FIVE OCLOCK",
+        "short_name": "clock5",
+        "category": "Travel &amp; Places",
+        "image": "1f554.png",
+        "pattern": ":tp00089:"
+    },
+    {
+        "name": "CLOCK FACE SIX OCLOCK",
+        "short_name": "clock6",
+        "category": "Travel &amp; Places",
+        "image": "1f555.png",
+        "pattern": ":tp00090:"
+    },
+    {
+        "name": "CLOCK FACE SEVEN OCLOCK",
+        "short_name": "clock7",
+        "category": "Travel &amp; Places",
+        "image": "1f556.png",
+        "pattern": ":tp00091:"
+    },
+    {
+        "name": "CLOCK FACE EIGHT OCLOCK",
+        "short_name": "clock8",
+        "category": "Travel &amp; Places",
+        "image": "1f557.png",
+        "pattern": ":tp00092:"
+    },
+    {
+        "name": "CLOCK FACE NINE OCLOCK",
+        "short_name": "clock9",
+        "category": "Travel &amp; Places",
+        "image": "1f558.png",
+        "pattern": ":tp00093:"
+    },
+    {
+        "name": "CLOCK FACE TEN OCLOCK",
+        "short_name": "clock10",
+        "category": "Travel &amp; Places",
+        "image": "1f559.png",
+        "pattern": ":tp00094:"
+    },
+    {
+        "name": "CLOCK FACE ELEVEN OCLOCK",
+        "short_name": "clock11",
+        "category": "Travel &amp; Places",
+        "image": "1f55a.png",
+        "pattern": ":tp00095:"
+    },
+    {
+        "name": "CLOCK FACE TWELVE OCLOCK",
+        "short_name": "clock12",
+        "category": "Travel &amp; Places",
+        "image": "1f55b.png",
+        "pattern": ":tp00096:"
+    },
+    {
+        "name": "CLOCK FACE ONE-THIRTY",
+        "short_name": "clock130",
+        "category": "Travel &amp; Places",
+        "image": "1f55c.png",
+        "pattern": ":tp00097:"
+    },
+    {
+        "name": "CLOCK FACE TWO-THIRTY",
+        "short_name": "clock230",
+        "category": "Travel &amp; Places",
+        "image": "1f55d.png",
+        "pattern": ":tp00098:"
+    },
+    {
+        "name": "CLOCK FACE THREE-THIRTY",
+        "short_name": "clock330",
+        "category": "Travel &amp; Places",
+        "image": "1f55e.png",
+        "pattern": ":tp00099:"
+    },
+    {
+        "name": "CLOCK FACE FOUR-THIRTY",
+        "short_name": "clock430",
+        "category": "Travel &amp; Places",
+        "image": "1f55f.png",
+        "pattern": ":tp00100:"
+    },
+    {
+        "name": "CLOCK FACE FIVE-THIRTY",
+        "short_name": "clock530",
+        "category": "Travel &amp; Places",
+        "image": "1f560.png",
+        "pattern": ":tp00101:"
+    },
+    {
+        "name": "CLOCK FACE SIX-THIRTY",
+        "short_name": "clock630",
+        "category": "Travel &amp; Places",
+        "image": "1f561.png",
+        "pattern": ":tp00102:"
+    },
+    {
+        "name": "CLOCK FACE SEVEN-THIRTY",
+        "short_name": "clock730",
+        "category": "Travel &amp; Places",
+        "image": "1f562.png",
+        "pattern": ":tp00103:"
+    },
+    {
+        "name": "CLOCK FACE EIGHT-THIRTY",
+        "short_name": "clock830",
+        "category": "Travel &amp; Places",
+        "image": "1f563.png",
+        "pattern": ":tp00104:"
+    },
+    {
+        "name": "CLOCK FACE NINE-THIRTY",
+        "short_name": "clock930",
+        "category": "Travel &amp; Places",
+        "image": "1f564.png",
+        "pattern": ":tp00105:"
+    },
+    {
+        "name": "CLOCK FACE TEN-THIRTY",
+        "short_name": "clock1030",
+        "category": "Travel &amp; Places",
+        "image": "1f565.png",
+        "pattern": ":tp00106:"
+    },
+    {
+        "name": "CLOCK FACE ELEVEN-THIRTY",
+        "short_name": "clock1130",
+        "category": "Travel &amp; Places",
+        "image": "1f566.png",
+        "pattern": ":tp00107:"
+    },
+    {
+        "name": "CLOCK FACE TWELVE-THIRTY",
+        "short_name": "clock1230",
+        "category": "Travel &amp; Places",
+        "image": "1f567.png",
+        "pattern": ":tp00108:"
+    },
+    {
+        "name": "null",
+        "short_name": "mantelpiece_clock",
+        "category": "Travel &amp; Places",
+        "image": "1f570-fe0f.png",
+        "pattern": ":tp00109:"
+    },
+    {
+        "name": "null",
+        "short_name": "frame_with_picture",
+        "category": "Travel &amp; Places",
+        "image": "1f5bc-fe0f.png",
+        "pattern": ":tp00110:"
+    },
+    {
+        "name": "null",
+        "short_name": "world_map",
+        "category": "Travel &amp; Places",
+        "image": "1f5fa-fe0f.png",
+        "pattern": ":tp00111:"
+    },
+    {
+        "name": "MOUNT FUJI",
+        "short_name": "mount_fuji",
+        "category": "Travel &amp; Places",
+        "image": "1f5fb.png",
+        "pattern": ":tp00112:"
+    },
+    {
+        "name": "TOKYO TOWER",
+        "short_name": "tokyo_tower",
+        "category": "Travel &amp; Places",
+        "image": "1f5fc.png",
+        "pattern": ":tp00113:"
+    },
+    {
+        "name": "STATUE OF LIBERTY",
+        "short_name": "statue_of_liberty",
+        "category": "Travel &amp; Places",
+        "image": "1f5fd.png",
+        "pattern": ":tp00114:"
+    },
+    {
+        "name": "SILHOUETTE OF JAPAN",
+        "short_name": "japan",
+        "category": "Travel &amp; Places",
+        "image": "1f5fe.png",
+        "pattern": ":tp00115:"
+    },
+    {
+        "name": "ROCKET",
+        "short_name": "rocket",
+        "category": "Travel &amp; Places",
+        "image": "1f680.png",
+        "pattern": ":tp00116:"
+    },
+    {
+        "name": "HELICOPTER",
+        "short_name": "helicopter",
+        "category": "Travel &amp; Places",
+        "image": "1f681.png",
+        "pattern": ":tp00117:"
+    },
+    {
+        "name": "STEAM LOCOMOTIVE",
+        "short_name": "steam_locomotive",
+        "category": "Travel &amp; Places",
+        "image": "1f682.png",
+        "pattern": ":tp00118:"
+    },
+    {
+        "name": "RAILWAY CAR",
+        "short_name": "railway_car",
+        "category": "Travel &amp; Places",
+        "image": "1f683.png",
+        "pattern": ":tp00119:"
+    },
+    {
+        "name": "HIGH-SPEED TRAIN",
+        "short_name": "bullettrain_side",
+        "category": "Travel &amp; Places",
+        "image": "1f684.png",
+        "pattern": ":tp00120:"
+    },
+    {
+        "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
+        "short_name": "bullettrain_front",
+        "category": "Travel &amp; Places",
+        "image": "1f685.png",
+        "pattern": ":tp00121:"
+    },
+    {
+        "name": "TRAIN",
+        "short_name": "train2",
+        "category": "Travel &amp; Places",
+        "image": "1f686.png",
+        "pattern": ":tp00122:"
+    },
+    {
+        "name": "METRO",
+        "short_name": "metro",
+        "category": "Travel &amp; Places",
+        "image": "1f687.png",
+        "pattern": ":tp00123:"
+    },
+    {
+        "name": "LIGHT RAIL",
+        "short_name": "light_rail",
+        "category": "Travel &amp; Places",
+        "image": "1f688.png",
+        "pattern": ":tp00124:"
+    },
+    {
+        "name": "STATION",
+        "short_name": "station",
+        "category": "Travel &amp; Places",
+        "image": "1f689.png",
+        "pattern": ":tp00125:"
+    },
+    {
+        "name": "TRAM",
+        "short_name": "tram",
+        "category": "Travel &amp; Places",
+        "image": "1f68a.png",
+        "pattern": ":tp00126:"
+    },
+    {
+        "name": "TRAM CAR",
+        "short_name": "train",
+        "category": "Travel &amp; Places",
+        "image": "1f68b.png",
+        "pattern": ":tp00127:"
+    },
+    {
+        "name": "BUS",
+        "short_name": "bus",
+        "category": "Travel &amp; Places",
+        "image": "1f68c.png",
+        "pattern": ":tp00128:"
+    },
+    {
+        "name": "ONCOMING BUS",
+        "short_name": "oncoming_bus",
+        "category": "Travel &amp; Places",
+        "image": "1f68d.png",
+        "pattern": ":tp00129:"
+    },
+    {
+        "name": "TROLLEYBUS",
+        "short_name": "trolleybus",
+        "category": "Travel &amp; Places",
+        "image": "1f68e.png",
+        "pattern": ":tp00130:"
+    },
+    {
+        "name": "BUS STOP",
+        "short_name": "busstop",
+        "category": "Travel &amp; Places",
+        "image": "1f68f.png",
+        "pattern": ":tp00131:"
+    },
+    {
+        "name": "MINIBUS",
+        "short_name": "minibus",
+        "category": "Travel &amp; Places",
+        "image": "1f690.png",
+        "pattern": ":tp00132:"
+    },
+    {
+        "name": "AMBULANCE",
+        "short_name": "ambulance",
+        "category": "Travel &amp; Places",
+        "image": "1f691.png",
+        "pattern": ":tp00133:"
+    },
+    {
+        "name": "FIRE ENGINE",
+        "short_name": "fire_engine",
+        "category": "Travel &amp; Places",
+        "image": "1f692.png",
+        "pattern": ":tp00134:"
+    },
+    {
+        "name": "POLICE CAR",
+        "short_name": "police_car",
+        "category": "Travel &amp; Places",
+        "image": "1f693.png",
+        "pattern": ":tp00135:"
+    },
+    {
+        "name": "ONCOMING POLICE CAR",
+        "short_name": "oncoming_police_car",
+        "category": "Travel &amp; Places",
+        "image": "1f694.png",
+        "pattern": ":tp00136:"
+    },
+    {
+        "name": "TAXI",
+        "short_name": "taxi",
+        "category": "Travel &amp; Places",
+        "image": "1f695.png",
+        "pattern": ":tp00137:"
+    },
+    {
+        "name": "ONCOMING TAXI",
+        "short_name": "oncoming_taxi",
+        "category": "Travel &amp; Places",
+        "image": "1f696.png",
+        "pattern": ":tp00138:"
+    },
+    {
+        "name": "AUTOMOBILE",
+        "short_name": "car",
+        "category": "Travel &amp; Places",
+        "image": "1f697.png",
+        "pattern": ":tp00139:"
+    },
+    {
+        "name": "ONCOMING AUTOMOBILE",
+        "short_name": "oncoming_automobile",
+        "category": "Travel &amp; Places",
+        "image": "1f698.png",
+        "pattern": ":tp00140:"
+    },
+    {
+        "name": "RECREATIONAL VEHICLE",
+        "short_name": "blue_car",
+        "category": "Travel &amp; Places",
+        "image": "1f699.png",
+        "pattern": ":tp00141:"
+    },
+    {
+        "name": "DELIVERY TRUCK",
+        "short_name": "truck",
+        "category": "Travel &amp; Places",
+        "image": "1f69a.png",
+        "pattern": ":tp00142:"
+    },
+    {
+        "name": "ARTICULATED LORRY",
+        "short_name": "articulated_lorry",
+        "category": "Travel &amp; Places",
+        "image": "1f69b.png",
+        "pattern": ":tp00143:"
+    },
+    {
+        "name": "TRACTOR",
+        "short_name": "tractor",
+        "category": "Travel &amp; Places",
+        "image": "1f69c.png",
+        "pattern": ":tp00144:"
+    },
+    {
+        "name": "MONORAIL",
+        "short_name": "monorail",
+        "category": "Travel &amp; Places",
+        "image": "1f69d.png",
+        "pattern": ":tp00145:"
+    },
+    {
+        "name": "MOUNTAIN RAILWAY",
+        "short_name": "mountain_railway",
+        "category": "Travel &amp; Places",
+        "image": "1f69e.png",
+        "pattern": ":tp00146:"
+    },
+    {
+        "name": "SUSPENSION RAILWAY",
+        "short_name": "suspension_railway",
+        "category": "Travel &amp; Places",
+        "image": "1f69f.png",
+        "pattern": ":tp00147:"
+    },
+    {
+        "name": "MOUNTAIN CABLEWAY",
+        "short_name": "mountain_cableway",
+        "category": "Travel &amp; Places",
+        "image": "1f6a0.png",
+        "pattern": ":tp00148:"
+    },
+    {
+        "name": "AERIAL TRAMWAY",
+        "short_name": "aerial_tramway",
+        "category": "Travel &amp; Places",
+        "image": "1f6a1.png",
+        "pattern": ":tp00149:"
+    },
+    {
+        "name": "SHIP",
+        "short_name": "ship",
+        "category": "Travel &amp; Places",
+        "image": "1f6a2.png",
+        "pattern": ":tp00150:"
+    },
+    {
+        "name": "SPEEDBOAT",
+        "short_name": "speedboat",
+        "category": "Travel &amp; Places",
+        "image": "1f6a4.png",
+        "pattern": ":tp00151:"
+    },
+    {
+        "name": "HORIZONTAL TRAFFIC LIGHT",
+        "short_name": "traffic_light",
+        "category": "Travel &amp; Places",
+        "image": "1f6a5.png",
+        "pattern": ":tp00152:"
+    },
+    {
+        "name": "VERTICAL TRAFFIC LIGHT",
+        "short_name": "vertical_traffic_light",
+        "category": "Travel &amp; Places",
+        "image": "1f6a6.png",
+        "pattern": ":tp00153:"
+    },
+    {
+        "name": "CONSTRUCTION SIGN",
+        "short_name": "construction",
+        "category": "Travel &amp; Places",
+        "image": "1f6a7.png",
+        "pattern": ":tp00154:"
+    },
+    {
+        "name": "POLICE CARS REVOLVING LIGHT",
+        "short_name": "rotating_light",
+        "category": "Travel &amp; Places",
+        "image": "1f6a8.png",
+        "pattern": ":tp00155:"
+    },
+    {
+        "name": "DOOR",
+        "short_name": "door",
+        "category": "Travel &amp; Places",
+        "image": "1f6aa.png",
+        "pattern": ":tp00156:"
+    },
+    {
+        "name": "BICYCLE",
+        "short_name": "bike",
+        "category": "Travel &amp; Places",
+        "image": "1f6b2.png",
+        "pattern": ":tp00157:"
+    },
+    {
+        "name": "TOILET",
+        "short_name": "toilet",
+        "category": "Travel &amp; Places",
+        "image": "1f6bd.png",
+        "pattern": ":tp00158:"
+    },
+    {
+        "name": "SHOWER",
+        "short_name": "shower",
+        "category": "Travel &amp; Places",
+        "image": "1f6bf.png",
+        "pattern": ":tp00159:"
+    },
+    {
+        "name": "BATHTUB",
+        "short_name": "bathtub",
+        "category": "Travel &amp; Places",
+        "image": "1f6c1.png",
+        "pattern": ":tp00160:"
+    },
+    {
+        "name": "null",
+        "short_name": "couch_and_lamp",
+        "category": "Travel &amp; Places",
+        "image": "1f6cb-fe0f.png",
+        "pattern": ":tp00161:"
+    },
+    {
+        "name": "null",
+        "short_name": "bellhop_bell",
+        "category": "Travel &amp; Places",
+        "image": "1f6ce-fe0f.png",
+        "pattern": ":tp00162:"
+    },
+    {
+        "name": "null",
+        "short_name": "bed",
+        "category": "Travel &amp; Places",
+        "image": "1f6cf-fe0f.png",
+        "pattern": ":tp00163:"
+    },
+    {
+        "name": "OCTAGONAL SIGN",
+        "short_name": "octagonal_sign",
+        "category": "Travel &amp; Places",
+        "image": "1f6d1.png",
+        "pattern": ":tp00164:"
+    },
+    {
+        "name": "null",
+        "short_name": "motorway",
+        "category": "Travel &amp; Places",
+        "image": "1f6e3-fe0f.png",
+        "pattern": ":tp00165:"
+    },
+    {
+        "name": "null",
+        "short_name": "railway_track",
+        "category": "Travel &amp; Places",
+        "image": "1f6e4-fe0f.png",
+        "pattern": ":tp00166:"
+    },
+    {
+        "name": "null",
+        "short_name": "motor_boat",
+        "category": "Travel &amp; Places",
+        "image": "1f6e5-fe0f.png",
+        "pattern": ":tp00167:"
+    },
+    {
+        "name": "null",
+        "short_name": "small_airplane",
+        "category": "Travel &amp; Places",
+        "image": "1f6e9-fe0f.png",
+        "pattern": ":tp00168:"
+    },
+    {
+        "name": "AIRPLANE DEPARTURE",
+        "short_name": "airplane_departure",
+        "category": "Travel &amp; Places",
+        "image": "1f6eb.png",
+        "pattern": ":tp00169:"
+    },
+    {
+        "name": "AIRPLANE ARRIVING",
+        "short_name": "airplane_arriving",
+        "category": "Travel &amp; Places",
+        "image": "1f6ec.png",
+        "pattern": ":tp00170:"
+    },
+    {
+        "name": "null",
+        "short_name": "satellite",
+        "category": "Travel &amp; Places",
+        "image": "1f6f0-fe0f.png",
+        "pattern": ":tp00171:"
+    },
+    {
+        "name": "null",
+        "short_name": "passenger_ship",
+        "category": "Travel &amp; Places",
+        "image": "1f6f3-fe0f.png",
+        "pattern": ":tp00172:"
+    },
+    {
+        "name": "SCOOTER",
+        "short_name": "scooter",
+        "category": "Travel &amp; Places",
+        "image": "1f6f4.png",
+        "pattern": ":tp00173:"
+    },
+    {
+        "name": "MOTOR SCOOTER",
+        "short_name": "motor_scooter",
+        "category": "Travel &amp; Places",
+        "image": "1f6f5.png",
+        "pattern": ":tp00174:"
+    },
+    {
+        "name": "CANOE",
+        "short_name": "canoe",
+        "category": "Travel &amp; Places",
+        "image": "1f6f6.png",
+        "pattern": ":tp00175:"
+    },
+    {
+        "name": "FLYING SAUCER",
+        "short_name": "flying_saucer",
+        "category": "Travel &amp; Places",
+        "image": "1f6f8.png",
+        "pattern": ":tp00176:"
+    },
+    {
+        "name": "WATCH",
+        "short_name": "watch",
+        "category": "Travel &amp; Places",
+        "image": "231a.png",
+        "pattern": ":tp00177:"
+    },
+    {
+        "name": "HOURGLASS",
+        "short_name": "hourglass",
+        "category": "Travel &amp; Places",
+        "image": "231b.png",
+        "pattern": ":tp00178:"
+    },
+    {
+        "name": "ALARM CLOCK",
+        "short_name": "alarm_clock",
+        "category": "Travel &amp; Places",
+        "image": "23f0.png",
+        "pattern": ":tp00179:"
+    },
+    {
+        "name": "null",
+        "short_name": "stopwatch",
+        "category": "Travel &amp; Places",
+        "image": "23f1-fe0f.png",
+        "pattern": ":tp00180:"
+    },
+    {
+        "name": "null",
+        "short_name": "timer_clock",
+        "category": "Travel &amp; Places",
+        "image": "23f2-fe0f.png",
+        "pattern": ":tp00181:"
+    },
+    {
+        "name": "HOURGLASS WITH FLOWING SAND",
+        "short_name": "hourglass_flowing_sand",
+        "category": "Travel &amp; Places",
+        "image": "23f3.png",
+        "pattern": ":tp00182:"
+    },
+    {
+        "name": "BLACK SUN WITH RAYS",
+        "short_name": "sunny",
+        "category": "Travel &amp; Places",
+        "image": "2600-fe0f.png",
+        "pattern": ":tp00183:"
+    },
+    {
+        "name": "CLOUD",
+        "short_name": "cloud",
+        "category": "Travel &amp; Places",
+        "image": "2601-fe0f.png",
+        "pattern": ":tp00184:"
+    },
+    {
+        "name": "null",
+        "short_name": "umbrella",
+        "category": "Travel &amp; Places",
+        "image": "2602-fe0f.png",
+        "pattern": ":tp00185:"
+    },
+    {
+        "name": "null",
+        "short_name": "snowman",
+        "category": "Travel &amp; Places",
+        "image": "2603-fe0f.png",
+        "pattern": ":tp00186:"
+    },
+    {
+        "name": "null",
+        "short_name": "comet",
+        "category": "Travel &amp; Places",
+        "image": "2604-fe0f.png",
+        "pattern": ":tp00187:"
+    },
+    {
+        "name": "UMBRELLA WITH RAIN DROPS",
+        "short_name": "umbrella_with_rain_drops",
+        "category": "Travel &amp; Places",
+        "image": "2614.png",
+        "pattern": ":tp00188:"
+    },
+    {
+        "name": "HOT SPRINGS",
+        "short_name": "hotsprings",
+        "category": "Travel &amp; Places",
+        "image": "2668-fe0f.png",
+        "pattern": ":tp00189:"
+    },
+    {
+        "name": "ANCHOR",
+        "short_name": "anchor",
+        "category": "Travel &amp; Places",
+        "image": "2693.png",
+        "pattern": ":tp00190:"
+    },
+    {
+        "name": "HIGH VOLTAGE SIGN",
+        "short_name": "zap",
+        "category": "Travel &amp; Places",
+        "image": "26a1.png",
+        "pattern": ":tp00191:"
+    },
+    {
+        "name": "SNOWMAN WITHOUT SNOW",
+        "short_name": "snowman_without_snow",
+        "category": "Travel &amp; Places",
+        "image": "26c4.png",
+        "pattern": ":tp00192:"
+    },
+    {
+        "name": "SUN BEHIND CLOUD",
+        "short_name": "partly_sunny",
+        "category": "Travel &amp; Places",
+        "image": "26c5.png",
+        "pattern": ":tp00193:"
+    },
+    {
+        "name": "null",
+        "short_name": "thunder_cloud_and_rain",
+        "category": "Travel &amp; Places",
+        "image": "26c8-fe0f.png",
+        "pattern": ":tp00194:"
+    },
+    {
+        "name": "null",
+        "short_name": "shinto_shrine",
+        "category": "Travel &amp; Places",
+        "image": "26e9-fe0f.png",
+        "pattern": ":tp00195:"
+    },
+    {
+        "name": "CHURCH",
+        "short_name": "church",
+        "category": "Travel &amp; Places",
+        "image": "26ea.png",
+        "pattern": ":tp00196:"
+    },
+    {
+        "name": "null",
+        "short_name": "mountain",
+        "category": "Travel &amp; Places",
+        "image": "26f0-fe0f.png",
+        "pattern": ":tp00197:"
+    },
+    {
+        "name": "null",
+        "short_name": "umbrella_on_ground",
+        "category": "Travel &amp; Places",
+        "image": "26f1-fe0f.png",
+        "pattern": ":tp00198:"
+    },
+    {
+        "name": "FOUNTAIN",
+        "short_name": "fountain",
+        "category": "Travel &amp; Places",
+        "image": "26f2.png",
+        "pattern": ":tp00199:"
+    },
+    {
+        "name": "null",
+        "short_name": "ferry",
+        "category": "Travel &amp; Places",
+        "image": "26f4-fe0f.png",
+        "pattern": ":tp00200:"
+    },
+    {
+        "name": "SAILBOAT",
+        "short_name": "boat",
+        "category": "Travel &amp; Places",
+        "image": "26f5.png",
+        "pattern": ":tp00201:"
+    },
+    {
+        "name": "TENT",
+        "short_name": "tent",
+        "category": "Travel &amp; Places",
+        "image": "26fa.png",
+        "pattern": ":tp00202:"
+    },
+    {
+        "name": "FUEL PUMP",
+        "short_name": "fuelpump",
+        "category": "Travel &amp; Places",
+        "image": "26fd.png",
+        "pattern": ":tp00203:"
+    },
+    {
+        "name": "AIRPLANE",
+        "short_name": "airplane",
+        "category": "Travel &amp; Places",
+        "image": "2708-fe0f.png",
+        "pattern": ":tp00204:"
+    },
+    {
+        "name": "SNOWFLAKE",
+        "short_name": "snowflake",
+        "category": "Travel &amp; Places",
+        "image": "2744-fe0f.png",
+        "pattern": ":tp00205:"
+    },
+    {
+        "name": "WHITE MEDIUM STAR",
+        "short_name": "star",
+        "category": "Travel &amp; Places",
+        "image": "2b50.png",
+        "pattern": ":tp00206:"
+    }
+];

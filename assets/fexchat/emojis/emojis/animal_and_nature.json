@@ -1,0 +1,793 @@
+window.animal_and_nature = [
+    {
+        "name": "SEEDLING",
+        "short_name": "seedling",
+        "category": "Animals &amp; Nature",
+        "image": "1f331.png",
+        "pattern": ":an00000:"
+    },
+    {
+        "name": "EVERGREEN TREE",
+        "short_name": "evergreen_tree",
+        "category": "Animals &amp; Nature",
+        "image": "1f332.png",
+        "pattern": ":an00001:"
+    },
+    {
+        "name": "DECIDUOUS TREE",
+        "short_name": "deciduous_tree",
+        "category": "Animals &amp; Nature",
+        "image": "1f333.png",
+        "pattern": ":an00002:"
+    },
+    {
+        "name": "PALM TREE",
+        "short_name": "palm_tree",
+        "category": "Animals &amp; Nature",
+        "image": "1f334.png",
+        "pattern": ":an00003:"
+    },
+    {
+        "name": "CACTUS",
+        "short_name": "cactus",
+        "category": "Animals &amp; Nature",
+        "image": "1f335.png",
+        "pattern": ":an00004:"
+    },
+    {
+        "name": "TULIP",
+        "short_name": "tulip",
+        "category": "Animals &amp; Nature",
+        "image": "1f337.png",
+        "pattern": ":an00005:"
+    },
+    {
+        "name": "CHERRY BLOSSOM",
+        "short_name": "cherry_blossom",
+        "category": "Animals &amp; Nature",
+        "image": "1f338.png",
+        "pattern": ":an00006:"
+    },
+    {
+        "name": "ROSE",
+        "short_name": "rose",
+        "category": "Animals &amp; Nature",
+        "image": "1f339.png",
+        "pattern": ":an00007:"
+    },
+    {
+        "name": "HIBISCUS",
+        "short_name": "hibiscus",
+        "category": "Animals &amp; Nature",
+        "image": "1f33a.png",
+        "pattern": ":an00008:"
+    },
+    {
+        "name": "SUNFLOWER",
+        "short_name": "sunflower",
+        "category": "Animals &amp; Nature",
+        "image": "1f33b.png",
+        "pattern": ":an00009:"
+    },
+    {
+        "name": "BLOSSOM",
+        "short_name": "blossom",
+        "category": "Animals &amp; Nature",
+        "image": "1f33c.png",
+        "pattern": ":an00010:"
+    },
+    {
+        "name": "EAR OF RICE",
+        "short_name": "ear_of_rice",
+        "category": "Animals &amp; Nature",
+        "image": "1f33e.png",
+        "pattern": ":an00011:"
+    },
+    {
+        "name": "HERB",
+        "short_name": "herb",
+        "category": "Animals &amp; Nature",
+        "image": "1f33f.png",
+        "pattern": ":an00012:"
+    },
+    {
+        "name": "FOUR LEAF CLOVER",
+        "short_name": "four_leaf_clover",
+        "category": "Animals &amp; Nature",
+        "image": "1f340.png",
+        "pattern": ":an00013:"
+    },
+    {
+        "name": "MAPLE LEAF",
+        "short_name": "maple_leaf",
+        "category": "Animals &amp; Nature",
+        "image": "1f341.png",
+        "pattern": ":an00014:"
+    },
+    {
+        "name": "FALLEN LEAF",
+        "short_name": "fallen_leaf",
+        "category": "Animals &amp; Nature",
+        "image": "1f342.png",
+        "pattern": ":an00015:"
+    },
+    {
+        "name": "LEAF FLUTTERING IN WIND",
+        "short_name": "leaves",
+        "category": "Animals &amp; Nature",
+        "image": "1f343.png",
+        "pattern": ":an00016:"
+    },
+    {
+        "name": "null",
+        "short_name": "rosette",
+        "category": "Animals &amp; Nature",
+        "image": "1f3f5-fe0f.png",
+        "pattern": ":an00017:"
+    },
+    {
+        "name": "RAT",
+        "short_name": "rat",
+        "category": "Animals &amp; Nature",
+        "image": "1f400.png",
+        "pattern": ":an00018:"
+    },
+    {
+        "name": "MOUSE",
+        "short_name": "mouse2",
+        "category": "Animals &amp; Nature",
+        "image": "1f401.png",
+        "pattern": ":an00019:"
+    },
+    {
+        "name": "OX",
+        "short_name": "ox",
+        "category": "Animals &amp; Nature",
+        "image": "1f402.png",
+        "pattern": ":an00020:"
+    },
+    {
+        "name": "WATER BUFFALO",
+        "short_name": "water_buffalo",
+        "category": "Animals &amp; Nature",
+        "image": "1f403.png",
+        "pattern": ":an00021:"
+    },
+    {
+        "name": "COW",
+        "short_name": "cow2",
+        "category": "Animals &amp; Nature",
+        "image": "1f404.png",
+        "pattern": ":an00022:"
+    },
+    {
+        "name": "TIGER",
+        "short_name": "tiger2",
+        "category": "Animals &amp; Nature",
+        "image": "1f405.png",
+        "pattern": ":an00023:"
+    },
+    {
+        "name": "LEOPARD",
+        "short_name": "leopard",
+        "category": "Animals &amp; Nature",
+        "image": "1f406.png",
+        "pattern": ":an00024:"
+    },
+    {
+        "name": "RABBIT",
+        "short_name": "rabbit2",
+        "category": "Animals &amp; Nature",
+        "image": "1f407.png",
+        "pattern": ":an00025:"
+    },
+    {
+        "name": "CAT",
+        "short_name": "cat2",
+        "category": "Animals &amp; Nature",
+        "image": "1f408.png",
+        "pattern": ":an00026:"
+    },
+    {
+        "name": "DRAGON",
+        "short_name": "dragon",
+        "category": "Animals &amp; Nature",
+        "image": "1f409.png",
+        "pattern": ":an00027:"
+    },
+    {
+        "name": "CROCODILE",
+        "short_name": "crocodile",
+        "category": "Animals &amp; Nature",
+        "image": "1f40a.png",
+        "pattern": ":an00028:"
+    },
+    {
+        "name": "WHALE",
+        "short_name": "whale2",
+        "category": "Animals &amp; Nature",
+        "image": "1f40b.png",
+        "pattern": ":an00029:"
+    },
+    {
+        "name": "SNAIL",
+        "short_name": "snail",
+        "category": "Animals &amp; Nature",
+        "image": "1f40c.png",
+        "pattern": ":an00030:"
+    },
+    {
+        "name": "SNAKE",
+        "short_name": "snake",
+        "category": "Animals &amp; Nature",
+        "image": "1f40d.png",
+        "pattern": ":an00031:"
+    },
+    {
+        "name": "HORSE",
+        "short_name": "racehorse",
+        "category": "Animals &amp; Nature",
+        "image": "1f40e.png",
+        "pattern": ":an00032:"
+    },
+    {
+        "name": "RAM",
+        "short_name": "ram",
+        "category": "Animals &amp; Nature",
+        "image": "1f40f.png",
+        "pattern": ":an00033:"
+    },
+    {
+        "name": "GOAT",
+        "short_name": "goat",
+        "category": "Animals &amp; Nature",
+        "image": "1f410.png",
+        "pattern": ":an00034:"
+    },
+    {
+        "name": "SHEEP",
+        "short_name": "sheep",
+        "category": "Animals &amp; Nature",
+        "image": "1f411.png",
+        "pattern": ":an00035:"
+    },
+    {
+        "name": "MONKEY",
+        "short_name": "monkey",
+        "category": "Animals &amp; Nature",
+        "image": "1f412.png",
+        "pattern": ":an00036:"
+    },
+    {
+        "name": "ROOSTER",
+        "short_name": "rooster",
+        "category": "Animals &amp; Nature",
+        "image": "1f413.png",
+        "pattern": ":an00037:"
+    },
+    {
+        "name": "CHICKEN",
+        "short_name": "chicken",
+        "category": "Animals &amp; Nature",
+        "image": "1f414.png",
+        "pattern": ":an00038:"
+    },
+    {
+        "name": "DOG",
+        "short_name": "dog2",
+        "category": "Animals &amp; Nature",
+        "image": "1f415.png",
+        "pattern": ":an00039:"
+    },
+    {
+        "name": "PIG",
+        "short_name": "pig2",
+        "category": "Animals &amp; Nature",
+        "image": "1f416.png",
+        "pattern": ":an00040:"
+    },
+    {
+        "name": "BOAR",
+        "short_name": "boar",
+        "category": "Animals &amp; Nature",
+        "image": "1f417.png",
+        "pattern": ":an00041:"
+    },
+    {
+        "name": "ELEPHANT",
+        "short_name": "elephant",
+        "category": "Animals &amp; Nature",
+        "image": "1f418.png",
+        "pattern": ":an00042:"
+    },
+    {
+        "name": "OCTOPUS",
+        "short_name": "octopus",
+        "category": "Animals &amp; Nature",
+        "image": "1f419.png",
+        "pattern": ":an00043:"
+    },
+    {
+        "name": "SPIRAL SHELL",
+        "short_name": "shell",
+        "category": "Animals &amp; Nature",
+        "image": "1f41a.png",
+        "pattern": ":an00044:"
+    },
+    {
+        "name": "BUG",
+        "short_name": "bug",
+        "category": "Animals &amp; Nature",
+        "image": "1f41b.png",
+        "pattern": ":an00045:"
+    },
+    {
+        "name": "ANT",
+        "short_name": "ant",
+        "category": "Animals &amp; Nature",
+        "image": "1f41c.png",
+        "pattern": ":an00046:"
+    },
+    {
+        "name": "HONEYBEE",
+        "short_name": "bee",
+        "category": "Animals &amp; Nature",
+        "image": "1f41d.png",
+        "pattern": ":an00047:"
+    },
+    {
+        "name": "LADY BEETLE",
+        "short_name": "beetle",
+        "category": "Animals &amp; Nature",
+        "image": "1f41e.png",
+        "pattern": ":an00048:"
+    },
+    {
+        "name": "FISH",
+        "short_name": "fish",
+        "category": "Animals &amp; Nature",
+        "image": "1f41f.png",
+        "pattern": ":an00049:"
+    },
+    {
+        "name": "TROPICAL FISH",
+        "short_name": "tropical_fish",
+        "category": "Animals &amp; Nature",
+        "image": "1f420.png",
+        "pattern": ":an00050:"
+    },
+    {
+        "name": "BLOWFISH",
+        "short_name": "blowfish",
+        "category": "Animals &amp; Nature",
+        "image": "1f421.png",
+        "pattern": ":an00051:"
+    },
+    {
+        "name": "TURTLE",
+        "short_name": "turtle",
+        "category": "Animals &amp; Nature",
+        "image": "1f422.png",
+        "pattern": ":an00052:"
+    },
+    {
+        "name": "HATCHING CHICK",
+        "short_name": "hatching_chick",
+        "category": "Animals &amp; Nature",
+        "image": "1f423.png",
+        "pattern": ":an00053:"
+    },
+    {
+        "name": "BABY CHICK",
+        "short_name": "baby_chick",
+        "category": "Animals &amp; Nature",
+        "image": "1f424.png",
+        "pattern": ":an00054:"
+    },
+    {
+        "name": "FRONT-FACING BABY CHICK",
+        "short_name": "hatched_chick",
+        "category": "Animals &amp; Nature",
+        "image": "1f425.png",
+        "pattern": ":an00055:"
+    },
+    {
+        "name": "BIRD",
+        "short_name": "bird",
+        "category": "Animals &amp; Nature",
+        "image": "1f426.png",
+        "pattern": ":an00056:"
+    },
+    {
+        "name": "PENGUIN",
+        "short_name": "penguin",
+        "category": "Animals &amp; Nature",
+        "image": "1f427.png",
+        "pattern": ":an00057:"
+    },
+    {
+        "name": "KOALA",
+        "short_name": "koala",
+        "category": "Animals &amp; Nature",
+        "image": "1f428.png",
+        "pattern": ":an00058:"
+    },
+    {
+        "name": "POODLE",
+        "short_name": "poodle",
+        "category": "Animals &amp; Nature",
+        "image": "1f429.png",
+        "pattern": ":an00059:"
+    },
+    {
+        "name": "DROMEDARY CAMEL",
+        "short_name": "dromedary_camel",
+        "category": "Animals &amp; Nature",
+        "image": "1f42a.png",
+        "pattern": ":an00060:"
+    },
+    {
+        "name": "BACTRIAN CAMEL",
+        "short_name": "camel",
+        "category": "Animals &amp; Nature",
+        "image": "1f42b.png",
+        "pattern": ":an00061:"
+    },
+    {
+        "name": "DOLPHIN",
+        "short_name": "dolphin",
+        "category": "Animals &amp; Nature",
+        "image": "1f42c.png",
+        "pattern": ":an00062:"
+    },
+    {
+        "name": "MOUSE FACE",
+        "short_name": "mouse",
+        "category": "Animals &amp; Nature",
+        "image": "1f42d.png",
+        "pattern": ":an00063:"
+    },
+    {
+        "name": "COW FACE",
+        "short_name": "cow",
+        "category": "Animals &amp; Nature",
+        "image": "1f42e.png",
+        "pattern": ":an00064:"
+    },
+    {
+        "name": "TIGER FACE",
+        "short_name": "tiger",
+        "category": "Animals &amp; Nature",
+        "image": "1f42f.png",
+        "pattern": ":an00065:"
+    },
+    {
+        "name": "RABBIT FACE",
+        "short_name": "rabbit",
+        "category": "Animals &amp; Nature",
+        "image": "1f430.png",
+        "pattern": ":an00066:"
+    },
+    {
+        "name": "CAT FACE",
+        "short_name": "cat",
+        "category": "Animals &amp; Nature",
+        "image": "1f431.png",
+        "pattern": ":an00067:"
+    },
+    {
+        "name": "DRAGON FACE",
+        "short_name": "dragon_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f432.png",
+        "pattern": ":an00068:"
+    },
+    {
+        "name": "SPOUTING WHALE",
+        "short_name": "whale",
+        "category": "Animals &amp; Nature",
+        "image": "1f433.png",
+        "pattern": ":an00069:"
+    },
+    {
+        "name": "HORSE FACE",
+        "short_name": "horse",
+        "category": "Animals &amp; Nature",
+        "image": "1f434.png",
+        "pattern": ":an00070:"
+    },
+    {
+        "name": "MONKEY FACE",
+        "short_name": "monkey_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f435.png",
+        "pattern": ":an00071:"
+    },
+    {
+        "name": "DOG FACE",
+        "short_name": "dog",
+        "category": "Animals &amp; Nature",
+        "image": "1f436.png",
+        "pattern": ":an00072:"
+    },
+    {
+        "name": "PIG FACE",
+        "short_name": "pig",
+        "category": "Animals &amp; Nature",
+        "image": "1f437.png",
+        "pattern": ":an00073:"
+    },
+    {
+        "name": "FROG FACE",
+        "short_name": "frog",
+        "category": "Animals &amp; Nature",
+        "image": "1f438.png",
+        "pattern": ":an00074:"
+    },
+    {
+        "name": "HAMSTER FACE",
+        "short_name": "hamster",
+        "category": "Animals &amp; Nature",
+        "image": "1f439.png",
+        "pattern": ":an00075:"
+    },
+    {
+        "name": "WOLF FACE",
+        "short_name": "wolf",
+        "category": "Animals &amp; Nature",
+        "image": "1f43a.png",
+        "pattern": ":an00076:"
+    },
+    {
+        "name": "BEAR FACE",
+        "short_name": "bear",
+        "category": "Animals &amp; Nature",
+        "image": "1f43b.png",
+        "pattern": ":an00077:"
+    },
+    {
+        "name": "PANDA FACE",
+        "short_name": "panda_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f43c.png",
+        "pattern": ":an00078:"
+    },
+    {
+        "name": "PIG NOSE",
+        "short_name": "pig_nose",
+        "category": "Animals &amp; Nature",
+        "image": "1f43d.png",
+        "pattern": ":an00079:"
+    },
+    {
+        "name": "PAW PRINTS",
+        "short_name": "feet",
+        "category": "Animals &amp; Nature",
+        "image": "1f43e.png",
+        "pattern": ":an00080:"
+    },
+    {
+        "name": "null",
+        "short_name": "chipmunk",
+        "category": "Animals &amp; Nature",
+        "image": "1f43f-fe0f.png",
+        "pattern": ":an00081:"
+    },
+    {
+        "name": "BOUQUET",
+        "short_name": "bouquet",
+        "category": "Animals &amp; Nature",
+        "image": "1f490.png",
+        "pattern": ":an00082:"
+    },
+    {
+        "name": "WHITE FLOWER",
+        "short_name": "white_flower",
+        "category": "Animals &amp; Nature",
+        "image": "1f4ae.png",
+        "pattern": ":an00083:"
+    },
+    {
+        "name": "null",
+        "short_name": "dove_of_peace",
+        "category": "Animals &amp; Nature",
+        "image": "1f54a-fe0f.png",
+        "pattern": ":an00084:"
+    },
+    {
+        "name": "null",
+        "short_name": "spider",
+        "category": "Animals &amp; Nature",
+        "image": "1f577-fe0f.png",
+        "pattern": ":an00085:"
+    },
+    {
+        "name": "null",
+        "short_name": "spider_web",
+        "category": "Animals &amp; Nature",
+        "image": "1f578-fe0f.png",
+        "pattern": ":an00086:"
+    },
+    {
+        "name": "WILTED FLOWER",
+        "short_name": "wilted_flower",
+        "category": "Animals &amp; Nature",
+        "image": "1f940.png",
+        "pattern": ":an00087:"
+    },
+    {
+        "name": "CRAB",
+        "short_name": "crab",
+        "category": "Animals &amp; Nature",
+        "image": "1f980.png",
+        "pattern": ":an00088:"
+    },
+    {
+        "name": "LION FACE",
+        "short_name": "lion_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f981.png",
+        "pattern": ":an00089:"
+    },
+    {
+        "name": "SCORPION",
+        "short_name": "scorpion",
+        "category": "Animals &amp; Nature",
+        "image": "1f982.png",
+        "pattern": ":an00090:"
+    },
+    {
+        "name": "TURKEY",
+        "short_name": "turkey",
+        "category": "Animals &amp; Nature",
+        "image": "1f983.png",
+        "pattern": ":an00091:"
+    },
+    {
+        "name": "UNICORN FACE",
+        "short_name": "unicorn_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f984.png",
+        "pattern": ":an00092:"
+    },
+    {
+        "name": "EAGLE",
+        "short_name": "eagle",
+        "category": "Animals &amp; Nature",
+        "image": "1f985.png",
+        "pattern": ":an00093:"
+    },
+    {
+        "name": "DUCK",
+        "short_name": "duck",
+        "category": "Animals &amp; Nature",
+        "image": "1f986.png",
+        "pattern": ":an00094:"
+    },
+    {
+        "name": "BAT",
+        "short_name": "bat",
+        "category": "Animals &amp; Nature",
+        "image": "1f987.png",
+        "pattern": ":an00095:"
+    },
+    {
+        "name": "SHARK",
+        "short_name": "shark",
+        "category": "Animals &amp; Nature",
+        "image": "1f988.png",
+        "pattern": ":an00096:"
+    },
+    {
+        "name": "OWL",
+        "short_name": "owl",
+        "category": "Animals &amp; Nature",
+        "image": "1f989.png",
+        "pattern": ":an00097:"
+    },
+    {
+        "name": "FOX FACE",
+        "short_name": "fox_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f98a.png",
+        "pattern": ":an00098:"
+    },
+    {
+        "name": "BUTTERFLY",
+        "short_name": "butterfly",
+        "category": "Animals &amp; Nature",
+        "image": "1f98b.png",
+        "pattern": ":an00099:"
+    },
+    {
+        "name": "DEER",
+        "short_name": "deer",
+        "category": "Animals &amp; Nature",
+        "image": "1f98c.png",
+        "pattern": ":an00100:"
+    },
+    {
+        "name": "GORILLA",
+        "short_name": "gorilla",
+        "category": "Animals &amp; Nature",
+        "image": "1f98d.png",
+        "pattern": ":an00101:"
+    },
+    {
+        "name": "LIZARD",
+        "short_name": "lizard",
+        "category": "Animals &amp; Nature",
+        "image": "1f98e.png",
+        "pattern": ":an00102:"
+    },
+    {
+        "name": "RHINOCEROS",
+        "short_name": "rhinoceros",
+        "category": "Animals &amp; Nature",
+        "image": "1f98f.png",
+        "pattern": ":an00103:"
+    },
+    {
+        "name": "SHRIMP",
+        "short_name": "shrimp",
+        "category": "Animals &amp; Nature",
+        "image": "1f990.png",
+        "pattern": ":an00104:"
+    },
+    {
+        "name": "SQUID",
+        "short_name": "squid",
+        "category": "Animals &amp; Nature",
+        "image": "1f991.png",
+        "pattern": ":an00105:"
+    },
+    {
+        "name": "GIRAFFE FACE",
+        "short_name": "giraffe_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f992.png",
+        "pattern": ":an00106:"
+    },
+    {
+        "name": "ZEBRA FACE",
+        "short_name": "zebra_face",
+        "category": "Animals &amp; Nature",
+        "image": "1f993.png",
+        "pattern": ":an00107:"
+    },
+    {
+        "name": "HEDGEHOG",
+        "short_name": "hedgehog",
+        "category": "Animals &amp; Nature",
+        "image": "1f994.png",
+        "pattern": ":an00108:"
+    },
+    {
+        "name": "SAUROPOD",
+        "short_name": "sauropod",
+        "category": "Animals &amp; Nature",
+        "image": "1f995.png",
+        "pattern": ":an00109:"
+    },
+    {
+        "name": "T-REX",
+        "short_name": "t-rex",
+        "category": "Animals &amp; Nature",
+        "image": "1f996.png",
+        "pattern": ":an00110:"
+    },
+    {
+        "name": "CRICKET",
+        "short_name": "cricket",
+        "category": "Animals &amp; Nature",
+        "image": "1f997.png",
+        "pattern": ":an00111:"
+    },
+    {
+        "name": "null",
+        "short_name": "shamrock",
+        "category": "Animals &amp; Nature",
+        "image": "2618-fe0f.png",
+        "pattern": ":an00112:"
+    }
+];

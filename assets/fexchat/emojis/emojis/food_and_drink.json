@@ -1,0 +1,716 @@
+window.food_and_drink=[
+    {
+        "name": "HOT DOG",
+        "short_name": "hotdog",
+        "category": "Food &amp; Drink",
+        "image": "1f32d.png",
+        "pattern": ":fd00000:"
+    },
+    {
+        "name": "TACO",
+        "short_name": "taco",
+        "category": "Food &amp; Drink",
+        "image": "1f32e.png",
+        "pattern": ":fd00001:"
+    },
+    {
+        "name": "BURRITO",
+        "short_name": "burrito",
+        "category": "Food &amp; Drink",
+        "image": "1f32f.png",
+        "pattern": ":fd00002:"
+    },
+    {
+        "name": "CHESTNUT",
+        "short_name": "chestnut",
+        "category": "Food &amp; Drink",
+        "image": "1f330.png",
+        "pattern": ":fd00003:"
+    },
+    {
+        "name": "null",
+        "short_name": "hot_pepper",
+        "category": "Food &amp; Drink",
+        "image": "1f336-fe0f.png",
+        "pattern": ":fd00004:"
+    },
+    {
+        "name": "EAR OF MAIZE",
+        "short_name": "corn",
+        "category": "Food &amp; Drink",
+        "image": "1f33d.png",
+        "pattern": ":fd00005:"
+    },
+    {
+        "name": "MUSHROOM",
+        "short_name": "mushroom",
+        "category": "Food &amp; Drink",
+        "image": "1f344.png",
+        "pattern": ":fd00006:"
+    },
+    {
+        "name": "TOMATO",
+        "short_name": "tomato",
+        "category": "Food &amp; Drink",
+        "image": "1f345.png",
+        "pattern": ":fd00007:"
+    },
+    {
+        "name": "AUBERGINE",
+        "short_name": "eggplant",
+        "category": "Food &amp; Drink",
+        "image": "1f346.png",
+        "pattern": ":fd00008:"
+    },
+    {
+        "name": "GRAPES",
+        "short_name": "grapes",
+        "category": "Food &amp; Drink",
+        "image": "1f347.png",
+        "pattern": ":fd00009:"
+    },
+    {
+        "name": "MELON",
+        "short_name": "melon",
+        "category": "Food &amp; Drink",
+        "image": "1f348.png",
+        "pattern": ":fd00010:"
+    },
+    {
+        "name": "WATERMELON",
+        "short_name": "watermelon",
+        "category": "Food &amp; Drink",
+        "image": "1f349.png",
+        "pattern": ":fd00011:"
+    },
+    {
+        "name": "TANGERINE",
+        "short_name": "tangerine",
+        "category": "Food &amp; Drink",
+        "image": "1f34a.png",
+        "pattern": ":fd00012:"
+    },
+    {
+        "name": "LEMON",
+        "short_name": "lemon",
+        "category": "Food &amp; Drink",
+        "image": "1f34b.png",
+        "pattern": ":fd00013:"
+    },
+    {
+        "name": "BANANA",
+        "short_name": "banana",
+        "category": "Food &amp; Drink",
+        "image": "1f34c.png",
+        "pattern": ":fd00014:"
+    },
+    {
+        "name": "PINEAPPLE",
+        "short_name": "pineapple",
+        "category": "Food &amp; Drink",
+        "image": "1f34d.png",
+        "pattern": ":fd00015:"
+    },
+    {
+        "name": "RED APPLE",
+        "short_name": "apple",
+        "category": "Food &amp; Drink",
+        "image": "1f34e.png",
+        "pattern": ":fd00016:"
+    },
+    {
+        "name": "GREEN APPLE",
+        "short_name": "green_apple",
+        "category": "Food &amp; Drink",
+        "image": "1f34f.png",
+        "pattern": ":fd00017:"
+    },
+    {
+        "name": "PEAR",
+        "short_name": "pear",
+        "category": "Food &amp; Drink",
+        "image": "1f350.png",
+        "pattern": ":fd00018:"
+    },
+    {
+        "name": "PEACH",
+        "short_name": "peach",
+        "category": "Food &amp; Drink",
+        "image": "1f351.png",
+        "pattern": ":fd00019:"
+    },
+    {
+        "name": "CHERRIES",
+        "short_name": "cherries",
+        "category": "Food &amp; Drink",
+        "image": "1f352.png",
+        "pattern": ":fd00020:"
+    },
+    {
+        "name": "STRAWBERRY",
+        "short_name": "strawberry",
+        "category": "Food &amp; Drink",
+        "image": "1f353.png",
+        "pattern": ":fd00021:"
+    },
+    {
+        "name": "HAMBURGER",
+        "short_name": "hamburger",
+        "category": "Food &amp; Drink",
+        "image": "1f354.png",
+        "pattern": ":fd00022:"
+    },
+    {
+        "name": "SLICE OF PIZZA",
+        "short_name": "pizza",
+        "category": "Food &amp; Drink",
+        "image": "1f355.png",
+        "pattern": ":fd00023:"
+    },
+    {
+        "name": "MEAT ON BONE",
+        "short_name": "meat_on_bone",
+        "category": "Food &amp; Drink",
+        "image": "1f356.png",
+        "pattern": ":fd00024:"
+    },
+    {
+        "name": "POULTRY LEG",
+        "short_name": "poultry_leg",
+        "category": "Food &amp; Drink",
+        "image": "1f357.png",
+        "pattern": ":fd00025:"
+    },
+    {
+        "name": "RICE CRACKER",
+        "short_name": "rice_cracker",
+        "category": "Food &amp; Drink",
+        "image": "1f358.png",
+        "pattern": ":fd00026:"
+    },
+    {
+        "name": "RICE BALL",
+        "short_name": "rice_ball",
+        "category": "Food &amp; Drink",
+        "image": "1f359.png",
+        "pattern": ":fd00027:"
+    },
+    {
+        "name": "COOKED RICE",
+        "short_name": "rice",
+        "category": "Food &amp; Drink",
+        "image": "1f35a.png",
+        "pattern": ":fd00028:"
+    },
+    {
+        "name": "CURRY AND RICE",
+        "short_name": "curry",
+        "category": "Food &amp; Drink",
+        "image": "1f35b.png",
+        "pattern": ":fd00029:"
+    },
+    {
+        "name": "STEAMING BOWL",
+        "short_name": "ramen",
+        "category": "Food &amp; Drink",
+        "image": "1f35c.png",
+        "pattern": ":fd00030:"
+    },
+    {
+        "name": "SPAGHETTI",
+        "short_name": "spaghetti",
+        "category": "Food &amp; Drink",
+        "image": "1f35d.png",
+        "pattern": ":fd00031:"
+    },
+    {
+        "name": "BREAD",
+        "short_name": "bread",
+        "category": "Food &amp; Drink",
+        "image": "1f35e.png",
+        "pattern": ":fd00032:"
+    },
+    {
+        "name": "FRENCH FRIES",
+        "short_name": "fries",
+        "category": "Food &amp; Drink",
+        "image": "1f35f.png",
+        "pattern": ":fd00033:"
+    },
+    {
+        "name": "ROASTED SWEET POTATO",
+        "short_name": "sweet_potato",
+        "category": "Food &amp; Drink",
+        "image": "1f360.png",
+        "pattern": ":fd00034:"
+    },
+    {
+        "name": "DANGO",
+        "short_name": "dango",
+        "category": "Food &amp; Drink",
+        "image": "1f361.png",
+        "pattern": ":fd00035:"
+    },
+    {
+        "name": "ODEN",
+        "short_name": "oden",
+        "category": "Food &amp; Drink",
+        "image": "1f362.png",
+        "pattern": ":fd00036:"
+    },
+    {
+        "name": "SUSHI",
+        "short_name": "sushi",
+        "category": "Food &amp; Drink",
+        "image": "1f363.png",
+        "pattern": ":fd00037:"
+    },
+    {
+        "name": "FRIED SHRIMP",
+        "short_name": "fried_shrimp",
+        "category": "Food &amp; Drink",
+        "image": "1f364.png",
+        "pattern": ":fd00038:"
+    },
+    {
+        "name": "FISH CAKE WITH SWIRL DESIGN",
+        "short_name": "fish_cake",
+        "category": "Food &amp; Drink",
+        "image": "1f365.png",
+        "pattern": ":fd00039:"
+    },
+    {
+        "name": "SOFT ICE CREAM",
+        "short_name": "icecream",
+        "category": "Food &amp; Drink",
+        "image": "1f366.png",
+        "pattern": ":fd00040:"
+    },
+    {
+        "name": "SHAVED ICE",
+        "short_name": "shaved_ice",
+        "category": "Food &amp; Drink",
+        "image": "1f367.png",
+        "pattern": ":fd00041:"
+    },
+    {
+        "name": "ICE CREAM",
+        "short_name": "ice_cream",
+        "category": "Food &amp; Drink",
+        "image": "1f368.png",
+        "pattern": ":fd00042:"
+    },
+    {
+        "name": "DOUGHNUT",
+        "short_name": "doughnut",
+        "category": "Food &amp; Drink",
+        "image": "1f369.png",
+        "pattern": ":fd00043:"
+    },
+    {
+        "name": "COOKIE",
+        "short_name": "cookie",
+        "category": "Food &amp; Drink",
+        "image": "1f36a.png",
+        "pattern": ":fd00044:"
+    },
+    {
+        "name": "CHOCOLATE BAR",
+        "short_name": "chocolate_bar",
+        "category": "Food &amp; Drink",
+        "image": "1f36b.png",
+        "pattern": ":fd00045:"
+    },
+    {
+        "name": "CANDY",
+        "short_name": "candy",
+        "category": "Food &amp; Drink",
+        "image": "1f36c.png",
+        "pattern": ":fd00046:"
+    },
+    {
+        "name": "LOLLIPOP",
+        "short_name": "lollipop",
+        "category": "Food &amp; Drink",
+        "image": "1f36d.png",
+        "pattern": ":fd00047:"
+    },
+    {
+        "name": "CUSTARD",
+        "short_name": "custard",
+        "category": "Food &amp; Drink",
+        "image": "1f36e.png",
+        "pattern": ":fd00048:"
+    },
+    {
+        "name": "HONEY POT",
+        "short_name": "honey_pot",
+        "category": "Food &amp; Drink",
+        "image": "1f36f.png",
+        "pattern": ":fd00049:"
+    },
+    {
+        "name": "SHORTCAKE",
+        "short_name": "cake",
+        "category": "Food &amp; Drink",
+        "image": "1f370.png",
+        "pattern": ":fd00050:"
+    },
+    {
+        "name": "BENTO BOX",
+        "short_name": "bento",
+        "category": "Food &amp; Drink",
+        "image": "1f371.png",
+        "pattern": ":fd00051:"
+    },
+    {
+        "name": "POT OF FOOD",
+        "short_name": "stew",
+        "category": "Food &amp; Drink",
+        "image": "1f372.png",
+        "pattern": ":fd00052:"
+    },
+    {
+        "name": "COOKING",
+        "short_name": "fried_egg",
+        "category": "Food &amp; Drink",
+        "image": "1f373.png",
+        "pattern": ":fd00053:"
+    },
+    {
+        "name": "FORK AND KNIFE",
+        "short_name": "fork_and_knife",
+        "category": "Food &amp; Drink",
+        "image": "1f374.png",
+        "pattern": ":fd00054:"
+    },
+    {
+        "name": "TEACUP WITHOUT HANDLE",
+        "short_name": "tea",
+        "category": "Food &amp; Drink",
+        "image": "1f375.png",
+        "pattern": ":fd00055:"
+    },
+    {
+        "name": "SAKE BOTTLE AND CUP",
+        "short_name": "sake",
+        "category": "Food &amp; Drink",
+        "image": "1f376.png",
+        "pattern": ":fd00056:"
+    },
+    {
+        "name": "WINE GLASS",
+        "short_name": "wine_glass",
+        "category": "Food &amp; Drink",
+        "image": "1f377.png",
+        "pattern": ":fd00057:"
+    },
+    {
+        "name": "COCKTAIL GLASS",
+        "short_name": "cocktail",
+        "category": "Food &amp; Drink",
+        "image": "1f378.png",
+        "pattern": ":fd00058:"
+    },
+    {
+        "name": "TROPICAL DRINK",
+        "short_name": "tropical_drink",
+        "category": "Food &amp; Drink",
+        "image": "1f379.png",
+        "pattern": ":fd00059:"
+    },
+    {
+        "name": "BEER MUG",
+        "short_name": "beer",
+        "category": "Food &amp; Drink",
+        "image": "1f37a.png",
+        "pattern": ":fd00060:"
+    },
+    {
+        "name": "CLINKING BEER MUGS",
+        "short_name": "beers",
+        "category": "Food &amp; Drink",
+        "image": "1f37b.png",
+        "pattern": ":fd00061:"
+    },
+    {
+        "name": "BABY BOTTLE",
+        "short_name": "baby_bottle",
+        "category": "Food &amp; Drink",
+        "image": "1f37c.png",
+        "pattern": ":fd00062:"
+    },
+    {
+        "name": "null",
+        "short_name": "knife_fork_plate",
+        "category": "Food &amp; Drink",
+        "image": "1f37d-fe0f.png",
+        "pattern": ":fd00063:"
+    },
+    {
+        "name": "BOTTLE WITH POPPING CORK",
+        "short_name": "champagne",
+        "category": "Food &amp; Drink",
+        "image": "1f37e.png",
+        "pattern": ":fd00064:"
+    },
+    {
+        "name": "POPCORN",
+        "short_name": "popcorn",
+        "category": "Food &amp; Drink",
+        "image": "1f37f.png",
+        "pattern": ":fd00065:"
+    },
+    {
+        "name": "BIRTHDAY CAKE",
+        "short_name": "birthday",
+        "category": "Food &amp; Drink",
+        "image": "1f382.png",
+        "pattern": ":fd00066:"
+    },
+    {
+        "name": "AMPHORA",
+        "short_name": "amphora",
+        "category": "Food &amp; Drink",
+        "image": "1f3fa.png",
+        "pattern": ":fd00067:"
+    },
+    {
+        "name": "HOCHO",
+        "short_name": "hocho",
+        "category": "Food &amp; Drink",
+        "image": "1f52a.png",
+        "pattern": ":fd00068:"
+    },
+    {
+        "name": "CLINKING GLASSES",
+        "short_name": "clinking_glasses",
+        "category": "Food &amp; Drink",
+        "image": "1f942.png",
+        "pattern": ":fd00069:"
+    },
+    {
+        "name": "TUMBLER GLASS",
+        "short_name": "tumbler_glass",
+        "category": "Food &amp; Drink",
+        "image": "1f943.png",
+        "pattern": ":fd00070:"
+    },
+    {
+        "name": "SPOON",
+        "short_name": "spoon",
+        "category": "Food &amp; Drink",
+        "image": "1f944.png",
+        "pattern": ":fd00071:"
+    },
+    {
+        "name": "CROISSANT",
+        "short_name": "croissant",
+        "category": "Food &amp; Drink",
+        "image": "1f950.png",
+        "pattern": ":fd00072:"
+    },
+    {
+        "name": "AVOCADO",
+        "short_name": "avocado",
+        "category": "Food &amp; Drink",
+        "image": "1f951.png",
+        "pattern": ":fd00073:"
+    },
+    {
+        "name": "CUCUMBER",
+        "short_name": "cucumber",
+        "category": "Food &amp; Drink",
+        "image": "1f952.png",
+        "pattern": ":fd00074:"
+    },
+    {
+        "name": "BACON",
+        "short_name": "bacon",
+        "category": "Food &amp; Drink",
+        "image": "1f953.png",
+        "pattern": ":fd00075:"
+    },
+    {
+        "name": "POTATO",
+        "short_name": "potato",
+        "category": "Food &amp; Drink",
+        "image": "1f954.png",
+        "pattern": ":fd00076:"
+    },
+    {
+        "name": "CARROT",
+        "short_name": "carrot",
+        "category": "Food &amp; Drink",
+        "image": "1f955.png",
+        "pattern": ":fd00077:"
+    },
+    {
+        "name": "BAGUETTE BREAD",
+        "short_name": "baguette_bread",
+        "category": "Food &amp; Drink",
+        "image": "1f956.png",
+        "pattern": ":fd00078:"
+    },
+    {
+        "name": "GREEN SALAD",
+        "short_name": "green_salad",
+        "category": "Food &amp; Drink",
+        "image": "1f957.png",
+        "pattern": ":fd00079:"
+    },
+    {
+        "name": "SHALLOW PAN OF FOOD",
+        "short_name": "shallow_pan_of_food",
+        "category": "Food &amp; Drink",
+        "image": "1f958.png",
+        "pattern": ":fd00080:"
+    },
+    {
+        "name": "STUFFED FLATBREAD",
+        "short_name": "stuffed_flatbread",
+        "category": "Food &amp; Drink",
+        "image": "1f959.png",
+        "pattern": ":fd00081:"
+    },
+    {
+        "name": "EGG",
+        "short_name": "egg",
+        "category": "Food &amp; Drink",
+        "image": "1f95a.png",
+        "pattern": ":fd00082:"
+    },
+    {
+        "name": "GLASS OF MILK",
+        "short_name": "glass_of_milk",
+        "category": "Food &amp; Drink",
+        "image": "1f95b.png",
+        "pattern": ":fd00083:"
+    },
+    {
+        "name": "PEANUTS",
+        "short_name": "peanuts",
+        "category": "Food &amp; Drink",
+        "image": "1f95c.png",
+        "pattern": ":fd00084:"
+    },
+    {
+        "name": "KIWIFRUIT",
+        "short_name": "kiwifruit",
+        "category": "Food &amp; Drink",
+        "image": "1f95d.png",
+        "pattern": ":fd00085:"
+    },
+    {
+        "name": "PANCAKES",
+        "short_name": "pancakes",
+        "category": "Food &amp; Drink",
+        "image": "1f95e.png",
+        "pattern": ":fd00086:"
+    },
+    {
+        "name": "DUMPLING",
+        "short_name": "dumpling",
+        "category": "Food &amp; Drink",
+        "image": "1f95f.png",
+        "pattern": ":fd00087:"
+    },
+    {
+        "name": "FORTUNE COOKIE",
+        "short_name": "fortune_cookie",
+        "category": "Food &amp; Drink",
+        "image": "1f960.png",
+        "pattern": ":fd00088:"
+    },
+    {
+        "name": "TAKEOUT BOX",
+        "short_name": "takeout_box",
+        "category": "Food &amp; Drink",
+        "image": "1f961.png",
+        "pattern": ":fd00089:"
+    },
+    {
+        "name": "CHOPSTICKS",
+        "short_name": "chopsticks",
+        "category": "Food &amp; Drink",
+        "image": "1f962.png",
+        "pattern": ":fd00090:"
+    },
+    {
+        "name": "BOWL WITH SPOON",
+        "short_name": "bowl_with_spoon",
+        "category": "Food &amp; Drink",
+        "image": "1f963.png",
+        "pattern": ":fd00091:"
+    },
+    {
+        "name": "CUP WITH STRAW",
+        "short_name": "cup_with_straw",
+        "category": "Food &amp; Drink",
+        "image": "1f964.png",
+        "pattern": ":fd00092:"
+    },
+    {
+        "name": "COCONUT",
+        "short_name": "coconut",
+        "category": "Food &amp; Drink",
+        "image": "1f965.png",
+        "pattern": ":fd00093:"
+    },
+    {
+        "name": "BROCCOLI",
+        "short_name": "broccoli",
+        "category": "Food &amp; Drink",
+        "image": "1f966.png",
+        "pattern": ":fd00094:"
+    },
+    {
+        "name": "PIE",
+        "short_name": "pie",
+        "category": "Food &amp; Drink",
+        "image": "1f967.png",
+        "pattern": ":fd00095:"
+    },
+    {
+        "name": "PRETZEL",
+        "short_name": "pretzel",
+        "category": "Food &amp; Drink",
+        "image": "1f968.png",
+        "pattern": ":fd00096:"
+    },
+    {
+        "name": "CUT OF MEAT",
+        "short_name": "cut_of_meat",
+        "category": "Food &amp; Drink",
+        "image": "1f969.png",
+        "pattern": ":fd00097:"
+    },
+    {
+        "name": "SANDWICH",
+        "short_name": "sandwich",
+        "category": "Food &amp; Drink",
+        "image": "1f96a.png",
+        "pattern": ":fd00098:"
+    },
+    {
+        "name": "CANNED FOOD",
+        "short_name": "canned_food",
+        "category": "Food &amp; Drink",
+        "image": "1f96b.png",
+        "pattern": ":fd00099:"
+    },
+    {
+        "name": "CHEESE WEDGE",
+        "short_name": "cheese_wedge",
+        "category": "Food &amp; Drink",
+        "image": "1f9c0.png",
+        "pattern": ":fd00100:"
+    },
+    {
+        "name": "HOT BEVERAGE",
+        "short_name": "coffee",
+        "category": "Food &amp; Drink",
+        "image": "2615.png",
+        "pattern": ":fd00101:"
+    }
+];

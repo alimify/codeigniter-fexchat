@@ -1,0 +1,32 @@
+window.skin_tones=[
+    {
+        "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+        "short_name": "skin-tone-2",
+        "category": "Skin Tones",
+        "image": "1f3fb.png"
+    },
+    {
+        "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
+        "short_name": "skin-tone-3",
+        "category": "Skin Tones",
+        "image": "1f3fc.png"
+    },
+    {
+        "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
+        "short_name": "skin-tone-4",
+        "category": "Skin Tones",
+        "image": "1f3fd.png"
+    },
+    {
+        "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
+        "short_name": "skin-tone-5",
+        "category": "Skin Tones",
+        "image": "1f3fe.png"
+    },
+    {
+        "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
+        "short_name": "skin-tone-6",
+        "category": "Skin Tones",
+        "image": "1f3ff.png"
+    }
+];

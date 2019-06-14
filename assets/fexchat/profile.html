@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8"> 
+    <title>FexChat</title>
+    <link rel="stylesheet" href="assets/css/uikit.min.css">
+    <link rel="stylesheet" href="assets/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="node_modules/bulma/css/bulma.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="../../dist/css/app.min.css">
+</head>
+
+<body>
+    <!-- App Root -->
+    <div class="root" id="root">
+        <div class="fex-app" id="parent" draggable="true">
+            <!-- Main Start -->
+            <div class="f-main">
+
+                <!-- Chat Display Header -->
+                <header class="f-main-header single-chat">
+                    <h3>MESSAGE</h3>
+                </header>
+                <!-- Chat Display Header End -->
+
+                <!-- Chat Display -->
+                <main class="f-main-body" id="mRoot">
+                    <i class="typing">Akuma Isaac Akuma is typing...</i>
+                    <div class="date">
+                        <span class=" tag">09 November 2017</span>
+                    </div>
+                    <div class="date view-more">
+                        <span class="tag">View More</span>
+                    </div>
+                    <div class="f-msg you">
+                        <p>Lorem ipsum?</p>
+                        <time>11:30am</time>
+                    </div>
+                    <div class="f-msg me">
+                        <p>Lorem ipsum?</p>
+                        <time>11:30AM&nbsp;
+                            <span class="mdi mdi-check-all"> </span>
+                        </time>
+                    </div>
+
+                    <div class="date">
+                        <span class=" tag">26 December 2017</span>
+                    </div>
+                    <div class="f-msg me f-file">
+                        <div class="uploading-image">
+                            <div class="blur" style="background-image: url(assets/images/avater.jpg);"></div>
+                            <div class="inner-content">
+                                <div id="spinner">
+                                    <div uk-spinner="ratio: 1"></div>
+                                    <span uk-icon="icon: close"></span>
+                                </div>
+
+                                <div id="progress">
+                                    <progress class="uk-progress" value="20" max="100"></progress>
+                                </div>
+                            </div>
+                        </div>
+                        <time>08:3am</time>
+                    </div>
+                    <div class="f-msg me f-file">
+                        <div class="uploaded-image" style="background-image: url(assets/images/avater.jpg);">
+                            <div class="blur"></div>
+                            <div class="inner-content">
+                                <div id="spinner">
+                                    <div class="view" data-src="assets/images/avater.jpg">View</div>
+                                </div>
+                            </div>
+                        </div>
+                        <time>08:3PM&nbsp;
+                            <span class="mdi mdi-check-all"> </span>
+                        </time>
+                    </div>
+                    <div class="f-msg you f-file">
+                        <div class="uploading-image">
+                            <div class="blur" style="background-image: url(assets/images/avater.jpg);"></div>
+                            <div class="inner-content">
+                                <div id="spinner">
+                                    <span class="mdi mdi-cloud-download download"></span>
+                                </div>
+                                <div id="progress" style="display:none">
+                                    <progress class="uk-progress" value="20" max="100"></progress>
+                                </div>
+                            </div>
+                        </div>
+                        <time>08:3am</time>
+                    </div>
+                    <div class="f-msg you f-file">
+                        <div class="uploading-image">
+                            <div class="blur" style="background-image: url(assets/images/avater.jpg);"></div>
+                            <div class="inner-content">
+                                <div id="spinner">
+                                    <div uk-spinner="ratio: 1"></div>
+                                    <span uk-icon="icon: close" title="Cancel Download" class="downloading"></span>
+                                </div>
+
+                                <div id="progress">
+                                    <progress class="uk-progress" value="20" max="100"></progress>
+                                </div>
+                            </div>
+                        </div>
+                        <time>08:3am</time>
+                    </div>
+                    <div class="f-msg you f-file">
+                        <div class="uploaded-image" style="background-image: url(assets/images/Screenshot14.png);">
+                            <div class="blur"></div>
+                            <div class="inner-content">
+                                <div id="spinner">
+                                    <div class="view" data-src="assets/images/Screenshot14.png">View</div>
+                                </div>
+                            </div>
+                        </div>
+                        <time>08:3am</time>
+                    </div>
+                    <div class="f-msg me f-file">
+                        <div id="f-file">
+                            <p>file_name.pdf</p>
+
+                            <div>
+                                <i class="fa fa-file-o"></i>
+                            </div>
+                        </div>
+                        <time>08:40PM&nbsp;
+                            <span class="mdi mdi-check-all"> </span>
+                        </time>
+                    </div>
+                    <div class="f-msg me f-file">
+                        <div id="f-file">
+                            <p>file_name.pdf</p>
+
+                            <div>
+                                <span uk-icon="icon: close" title="Cancel Upload" class="downloading" style="z-index: 1"></span>
+                                <div uk-spinner="ratio: 1" class="file-uploading"></div>
+                            </div>
+                        </div>
+                        <time>08:40 PM&nbsp;
+                            <span class="mdi mdi-check-all"> </span>
+                        </time>
+                    </div>
+                    <div class="f-msg me f-file">
+                        <div id="f-file">
+                            <p>file_name.pdf</p>
+
+                            <div>
+                                <span class="mdi mdi-upload"> </span>
+                            </div>
+                        </div>
+                        <time>08:40PM&nbsp;</time>
+                    </div>
+                    <div class="f-msg you f-file">
+                        <div id="f-file">
+                            <div>
+                                <i class="fa fa-file-o"></i>
+                            </div>
+                            <p>file_name.pdf</p>
+                        </div>
+                        <time>08:03 AM</time>
+                    </div>
+                    <div class="f-msg you">
+                        <p>
+                            This is a group chat box Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem possimus recusandae deserunt repellat
+                            porro facere cumque ipsa nisi corporis doloremque consectetur laudantium odit iure ipsam excepturi
+                            tempora, sit veritatis nihil! Excepturi exercitationem perspiciatis nam, tenetur adipisci corporis
+                            maxime quibusdam pariatur reiciendis aut quaerat quos beatae at, error doloremque illo unde,
+                            deserunt inventore mollitia blanditiis in dolore a ut labore. Obcaecati. Voluptas velit eveniet
+                            optio nam consequatur nulla amet aut numquam, eos, voluptatem molestias sit? Minus eos corrupti
+                            quasi facilis provident ipsa eius autem beatae, consequatur ipsum. Nostrum error nobis repellendus?</p>
+                        <time>
+                            <span>Akuma Isaac Akuma, </span>11:30 AM</time>
+                    </div>
+
+                </main>
+                <!-- Chat Display End -->
+
+                <!-- Editor Box / Emoji -->
+                <footer id="eRoot">
+
+                    <div class="editBox">
+                        <div class="editBox-body" style="background-color: #fff">
+                            <div class="editor-wraper">
+                                <!-- <div id="editor"></div> -->
+                                <textarea id="editor" placeholder="Type a message" rows="1" autofocus autocomplete=""></textarea>
+                            </div>
+                            <div class="f-toolbar">
+                                <div id="emojiToggle">
+                                    <i class="fa fa-smile-o" title="Insert Emoji" uk-tooltip></i>
+                                </div>
+                                <div id="imageUpload">
+                                    <i class="fa fa-file-image-o" title="Selet Image" uk-tooltip></i>
+                                </div>
+                                <div id="allFileUpload">
+                                    <i class="fa fa-file-o" title="Select File" uk-tooltip></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="sendBar">
+                        <button class="button is-medium is-left" id="mSendBtn" style="font-size: 1.15rem;">Send</button>
+                    </div>
+                    <div class="emoji-container">
+                        <div class="emoji-header" data-target="emoji-body">
+                            <div class="" title="Activity">
+                                <span class="fa fa-clock-o fa-lg"></span>
+                            </div>
+                            <div class=" active" title="Smilies and People">
+                                <span class="fa fa-smile-o fa-lg"></span>
+                            </div>
+                            <div class="" title="Animals">
+                                <span>🐶</span>
+                            </div>
+                            <div class="" title="Foods">
+                                <span>☕️</span>
+                            </div>
+                            <div class="" title="Games">
+                                <span>⚽️</span>
+                            </div>
+                            <div class="" title="Transport">
+                                <span class="fa fa-automobile"></span>
+                            </div>
+                            <div class="" title="Objects">
+                                <span>💡</span>
+                            </div>
+                            <div class="" title="Symbols">
+                                <span>💝</span>
+                            </div>
+                            <div class="" title="Flags">
+                                <span class="fa fa-flag-checkered fa-lg"></span>
+                            </div>
+                        </div>
+                        <div class="emoji-body">
+                            <div id="e-recent">
+                            </div>
+                            <div class="emoji-active" id="e-smiley_and_people">
+                            </div>
+                            <div id="e-animal_and_nature">
+                            </div>
+                            <div id="e-food_and_drink">
+                            </div>
+                            <div id="e-activites">
+                            </div>
+                            <div id="e-travel_and_places">
+                            </div>
+                            <div id="e-objects">
+                            </div>
+                            <div id="e-symbols">
+                            </div>
+                            <div id="e-flags">
+                            </div>
+                        </div>
+                    </div>
+                    <div id="upload">
+                        <input type="file" name="uploadImage" accept=".jpg, .jpeg, .png, .gif">
+                        <input type="file" name="uploadAll">
+                    </div>
+                </footer>
+                <!-- Editor Box / Emoji End -->
+
+            </div>
+        </div>
+
+    </div>
+    <!--   App End -->
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/uiKit.min.js"></script>
+    <script src="assets/js/uiKit-icons.min.js"></script>
+    <script src="emojis/activities.json"></script>
+    <script src="emojis/animal_and_nature.json"></script>
+    <script src="emojis/flags.json"></script>
+    <script src="emojis/food_and_drink.json"></script>
+    <script src="emojis/objects.json"></script>
+    <script src="emojis/smiley_and_people.json"></script>
+    <script src="emojis/symbols.json"></script>
+    <script src="emojis/travel_and_places.json"></script>
+    <script src="src/components/functions.js"></script>
+    <script src="src/emoji.js"></script>
+    <script src="src/main.js"></script>
+    <script src="./src/professional.js"></script>
+</body>
+</html>

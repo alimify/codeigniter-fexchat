@@ -1,0 +1,1136 @@
+window.objects=[
+    {
+        "name": "null",
+        "short_name": "studio_microphone",
+        "category": "Objects",
+        "image": "1f399-fe0f.png",
+        "pattern": ":ob00000:"
+    },
+    {
+        "name": "null",
+        "short_name": "level_slider",
+        "category": "Objects",
+        "image": "1f39a-fe0f.png",
+        "pattern": ":ob00001:"
+    },
+    {
+        "name": "null",
+        "short_name": "control_knobs",
+        "category": "Objects",
+        "image": "1f39b-fe0f.png",
+        "pattern": ":ob00002:"
+    },
+    {
+        "name": "null",
+        "short_name": "film_frames",
+        "category": "Objects",
+        "image": "1f39e-fe0f.png",
+        "pattern": ":ob00003:"
+    },
+    {
+        "name": "MICROPHONE",
+        "short_name": "microphone",
+        "category": "Objects",
+        "image": "1f3a4.png",
+        "pattern": ":ob00004:"
+    },
+    {
+        "name": "MOVIE CAMERA",
+        "short_name": "movie_camera",
+        "category": "Objects",
+        "image": "1f3a5.png",
+        "pattern": ":ob00005:"
+    },
+    {
+        "name": "HEADPHONE",
+        "short_name": "headphones",
+        "category": "Objects",
+        "image": "1f3a7.png",
+        "pattern": ":ob00006:"
+    },
+    {
+        "name": "CLAPPER BOARD",
+        "short_name": "clapper",
+        "category": "Objects",
+        "image": "1f3ac.png",
+        "pattern": ":ob00007:"
+    },
+    {
+        "name": "MUSICAL NOTE",
+        "short_name": "musical_note",
+        "category": "Objects",
+        "image": "1f3b5.png",
+        "pattern": ":ob00008:"
+    },
+    {
+        "name": "MULTIPLE MUSICAL NOTES",
+        "short_name": "notes",
+        "category": "Objects",
+        "image": "1f3b6.png",
+        "pattern": ":ob00009:"
+    },
+    {
+        "name": "SAXOPHONE",
+        "short_name": "saxophone",
+        "category": "Objects",
+        "image": "1f3b7.png",
+        "pattern": ":ob00010:"
+    },
+    {
+        "name": "GUITAR",
+        "short_name": "guitar",
+        "category": "Objects",
+        "image": "1f3b8.png",
+        "pattern": ":ob00011:"
+    },
+    {
+        "name": "MUSICAL KEYBOARD",
+        "short_name": "musical_keyboard",
+        "category": "Objects",
+        "image": "1f3b9.png",
+        "pattern": ":ob00012:"
+    },
+    {
+        "name": "TRUMPET",
+        "short_name": "trumpet",
+        "category": "Objects",
+        "image": "1f3ba.png",
+        "pattern": ":ob00013:"
+    },
+    {
+        "name": "VIOLIN",
+        "short_name": "violin",
+        "category": "Objects",
+        "image": "1f3bb.png",
+        "pattern": ":ob00014:"
+    },
+    {
+        "name": "MUSICAL SCORE",
+        "short_name": "musical_score",
+        "category": "Objects",
+        "image": "1f3bc.png",
+        "pattern": ":ob00015:"
+    },
+    {
+        "name": "IZAKAYA LANTERN",
+        "short_name": "izakaya_lantern",
+        "category": "Objects",
+        "image": "1f3ee.png",
+        "pattern": ":ob00016:"
+    },
+    {
+        "name": "null",
+        "short_name": "label",
+        "category": "Objects",
+        "image": "1f3f7-fe0f.png",
+        "pattern": ":ob00017:"
+    },
+    {
+        "name": "BOW AND ARROW",
+        "short_name": "bow_and_arrow",
+        "category": "Objects",
+        "image": "1f3f9.png",
+        "pattern": ":ob00018:"
+    },
+    {
+        "name": "SYRINGE",
+        "short_name": "syringe",
+        "category": "Objects",
+        "image": "1f489.png",
+        "pattern": ":ob00019:"
+    },
+    {
+        "name": "PILL",
+        "short_name": "pill",
+        "category": "Objects",
+        "image": "1f48a.png",
+        "pattern": ":ob00020:"
+    },
+    {
+        "name": "ELECTRIC LIGHT BULB",
+        "short_name": "bulb",
+        "category": "Objects",
+        "image": "1f4a1.png",
+        "pattern": ":ob00021:"
+    },
+    {
+        "name": "MONEY BAG",
+        "short_name": "moneybag",
+        "category": "Objects",
+        "image": "1f4b0.png",
+        "pattern": ":ob00022:"
+    },
+    {
+        "name": "CURRENCY EXCHANGE",
+        "short_name": "currency_exchange",
+        "category": "Objects",
+        "image": "1f4b1.png",
+        "pattern": ":ob00023:"
+    },
+    {
+        "name": "HEAVY DOLLAR SIGN",
+        "short_name": "heavy_dollar_sign",
+        "category": "Objects",
+        "image": "1f4b2.png",
+        "pattern": ":ob00024:"
+    },
+    {
+        "name": "CREDIT CARD",
+        "short_name": "credit_card",
+        "category": "Objects",
+        "image": "1f4b3.png",
+        "pattern": ":ob00025:"
+    },
+    {
+        "name": "BANKNOTE WITH YEN SIGN",
+        "short_name": "yen",
+        "category": "Objects",
+        "image": "1f4b4.png",
+        "pattern": ":ob00026:"
+    },
+    {
+        "name": "BANKNOTE WITH DOLLAR SIGN",
+        "short_name": "dollar",
+        "category": "Objects",
+        "image": "1f4b5.png",
+        "pattern": ":ob00027:"
+    },
+    {
+        "name": "BANKNOTE WITH EURO SIGN",
+        "short_name": "euro",
+        "category": "Objects",
+        "image": "1f4b6.png",
+        "pattern": ":ob00028:"
+    },
+    {
+        "name": "BANKNOTE WITH POUND SIGN",
+        "short_name": "pound",
+        "category": "Objects",
+        "image": "1f4b7.png",
+        "pattern": ":ob00029:"
+    },
+    {
+        "name": "MONEY WITH WINGS",
+        "short_name": "money_with_wings",
+        "category": "Objects",
+        "image": "1f4b8.png",
+        "pattern": ":ob00030:"
+    },
+    {
+        "name": "CHART WITH UPWARDS TREND AND YEN SIGN",
+        "short_name": "chart",
+        "category": "Objects",
+        "image": "1f4b9.png",
+        "pattern": ":ob00031:"
+    },
+    {
+        "name": "PERSONAL COMPUTER",
+        "short_name": "computer",
+        "category": "Objects",
+        "image": "1f4bb.png",
+        "pattern": ":ob00032:"
+    },
+    {
+        "name": "BRIEFCASE",
+        "short_name": "briefcase",
+        "category": "Objects",
+        "image": "1f4bc.png",
+        "pattern": ":ob00033:"
+    },
+    {
+        "name": "MINIDISC",
+        "short_name": "minidisc",
+        "category": "Objects",
+        "image": "1f4bd.png",
+        "pattern": ":ob00034:"
+    },
+    {
+        "name": "FLOPPY DISK",
+        "short_name": "floppy_disk",
+        "category": "Objects",
+        "image": "1f4be.png",
+        "pattern": ":ob00035:"
+    },
+    {
+        "name": "OPTICAL DISC",
+        "short_name": "cd",
+        "category": "Objects",
+        "image": "1f4bf.png",
+        "pattern": ":ob00036:"
+    },
+    {
+        "name": "DVD",
+        "short_name": "dvd",
+        "category": "Objects",
+        "image": "1f4c0.png",
+        "pattern": ":ob00037:"
+    },
+    {
+        "name": "FILE FOLDER",
+        "short_name": "file_folder",
+        "category": "Objects",
+        "image": "1f4c1.png",
+        "pattern": ":ob00038:"
+    },
+    {
+        "name": "OPEN FILE FOLDER",
+        "short_name": "open_file_folder",
+        "category": "Objects",
+        "image": "1f4c2.png",
+        "pattern": ":ob00039:"
+    },
+    {
+        "name": "PAGE WITH CURL",
+        "short_name": "page_with_curl",
+        "category": "Objects",
+        "image": "1f4c3.png",
+        "pattern": ":ob00040:"
+    },
+    {
+        "name": "PAGE FACING UP",
+        "short_name": "page_facing_up",
+        "category": "Objects",
+        "image": "1f4c4.png",
+        "pattern": ":ob00041:"
+    },
+    {
+        "name": "CALENDAR",
+        "short_name": "date",
+        "category": "Objects",
+        "image": "1f4c5.png",
+        "pattern": ":ob00042:"
+    },
+    {
+        "name": "TEAR-OFF CALENDAR",
+        "short_name": "calendar",
+        "category": "Objects",
+        "image": "1f4c6.png",
+        "pattern": ":ob00043:"
+    },
+    {
+        "name": "CARD INDEX",
+        "short_name": "card_index",
+        "category": "Objects",
+        "image": "1f4c7.png",
+        "pattern": ":ob00044:"
+    },
+    {
+        "name": "CHART WITH UPWARDS TREND",
+        "short_name": "chart_with_upwards_trend",
+        "category": "Objects",
+        "image": "1f4c8.png",
+        "pattern": ":ob00045:"
+    },
+    {
+        "name": "CHART WITH DOWNWARDS TREND",
+        "short_name": "chart_with_downwards_trend",
+        "category": "Objects",
+        "image": "1f4c9.png",
+        "pattern": ":ob00046:"
+    },
+    {
+        "name": "BAR CHART",
+        "short_name": "bar_chart",
+        "category": "Objects",
+        "image": "1f4ca.png",
+        "pattern": ":ob00047:"
+    },
+    {
+        "name": "CLIPBOARD",
+        "short_name": "clipboard",
+        "category": "Objects",
+        "image": "1f4cb.png",
+        "pattern": ":ob00048:"
+    },
+    {
+        "name": "PUSHPIN",
+        "short_name": "pushpin",
+        "category": "Objects",
+        "image": "1f4cc.png",
+        "pattern": ":ob00049:"
+    },
+    {
+        "name": "ROUND PUSHPIN",
+        "short_name": "round_pushpin",
+        "category": "Objects",
+        "image": "1f4cd.png",
+        "pattern": ":ob00050:"
+    },
+    {
+        "name": "PAPERCLIP",
+        "short_name": "paperclip",
+        "category": "Objects",
+        "image": "1f4ce.png",
+        "pattern": ":ob00051:"
+    },
+    {
+        "name": "STRAIGHT RULER",
+        "short_name": "straight_ruler",
+        "category": "Objects",
+        "image": "1f4cf.png",
+        "pattern": ":ob00052:"
+    },
+    {
+        "name": "TRIANGULAR RULER",
+        "short_name": "triangular_ruler",
+        "category": "Objects",
+        "image": "1f4d0.png",
+        "pattern": ":ob00053:"
+    },
+    {
+        "name": "BOOKMARK TABS",
+        "short_name": "bookmark_tabs",
+        "category": "Objects",
+        "image": "1f4d1.png",
+        "pattern": ":ob00054:"
+    },
+    {
+        "name": "LEDGER",
+        "short_name": "ledger",
+        "category": "Objects",
+        "image": "1f4d2.png",
+        "pattern": ":ob00055:"
+    },
+    {
+        "name": "NOTEBOOK",
+        "short_name": "notebook",
+        "category": "Objects",
+        "image": "1f4d3.png",
+        "pattern": ":ob00056:"
+    },
+    {
+        "name": "NOTEBOOK WITH DECORATIVE COVER",
+        "short_name": "notebook_with_decorative_cover",
+        "category": "Objects",
+        "image": "1f4d4.png",
+        "pattern": ":ob00057:"
+    },
+    {
+        "name": "CLOSED BOOK",
+        "short_name": "closed_book",
+        "category": "Objects",
+        "image": "1f4d5.png",
+        "pattern": ":ob00058:"
+    },
+    {
+        "name": "OPEN BOOK",
+        "short_name": "book",
+        "category": "Objects",
+        "image": "1f4d6.png",
+        "pattern": ":ob00059:"
+    },
+    {
+        "name": "GREEN BOOK",
+        "short_name": "green_book",
+        "category": "Objects",
+        "image": "1f4d7.png",
+        "pattern": ":ob00060:"
+    },
+    {
+        "name": "BLUE BOOK",
+        "short_name": "blue_book",
+        "category": "Objects",
+        "image": "1f4d8.png",
+        "pattern": ":ob00061:"
+    },
+    {
+        "name": "ORANGE BOOK",
+        "short_name": "orange_book",
+        "category": "Objects",
+        "image": "1f4d9.png",
+        "pattern": ":ob00062:"
+    },
+    {
+        "name": "BOOKS",
+        "short_name": "books",
+        "category": "Objects",
+        "image": "1f4da.png",
+        "pattern": ":ob00063:"
+    },
+    {
+        "name": "SCROLL",
+        "short_name": "scroll",
+        "category": "Objects",
+        "image": "1f4dc.png",
+        "pattern": ":ob00064:"
+    },
+    {
+        "name": "MEMO",
+        "short_name": "memo",
+        "category": "Objects",
+        "image": "1f4dd.png",
+        "pattern": ":ob00065:"
+    },
+    {
+        "name": "TELEPHONE RECEIVER",
+        "short_name": "telephone_receiver",
+        "category": "Objects",
+        "image": "1f4de.png",
+        "pattern": ":ob00066:"
+    },
+    {
+        "name": "PAGER",
+        "short_name": "pager",
+        "category": "Objects",
+        "image": "1f4df.png",
+        "pattern": ":ob00067:"
+    },
+    {
+        "name": "FAX MACHINE",
+        "short_name": "fax",
+        "category": "Objects",
+        "image": "1f4e0.png",
+        "pattern": ":ob00068:"
+    },
+    {
+        "name": "SATELLITE ANTENNA",
+        "short_name": "satellite_antenna",
+        "category": "Objects",
+        "image": "1f4e1.png",
+        "pattern": ":ob00069:"
+    },
+    {
+        "name": "PUBLIC ADDRESS LOUDSPEAKER",
+        "short_name": "loudspeaker",
+        "category": "Objects",
+        "image": "1f4e2.png",
+        "pattern": ":ob00070:"
+    },
+    {
+        "name": "CHEERING MEGAPHONE",
+        "short_name": "mega",
+        "category": "Objects",
+        "image": "1f4e3.png",
+        "pattern": ":ob00071:"
+    },
+    {
+        "name": "OUTBOX TRAY",
+        "short_name": "outbox_tray",
+        "category": "Objects",
+        "image": "1f4e4.png",
+        "pattern": ":ob00072:"
+    },
+    {
+        "name": "INBOX TRAY",
+        "short_name": "inbox_tray",
+        "category": "Objects",
+        "image": "1f4e5.png",
+        "pattern": ":ob00073:"
+    },
+    {
+        "name": "PACKAGE",
+        "short_name": "package",
+        "category": "Objects",
+        "image": "1f4e6.png",
+        "pattern": ":ob00074:"
+    },
+    {
+        "name": "E-MAIL SYMBOL",
+        "short_name": "e-mail",
+        "category": "Objects",
+        "image": "1f4e7.png",
+        "pattern": ":ob00075:"
+    },
+    {
+        "name": "INCOMING ENVELOPE",
+        "short_name": "incoming_envelope",
+        "category": "Objects",
+        "image": "1f4e8.png",
+        "pattern": ":ob00076:"
+    },
+    {
+        "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
+        "short_name": "envelope_with_arrow",
+        "category": "Objects",
+        "image": "1f4e9.png",
+        "pattern": ":ob00077:"
+    },
+    {
+        "name": "CLOSED MAILBOX WITH LOWERED FLAG",
+        "short_name": "mailbox_closed",
+        "category": "Objects",
+        "image": "1f4ea.png",
+        "pattern": ":ob00078:"
+    },
+    {
+        "name": "CLOSED MAILBOX WITH RAISED FLAG",
+        "short_name": "mailbox",
+        "category": "Objects",
+        "image": "1f4eb.png",
+        "pattern": ":ob00079:"
+    },
+    {
+        "name": "OPEN MAILBOX WITH RAISED FLAG",
+        "short_name": "mailbox_with_mail",
+        "category": "Objects",
+        "image": "1f4ec.png",
+        "pattern": ":ob00080:"
+    },
+    {
+        "name": "OPEN MAILBOX WITH LOWERED FLAG",
+        "short_name": "mailbox_with_no_mail",
+        "category": "Objects",
+        "image": "1f4ed.png",
+        "pattern": ":ob00081:"
+    },
+    {
+        "name": "POSTBOX",
+        "short_name": "postbox",
+        "category": "Objects",
+        "image": "1f4ee.png",
+        "pattern": ":ob00082:"
+    },
+    {
+        "name": "POSTAL HORN",
+        "short_name": "postal_horn",
+        "category": "Objects",
+        "image": "1f4ef.png",
+        "pattern": ":ob00083:"
+    },
+    {
+        "name": "NEWSPAPER",
+        "short_name": "newspaper",
+        "category": "Objects",
+        "image": "1f4f0.png",
+        "pattern": ":ob00084:"
+    },
+    {
+        "name": "MOBILE PHONE",
+        "short_name": "iphone",
+        "category": "Objects",
+        "image": "1f4f1.png",
+        "pattern": ":ob00085:"
+    },
+    {
+        "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
+        "short_name": "calling",
+        "category": "Objects",
+        "image": "1f4f2.png",
+        "pattern": ":ob00086:"
+    },
+    {
+        "name": "CAMERA",
+        "short_name": "camera",
+        "category": "Objects",
+        "image": "1f4f7.png",
+        "pattern": ":ob00087:"
+    },
+    {
+        "name": "CAMERA WITH FLASH",
+        "short_name": "camera_with_flash",
+        "category": "Objects",
+        "image": "1f4f8.png",
+        "pattern": ":ob00088:"
+    },
+    {
+        "name": "VIDEO CAMERA",
+        "short_name": "video_camera",
+        "category": "Objects",
+        "image": "1f4f9.png",
+        "pattern": ":ob00089:"
+    },
+    {
+        "name": "TELEVISION",
+        "short_name": "tv",
+        "category": "Objects",
+        "image": "1f4fa.png",
+        "pattern": ":ob00090:"
+    },
+    {
+        "name": "RADIO",
+        "short_name": "radio",
+        "category": "Objects",
+        "image": "1f4fb.png",
+        "pattern": ":ob00091:"
+    },
+    {
+        "name": "VIDEOCASSETTE",
+        "short_name": "vhs",
+        "category": "Objects",
+        "image": "1f4fc.png",
+        "pattern": ":ob00092:"
+    },
+    {
+        "name": "null",
+        "short_name": "film_projector",
+        "category": "Objects",
+        "image": "1f4fd-fe0f.png",
+        "pattern": ":ob00093:"
+    },
+    {
+        "name": "SPEAKER WITH CANCELLATION STROKE",
+        "short_name": "mute",
+        "category": "Objects",
+        "image": "1f507.png",
+        "pattern": ":ob00094:"
+    },
+    {
+        "name": "SPEAKER",
+        "short_name": "speaker",
+        "category": "Objects",
+        "image": "1f508.png",
+        "pattern": ":ob00095:"
+    },
+    {
+        "name": "SPEAKER WITH ONE SOUND WAVE",
+        "short_name": "sound",
+        "category": "Objects",
+        "image": "1f509.png",
+        "pattern": ":ob00096:"
+    },
+    {
+        "name": "SPEAKER WITH THREE SOUND WAVES",
+        "short_name": "loud_sound",
+        "category": "Objects",
+        "image": "1f50a.png",
+        "pattern": ":ob00097:"
+    },
+    {
+        "name": "BATTERY",
+        "short_name": "battery",
+        "category": "Objects",
+        "image": "1f50b.png",
+        "pattern": ":ob00098:"
+    },
+    {
+        "name": "ELECTRIC PLUG",
+        "short_name": "electric_plug",
+        "category": "Objects",
+        "image": "1f50c.png",
+        "pattern": ":ob00099:"
+    },
+    {
+        "name": "LEFT-POINTING MAGNIFYING GLASS",
+        "short_name": "mag",
+        "category": "Objects",
+        "image": "1f50d.png",
+        "pattern": ":ob00100:"
+    },
+    {
+        "name": "RIGHT-POINTING MAGNIFYING GLASS",
+        "short_name": "mag_right",
+        "category": "Objects",
+        "image": "1f50e.png",
+        "pattern": ":ob00101:"
+    },
+    {
+        "name": "LOCK WITH INK PEN",
+        "short_name": "lock_with_ink_pen",
+        "category": "Objects",
+        "image": "1f50f.png",
+        "pattern": ":ob00102:"
+    },
+    {
+        "name": "CLOSED LOCK WITH KEY",
+        "short_name": "closed_lock_with_key",
+        "category": "Objects",
+        "image": "1f510.png",
+        "pattern": ":ob00103:"
+    },
+    {
+        "name": "KEY",
+        "short_name": "key",
+        "category": "Objects",
+        "image": "1f511.png",
+        "pattern": ":ob00104:"
+    },
+    {
+        "name": "LOCK",
+        "short_name": "lock",
+        "category": "Objects",
+        "image": "1f512.png",
+        "pattern": ":ob00105:"
+    },
+    {
+        "name": "OPEN LOCK",
+        "short_name": "unlock",
+        "category": "Objects",
+        "image": "1f513.png",
+        "pattern": ":ob00106:"
+    },
+    {
+        "name": "BELL",
+        "short_name": "bell",
+        "category": "Objects",
+        "image": "1f514.png",
+        "pattern": ":ob00107:"
+    },
+    {
+        "name": "BELL WITH CANCELLATION STROKE",
+        "short_name": "no_bell",
+        "category": "Objects",
+        "image": "1f515.png",
+        "pattern": ":ob00108:"
+    },
+    {
+        "name": "BOOKMARK",
+        "short_name": "bookmark",
+        "category": "Objects",
+        "image": "1f516.png",
+        "pattern": ":ob00109:"
+    },
+    {
+        "name": "LINK SYMBOL",
+        "short_name": "link",
+        "category": "Objects",
+        "image": "1f517.png",
+        "pattern": ":ob00110:"
+    },
+    {
+        "name": "ELECTRIC TORCH",
+        "short_name": "flashlight",
+        "category": "Objects",
+        "image": "1f526.png",
+        "pattern": ":ob00111:"
+    },
+    {
+        "name": "WRENCH",
+        "short_name": "wrench",
+        "category": "Objects",
+        "image": "1f527.png",
+        "pattern": ":ob00112:"
+    },
+    {
+        "name": "HAMMER",
+        "short_name": "hammer",
+        "category": "Objects",
+        "image": "1f528.png",
+        "pattern": ":ob00113:"
+    },
+    {
+        "name": "NUT AND BOLT",
+        "short_name": "nut_and_bolt",
+        "category": "Objects",
+        "image": "1f529.png",
+        "pattern": ":ob00114:"
+    },
+    {
+        "name": "PISTOL",
+        "short_name": "gun",
+        "category": "Objects",
+        "image": "1f52b.png",
+        "pattern": ":ob00115:"
+    },
+    {
+        "name": "MICROSCOPE",
+        "short_name": "microscope",
+        "category": "Objects",
+        "image": "1f52c.png",
+        "pattern": ":ob00116:"
+    },
+    {
+        "name": "TELESCOPE",
+        "short_name": "telescope",
+        "category": "Objects",
+        "image": "1f52d.png",
+        "pattern": ":ob00117:"
+    },
+    {
+        "name": "CRYSTAL BALL",
+        "short_name": "crystal_ball",
+        "category": "Objects",
+        "image": "1f52e.png",
+        "pattern": ":ob00118:"
+    },
+    {
+        "name": "null",
+        "short_name": "candle",
+        "category": "Objects",
+        "image": "1f56f-fe0f.png",
+        "pattern": ":ob00119:"
+    },
+    {
+        "name": "null",
+        "short_name": "linked_paperclips",
+        "category": "Objects",
+        "image": "1f587-fe0f.png",
+        "pattern": ":ob00120:"
+    },
+    {
+        "name": "null",
+        "short_name": "lower_left_ballpoint_pen",
+        "category": "Objects",
+        "image": "1f58a-fe0f.png",
+        "pattern": ":ob00121:"
+    },
+    {
+        "name": "null",
+        "short_name": "lower_left_fountain_pen",
+        "category": "Objects",
+        "image": "1f58b-fe0f.png",
+        "pattern": ":ob00122:"
+    },
+    {
+        "name": "null",
+        "short_name": "lower_left_paintbrush",
+        "category": "Objects",
+        "image": "1f58c-fe0f.png",
+        "pattern": ":ob00123:"
+    },
+    {
+        "name": "null",
+        "short_name": "lower_left_crayon",
+        "category": "Objects",
+        "image": "1f58d-fe0f.png",
+        "pattern": ":ob00124:"
+    },
+    {
+        "name": "null",
+        "short_name": "desktop_computer",
+        "category": "Objects",
+        "image": "1f5a5-fe0f.png",
+        "pattern": ":ob00125:"
+    },
+    {
+        "name": "null",
+        "short_name": "printer",
+        "category": "Objects",
+        "image": "1f5a8-fe0f.png",
+        "pattern": ":ob00126:"
+    },
+    {
+        "name": "null",
+        "short_name": "three_button_mouse",
+        "category": "Objects",
+        "image": "1f5b1-fe0f.png",
+        "pattern": ":ob00127:"
+    },
+    {
+        "name": "null",
+        "short_name": "trackball",
+        "category": "Objects",
+        "image": "1f5b2-fe0f.png",
+        "pattern": ":ob00128:"
+    },
+    {
+        "name": "null",
+        "short_name": "card_index_dividers",
+        "category": "Objects",
+        "image": "1f5c2-fe0f.png",
+        "pattern": ":ob00129:"
+    },
+    {
+        "name": "null",
+        "short_name": "card_file_box",
+        "category": "Objects",
+        "image": "1f5c3-fe0f.png",
+        "pattern": ":ob00130:"
+    },
+    {
+        "name": "null",
+        "short_name": "file_cabinet",
+        "category": "Objects",
+        "image": "1f5c4-fe0f.png",
+        "pattern": ":ob00131:"
+    },
+    {
+        "name": "null",
+        "short_name": "wastebasket",
+        "category": "Objects",
+        "image": "1f5d1-fe0f.png",
+        "pattern": ":ob00132:"
+    },
+    {
+        "name": "null",
+        "short_name": "spiral_note_pad",
+        "category": "Objects",
+        "image": "1f5d2-fe0f.png",
+        "pattern": ":ob00133:"
+    },
+    {
+        "name": "null",
+        "short_name": "spiral_calendar_pad",
+        "category": "Objects",
+        "image": "1f5d3-fe0f.png",
+        "pattern": ":ob00134:"
+    },
+    {
+        "name": "null",
+        "short_name": "compression",
+        "category": "Objects",
+        "image": "1f5dc-fe0f.png",
+        "pattern": ":ob00135:"
+    },
+    {
+        "name": "null",
+        "short_name": "old_key",
+        "category": "Objects",
+        "image": "1f5dd-fe0f.png",
+        "pattern": ":ob00136:"
+    },
+    {
+        "name": "null",
+        "short_name": "rolled_up_newspaper",
+        "category": "Objects",
+        "image": "1f5de-fe0f.png",
+        "pattern": ":ob00137:"
+    },
+    {
+        "name": "null",
+        "short_name": "dagger_knife",
+        "category": "Objects",
+        "image": "1f5e1-fe0f.png",
+        "pattern": ":ob00138:"
+    },
+    {
+        "name": "null",
+        "short_name": "ballot_box_with_ballot",
+        "category": "Objects",
+        "image": "1f5f3-fe0f.png",
+        "pattern": ":ob00139:"
+    },
+    {
+        "name": "MOYAI",
+        "short_name": "moyai",
+        "category": "Objects",
+        "image": "1f5ff.png",
+        "pattern": ":ob00140:"
+    },
+    {
+        "name": "SMOKING SYMBOL",
+        "short_name": "smoking",
+        "category": "Objects",
+        "image": "1f6ac.png",
+        "pattern": ":ob00141:"
+    },
+    {
+        "name": "SHOPPING TROLLEY",
+        "short_name": "shopping_trolley",
+        "category": "Objects",
+        "image": "1f6d2.png",
+        "pattern": ":ob00142:"
+    },
+    {
+        "name": "null",
+        "short_name": "hammer_and_wrench",
+        "category": "Objects",
+        "image": "1f6e0-fe0f.png",
+        "pattern": ":ob00143:"
+    },
+    {
+        "name": "null",
+        "short_name": "shield",
+        "category": "Objects",
+        "image": "1f6e1-fe0f.png",
+        "pattern": ":ob00144:"
+    },
+    {
+        "name": "null",
+        "short_name": "oil_drum",
+        "category": "Objects",
+        "image": "1f6e2-fe0f.png",
+        "pattern": ":ob00145:"
+    },
+    {
+        "name": "DRUM WITH DRUMSTICKS",
+        "short_name": "drum_with_drumsticks",
+        "category": "Objects",
+        "image": "1f941.png",
+        "pattern": ":ob00146:"
+    },
+    {
+        "name": "null",
+        "short_name": "keyboard",
+        "category": "Objects",
+        "image": "2328-fe0f.png",
+        "pattern": ":ob00147:"
+    },
+    {
+        "name": "BLACK TELEPHONE",
+        "short_name": "phone",
+        "category": "Objects",
+        "image": "260e-fe0f.png",
+        "pattern": ":ob00148:"
+    },
+    {
+        "name": "null",
+        "short_name": "hammer_and_pick",
+        "category": "Objects",
+        "image": "2692-fe0f.png",
+        "pattern": ":ob00149:"
+    },
+    {
+        "name": "null",
+        "short_name": "crossed_swords",
+        "category": "Objects",
+        "image": "2694-fe0f.png",
+        "pattern": ":ob00150:"
+    },
+    {
+        "name": "null",
+        "short_name": "scales",
+        "category": "Objects",
+        "image": "2696-fe0f.png",
+        "pattern": ":ob00151:"
+    },
+    {
+        "name": "null",
+        "short_name": "alembic",
+        "category": "Objects",
+        "image": "2697-fe0f.png",
+        "pattern": ":ob00152:"
+    },
+    {
+        "name": "null",
+        "short_name": "gear",
+        "category": "Objects",
+        "image": "2699-fe0f.png",
+        "pattern": ":ob00153:"
+    },
+    {
+        "name": "null",
+        "short_name": "coffin",
+        "category": "Objects",
+        "image": "26b0-fe0f.png",
+        "pattern": ":ob00154:"
+    },
+    {
+        "name": "null",
+        "short_name": "funeral_urn",
+        "category": "Objects",
+        "image": "26b1-fe0f.png",
+        "pattern": ":ob00155:"
+    },
+    {
+        "name": "null",
+        "short_name": "pick",
+        "category": "Objects",
+        "image": "26cf-fe0f.png",
+        "pattern": ":ob00156:"
+    },
+    {
+        "name": "null",
+        "short_name": "chains",
+        "category": "Objects",
+        "image": "26d3-fe0f.png",
+        "pattern": ":ob00157:"
+    },
+    {
+        "name": "BLACK SCISSORS",
+        "short_name": "scissors",
+        "category": "Objects",
+        "image": "2702-fe0f.png",
+        "pattern": ":ob00158:"
+    },
+    {
+        "name": "ENVELOPE",
+        "short_name": "email",
+        "category": "Objects",
+        "image": "2709-fe0f.png",
+        "pattern": ":ob00159:"
+    },
+    {
+        "name": "PENCIL",
+        "short_name": "pencil2",
+        "category": "Objects",
+        "image": "270f-fe0f.png",
+        "pattern": ":ob00160:"
+    },
+    {
+        "name": "BLACK NIB",
+        "short_name": "black_nib",
+        "category": "Objects",
+        "image": "2712-fe0f.png",
+        "pattern": ":ob00161:"
+    }
+];

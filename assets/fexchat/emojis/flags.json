@@ -1,0 +1,1871 @@
+window.flags=[
+   {
+    "name": "Ascension Island Flag",
+    "short_name": "flag-ac",
+    "category": "Flags",
+    "image": "1f1e6-1f1e8.png",
+    "pattern": ":fl00000:"
+},
+{
+    "name": "Andorra Flag",
+    "short_name": "flag-ad",
+    "category": "Flags",
+    "image": "1f1e6-1f1e9.png",
+    "pattern": ":fl00001:"
+},
+{
+    "name": "United Arab Emirates Flag",
+    "short_name": "flag-ae",
+    "category": "Flags",
+    "image": "1f1e6-1f1ea.png",
+    "pattern": ":fl00002:"
+},
+{
+    "name": "Afghanistan Flag",
+    "short_name": "flag-af",
+    "category": "Flags",
+    "image": "1f1e6-1f1eb.png",
+    "pattern": ":fl00003:"
+},
+{
+    "name": "Antigua &amp; Barbuda Flag",
+    "short_name": "flag-ag",
+    "category": "Flags",
+    "image": "1f1e6-1f1ec.png",
+    "pattern": ":fl00004:"
+},
+{
+    "name": "Anguilla Flag",
+    "short_name": "flag-ai",
+    "category": "Flags",
+    "image": "1f1e6-1f1ee.png",
+    "pattern": ":fl00005:"
+},
+{
+    "name": "Albania Flag",
+    "short_name": "flag-al",
+    "category": "Flags",
+    "image": "1f1e6-1f1f1.png",
+    "pattern": ":fl00006:"
+},
+{
+    "name": "Armenia Flag",
+    "short_name": "flag-am",
+    "category": "Flags",
+    "image": "1f1e6-1f1f2.png",
+    "pattern": ":fl00007:"
+},
+{
+    "name": "Angola Flag",
+    "short_name": "flag-ao",
+    "category": "Flags",
+    "image": "1f1e6-1f1f4.png",
+    "pattern": ":fl00008:"
+},
+{
+    "name": "Antarctica Flag",
+    "short_name": "flag-aq",
+    "category": "Flags",
+    "image": "1f1e6-1f1f6.png",
+    "pattern": ":fl00009:"
+},
+{
+    "name": "Argentina Flag",
+    "short_name": "flag-ar",
+    "category": "Flags",
+    "image": "1f1e6-1f1f7.png",
+    "pattern": ":fl00010:"
+},
+{
+    "name": "American Samoa Flag",
+    "short_name": "flag-as",
+    "category": "Flags",
+    "image": "1f1e6-1f1f8.png",
+    "pattern": ":fl00011:"
+},
+{
+    "name": "Austria Flag",
+    "short_name": "flag-at",
+    "category": "Flags",
+    "image": "1f1e6-1f1f9.png",
+    "pattern": ":fl00012:"
+},
+{
+    "name": "Australia Flag",
+    "short_name": "flag-au",
+    "category": "Flags",
+    "image": "1f1e6-1f1fa.png",
+    "pattern": ":fl00013:"
+},
+{
+    "name": "Aruba Flag",
+    "short_name": "flag-aw",
+    "category": "Flags",
+    "image": "1f1e6-1f1fc.png",
+    "pattern": ":fl00014:"
+},
+{
+    "name": "Åland Islands Flag",
+    "short_name": "flag-ax",
+    "category": "Flags",
+    "image": "1f1e6-1f1fd.png",
+    "pattern": ":fl00015:"
+},
+{
+    "name": "Azerbaijan Flag",
+    "short_name": "flag-az",
+    "category": "Flags",
+    "image": "1f1e6-1f1ff.png",
+    "pattern": ":fl00016:"
+},
+{
+    "name": "Bosnia &amp; Herzegovina Flag",
+    "short_name": "flag-ba",
+    "category": "Flags",
+    "image": "1f1e7-1f1e6.png",
+    "pattern": ":fl00017:"
+},
+{
+    "name": "Barbados Flag",
+    "short_name": "flag-bb",
+    "category": "Flags",
+    "image": "1f1e7-1f1e7.png",
+    "pattern": ":fl00018:"
+},
+{
+    "name": "Bangladesh Flag",
+    "short_name": "flag-bd",
+    "category": "Flags",
+    "image": "1f1e7-1f1e9.png",
+    "pattern": ":fl00019:"
+},
+{
+    "name": "Belgium Flag",
+    "short_name": "flag-be",
+    "category": "Flags",
+    "image": "1f1e7-1f1ea.png",
+    "pattern": ":fl00020:"
+},
+{
+    "name": "Burkina Faso Flag",
+    "short_name": "flag-bf",
+    "category": "Flags",
+    "image": "1f1e7-1f1eb.png",
+    "pattern": ":fl00021:"
+},
+{
+    "name": "Bulgaria Flag",
+    "short_name": "flag-bg",
+    "category": "Flags",
+    "image": "1f1e7-1f1ec.png",
+    "pattern": ":fl00022:"
+},
+{
+    "name": "Bahrain Flag",
+    "short_name": "flag-bh",
+    "category": "Flags",
+    "image": "1f1e7-1f1ed.png",
+    "pattern": ":fl00023:"
+},
+{
+    "name": "Burundi Flag",
+    "short_name": "flag-bi",
+    "category": "Flags",
+    "image": "1f1e7-1f1ee.png",
+    "pattern": ":fl00024:"
+},
+{
+    "name": "Benin Flag",
+    "short_name": "flag-bj",
+    "category": "Flags",
+    "image": "1f1e7-1f1ef.png",
+    "pattern": ":fl00025:"
+},
+{
+    "name": "St. Barthélemy Flag",
+    "short_name": "flag-bl",
+    "category": "Flags",
+    "image": "1f1e7-1f1f1.png",
+    "pattern": ":fl00026:"
+},
+{
+    "name": "Bermuda Flag",
+    "short_name": "flag-bm",
+    "category": "Flags",
+    "image": "1f1e7-1f1f2.png",
+    "pattern": ":fl00027:"
+},
+{
+    "name": "Brunei Flag",
+    "short_name": "flag-bn",
+    "category": "Flags",
+    "image": "1f1e7-1f1f3.png",
+    "pattern": ":fl00028:"
+},
+{
+    "name": "Bolivia Flag",
+    "short_name": "flag-bo",
+    "category": "Flags",
+    "image": "1f1e7-1f1f4.png",
+    "pattern": ":fl00029:"
+},
+{
+    "name": "Caribbean Netherlands Flag",
+    "short_name": "flag-bq",
+    "category": "Flags",
+    "image": "1f1e7-1f1f6.png",
+    "pattern": ":fl00030:"
+},
+{
+    "name": "Brazil Flag",
+    "short_name": "flag-br",
+    "category": "Flags",
+    "image": "1f1e7-1f1f7.png",
+    "pattern": ":fl00031:"
+},
+{
+    "name": "Bahamas Flag",
+    "short_name": "flag-bs",
+    "category": "Flags",
+    "image": "1f1e7-1f1f8.png",
+    "pattern": ":fl00032:"
+},
+{
+    "name": "Bhutan Flag",
+    "short_name": "flag-bt",
+    "category": "Flags",
+    "image": "1f1e7-1f1f9.png",
+    "pattern": ":fl00033:"
+},
+{
+    "name": "Bouvet Island Flag",
+    "short_name": "flag-bv",
+    "category": "Flags",
+    "image": "1f1e7-1f1fb.png",
+    "pattern": ":fl00034:"
+},
+{
+    "name": "Botswana Flag",
+    "short_name": "flag-bw",
+    "category": "Flags",
+    "image": "1f1e7-1f1fc.png",
+    "pattern": ":fl00035:"
+},
+{
+    "name": "Belarus Flag",
+    "short_name": "flag-by",
+    "category": "Flags",
+    "image": "1f1e7-1f1fe.png",
+    "pattern": ":fl00036:"
+},
+{
+    "name": "Belize Flag",
+    "short_name": "flag-bz",
+    "category": "Flags",
+    "image": "1f1e7-1f1ff.png",
+    "pattern": ":fl00037:"
+},
+{
+    "name": "Canada Flag",
+    "short_name": "flag-ca",
+    "category": "Flags",
+    "image": "1f1e8-1f1e6.png",
+    "pattern": ":fl00038:"
+},
+{
+    "name": "Cocos (Keeling) Islands Flag",
+    "short_name": "flag-cc",
+    "category": "Flags",
+    "image": "1f1e8-1f1e8.png",
+    "pattern": ":fl00039:"
+},
+{
+    "name": "Congo - Kinshasa Flag",
+    "short_name": "flag-cd",
+    "category": "Flags",
+    "image": "1f1e8-1f1e9.png",
+    "pattern": ":fl00040:"
+},
+{
+    "name": "Central African Republic Flag",
+    "short_name": "flag-cf",
+    "category": "Flags",
+    "image": "1f1e8-1f1eb.png",
+    "pattern": ":fl00041:"
+},
+{
+    "name": "Congo - Brazzaville Flag",
+    "short_name": "flag-cg",
+    "category": "Flags",
+    "image": "1f1e8-1f1ec.png",
+    "pattern": ":fl00042:"
+},
+{
+    "name": "Switzerland Flag",
+    "short_name": "flag-ch",
+    "category": "Flags",
+    "image": "1f1e8-1f1ed.png",
+    "pattern": ":fl00043:"
+},
+{
+    "name": "Côte d’Ivoire Flag",
+    "short_name": "flag-ci",
+    "category": "Flags",
+    "image": "1f1e8-1f1ee.png",
+    "pattern": ":fl00044:"
+},
+{
+    "name": "Cook Islands Flag",
+    "short_name": "flag-ck",
+    "category": "Flags",
+    "image": "1f1e8-1f1f0.png",
+    "pattern": ":fl00045:"
+},
+{
+    "name": "Chile Flag",
+    "short_name": "flag-cl",
+    "category": "Flags",
+    "image": "1f1e8-1f1f1.png",
+    "pattern": ":fl00046:"
+},
+{
+    "name": "Cameroon Flag",
+    "short_name": "flag-cm",
+    "category": "Flags",
+    "image": "1f1e8-1f1f2.png",
+    "pattern": ":fl00047:"
+},
+{
+    "name": "China Flag",
+    "short_name": "cn",
+    "category": "Flags",
+    "image": "1f1e8-1f1f3.png",
+    "pattern": ":fl00048:"
+},
+{
+    "name": "Colombia Flag",
+    "short_name": "flag-co",
+    "category": "Flags",
+    "image": "1f1e8-1f1f4.png",
+    "pattern": ":fl00049:"
+},
+{
+    "name": "Clipperton Island Flag",
+    "short_name": "flag-cp",
+    "category": "Flags",
+    "image": "1f1e8-1f1f5.png",
+    "pattern": ":fl00050:"
+},
+{
+    "name": "Costa Rica Flag",
+    "short_name": "flag-cr",
+    "category": "Flags",
+    "image": "1f1e8-1f1f7.png",
+    "pattern": ":fl00051:"
+},
+{
+    "name": "Cuba Flag",
+    "short_name": "flag-cu",
+    "category": "Flags",
+    "image": "1f1e8-1f1fa.png",
+    "pattern": ":fl00052:"
+},
+{
+    "name": "Cape Verde Flag",
+    "short_name": "flag-cv",
+    "category": "Flags",
+    "image": "1f1e8-1f1fb.png",
+    "pattern": ":fl00053:"
+},
+{
+    "name": "Curaçao Flag",
+    "short_name": "flag-cw",
+    "category": "Flags",
+    "image": "1f1e8-1f1fc.png",
+    "pattern": ":fl00054:"
+},
+{
+    "name": "Christmas Island Flag",
+    "short_name": "flag-cx",
+    "category": "Flags",
+    "image": "1f1e8-1f1fd.png",
+    "pattern": ":fl00055:"
+},
+{
+    "name": "Cyprus Flag",
+    "short_name": "flag-cy",
+    "category": "Flags",
+    "image": "1f1e8-1f1fe.png",
+    "pattern": ":fl00056:"
+},
+{
+    "name": "Czechia Flag",
+    "short_name": "flag-cz",
+    "category": "Flags",
+    "image": "1f1e8-1f1ff.png",
+    "pattern": ":fl00057:"
+},
+{
+    "name": "Germany Flag",
+    "short_name": "de",
+    "category": "Flags",
+    "image": "1f1e9-1f1ea.png",
+    "pattern": ":fl00058:"
+},
+{
+    "name": "Diego Garcia Flag",
+    "short_name": "flag-dg",
+    "category": "Flags",
+    "image": "1f1e9-1f1ec.png",
+    "pattern": ":fl00059:"
+},
+{
+    "name": "Djibouti Flag",
+    "short_name": "flag-dj",
+    "category": "Flags",
+    "image": "1f1e9-1f1ef.png",
+    "pattern": ":fl00060:"
+},
+{
+    "name": "Denmark Flag",
+    "short_name": "flag-dk",
+    "category": "Flags",
+    "image": "1f1e9-1f1f0.png",
+    "pattern": ":fl00061:"
+},
+{
+    "name": "Dominica Flag",
+    "short_name": "flag-dm",
+    "category": "Flags",
+    "image": "1f1e9-1f1f2.png",
+    "pattern": ":fl00062:"
+},
+{
+    "name": "Dominican Republic Flag",
+    "short_name": "flag-do",
+    "category": "Flags",
+    "image": "1f1e9-1f1f4.png",
+    "pattern": ":fl00063:"
+},
+{
+    "name": "Algeria Flag",
+    "short_name": "flag-dz",
+    "category": "Flags",
+    "image": "1f1e9-1f1ff.png",
+    "pattern": ":fl00064:"
+},
+{
+    "name": "Ceuta &amp; Melilla Flag",
+    "short_name": "flag-ea",
+    "category": "Flags",
+    "image": "1f1ea-1f1e6.png",
+    "pattern": ":fl00065:"
+},
+{
+    "name": "Ecuador Flag",
+    "short_name": "flag-ec",
+    "category": "Flags",
+    "image": "1f1ea-1f1e8.png",
+    "pattern": ":fl00066:"
+},
+{
+    "name": "Estonia Flag",
+    "short_name": "flag-ee",
+    "category": "Flags",
+    "image": "1f1ea-1f1ea.png",
+    "pattern": ":fl00067:"
+},
+{
+    "name": "Egypt Flag",
+    "short_name": "flag-eg",
+    "category": "Flags",
+    "image": "1f1ea-1f1ec.png",
+    "pattern": ":fl00068:"
+},
+{
+    "name": "Western Sahara Flag",
+    "short_name": "flag-eh",
+    "category": "Flags",
+    "image": "1f1ea-1f1ed.png",
+    "pattern": ":fl00069:"
+},
+{
+    "name": "Eritrea Flag",
+    "short_name": "flag-er",
+    "category": "Flags",
+    "image": "1f1ea-1f1f7.png",
+    "pattern": ":fl00070:"
+},
+{
+    "name": "Spain Flag",
+    "short_name": "es",
+    "category": "Flags",
+    "image": "1f1ea-1f1f8.png",
+    "pattern": ":fl00071:"
+},
+{
+    "name": "Ethiopia Flag",
+    "short_name": "flag-et",
+    "category": "Flags",
+    "image": "1f1ea-1f1f9.png",
+    "pattern": ":fl00072:"
+},
+{
+    "name": "European Union Flag",
+    "short_name": "flag-eu",
+    "category": "Flags",
+    "image": "1f1ea-1f1fa.png",
+    "pattern": ":fl00073:"
+},
+{
+    "name": "Finland Flag",
+    "short_name": "flag-fi",
+    "category": "Flags",
+    "image": "1f1eb-1f1ee.png",
+    "pattern": ":fl00074:"
+},
+{
+    "name": "Fiji Flag",
+    "short_name": "flag-fj",
+    "category": "Flags",
+    "image": "1f1eb-1f1ef.png",
+    "pattern": ":fl00075:"
+},
+{
+    "name": "Falkland Islands Flag",
+    "short_name": "flag-fk",
+    "category": "Flags",
+    "image": "1f1eb-1f1f0.png",
+    "pattern": ":fl00076:"
+},
+{
+    "name": "Micronesia Flag",
+    "short_name": "flag-fm",
+    "category": "Flags",
+    "image": "1f1eb-1f1f2.png",
+    "pattern": ":fl00077:"
+},
+{
+    "name": "Faroe Islands Flag",
+    "short_name": "flag-fo",
+    "category": "Flags",
+    "image": "1f1eb-1f1f4.png",
+    "pattern": ":fl00078:"
+},
+{
+    "name": "France Flag",
+    "short_name": "fr",
+    "category": "Flags",
+    "image": "1f1eb-1f1f7.png",
+    "pattern": ":fl00079:"
+},
+{
+    "name": "Gabon Flag",
+    "short_name": "flag-ga",
+    "category": "Flags",
+    "image": "1f1ec-1f1e6.png",
+    "pattern": ":fl00080:"
+},
+{
+    "name": "United Kingdom Flag",
+    "short_name": "gb",
+    "category": "Flags",
+    "image": "1f1ec-1f1e7.png",
+    "pattern": ":fl00081:"
+},
+{
+    "name": "Grenada Flag",
+    "short_name": "flag-gd",
+    "category": "Flags",
+    "image": "1f1ec-1f1e9.png",
+    "pattern": ":fl00082:"
+},
+{
+    "name": "Georgia Flag",
+    "short_name": "flag-ge",
+    "category": "Flags",
+    "image": "1f1ec-1f1ea.png",
+    "pattern": ":fl00083:"
+},
+{
+    "name": "French Guiana Flag",
+    "short_name": "flag-gf",
+    "category": "Flags",
+    "image": "1f1ec-1f1eb.png",
+    "pattern": ":fl00084:"
+},
+{
+    "name": "Guernsey Flag",
+    "short_name": "flag-gg",
+    "category": "Flags",
+    "image": "1f1ec-1f1ec.png",
+    "pattern": ":fl00085:"
+},
+{
+    "name": "Ghana Flag",
+    "short_name": "flag-gh",
+    "category": "Flags",
+    "image": "1f1ec-1f1ed.png",
+    "pattern": ":fl00086:"
+},
+{
+    "name": "Gibraltar Flag",
+    "short_name": "flag-gi",
+    "category": "Flags",
+    "image": "1f1ec-1f1ee.png",
+    "pattern": ":fl00087:"
+},
+{
+    "name": "Greenland Flag",
+    "short_name": "flag-gl",
+    "category": "Flags",
+    "image": "1f1ec-1f1f1.png",
+    "pattern": ":fl00088:"
+},
+{
+    "name": "Gambia Flag",
+    "short_name": "flag-gm",
+    "category": "Flags",
+    "image": "1f1ec-1f1f2.png",
+    "pattern": ":fl00089:"
+},
+{
+    "name": "Guinea Flag",
+    "short_name": "flag-gn",
+    "category": "Flags",
+    "image": "1f1ec-1f1f3.png",
+    "pattern": ":fl00090:"
+},
+{
+    "name": "Guadeloupe Flag",
+    "short_name": "flag-gp",
+    "category": "Flags",
+    "image": "1f1ec-1f1f5.png",
+    "pattern": ":fl00091:"
+},
+{
+    "name": "Equatorial Guinea Flag",
+    "short_name": "flag-gq",
+    "category": "Flags",
+    "image": "1f1ec-1f1f6.png",
+    "pattern": ":fl00092:"
+},
+{
+    "name": "Greece Flag",
+    "short_name": "flag-gr",
+    "category": "Flags",
+    "image": "1f1ec-1f1f7.png",
+    "pattern": ":fl00093:"
+},
+{
+    "name": "South Georgia &amp; South Sandwich Islands Flag",
+    "short_name": "flag-gs",
+    "category": "Flags",
+    "image": "1f1ec-1f1f8.png",
+    "pattern": ":fl00094:"
+},
+{
+    "name": "Guatemala Flag",
+    "short_name": "flag-gt",
+    "category": "Flags",
+    "image": "1f1ec-1f1f9.png",
+    "pattern": ":fl00095:"
+},
+{
+    "name": "Guam Flag",
+    "short_name": "flag-gu",
+    "category": "Flags",
+    "image": "1f1ec-1f1fa.png",
+    "pattern": ":fl00096:"
+},
+{
+    "name": "Guinea-Bissau Flag",
+    "short_name": "flag-gw",
+    "category": "Flags",
+    "image": "1f1ec-1f1fc.png",
+    "pattern": ":fl00097:"
+},
+{
+    "name": "Guyana Flag",
+    "short_name": "flag-gy",
+    "category": "Flags",
+    "image": "1f1ec-1f1fe.png",
+    "pattern": ":fl00098:"
+},
+{
+    "name": "Hong Kong SAR China Flag",
+    "short_name": "flag-hk",
+    "category": "Flags",
+    "image": "1f1ed-1f1f0.png",
+    "pattern": ":fl00099:"
+},
+{
+    "name": "Heard &amp; McDonald Islands Flag",
+    "short_name": "flag-hm",
+    "category": "Flags",
+    "image": "1f1ed-1f1f2.png",
+    "pattern": ":fl00100:"
+},
+{
+    "name": "Honduras Flag",
+    "short_name": "flag-hn",
+    "category": "Flags",
+    "image": "1f1ed-1f1f3.png",
+    "pattern": ":fl00101:"
+},
+{
+    "name": "Croatia Flag",
+    "short_name": "flag-hr",
+    "category": "Flags",
+    "image": "1f1ed-1f1f7.png",
+    "pattern": ":fl00102:"
+},
+{
+    "name": "Haiti Flag",
+    "short_name": "flag-ht",
+    "category": "Flags",
+    "image": "1f1ed-1f1f9.png",
+    "pattern": ":fl00103:"
+},
+{
+    "name": "Hungary Flag",
+    "short_name": "flag-hu",
+    "category": "Flags",
+    "image": "1f1ed-1f1fa.png",
+    "pattern": ":fl00104:"
+},
+{
+    "name": "Canary Islands Flag",
+    "short_name": "flag-ic",
+    "category": "Flags",
+    "image": "1f1ee-1f1e8.png",
+    "pattern": ":fl00105:"
+},
+{
+    "name": "Indonesia Flag",
+    "short_name": "flag-id",
+    "category": "Flags",
+    "image": "1f1ee-1f1e9.png",
+    "pattern": ":fl00106:"
+},
+{
+    "name": "Ireland Flag",
+    "short_name": "flag-ie",
+    "category": "Flags",
+    "image": "1f1ee-1f1ea.png",
+    "pattern": ":fl00107:"
+},
+{
+    "name": "Israel Flag",
+    "short_name": "flag-il",
+    "category": "Flags",
+    "image": "1f1ee-1f1f1.png",
+    "pattern": ":fl00108:"
+},
+{
+    "name": "Isle of Man Flag",
+    "short_name": "flag-im",
+    "category": "Flags",
+    "image": "1f1ee-1f1f2.png",
+    "pattern": ":fl00109:"
+},
+{
+    "name": "India Flag",
+    "short_name": "flag-in",
+    "category": "Flags",
+    "image": "1f1ee-1f1f3.png",
+    "pattern": ":fl00110:"
+},
+{
+    "name": "British Indian Ocean Territory Flag",
+    "short_name": "flag-io",
+    "category": "Flags",
+    "image": "1f1ee-1f1f4.png",
+    "pattern": ":fl00111:"
+},
+{
+    "name": "Iraq Flag",
+    "short_name": "flag-iq",
+    "category": "Flags",
+    "image": "1f1ee-1f1f6.png",
+    "pattern": ":fl00112:"
+},
+{
+    "name": "Iran Flag",
+    "short_name": "flag-ir",
+    "category": "Flags",
+    "image": "1f1ee-1f1f7.png",
+    "pattern": ":fl00113:"
+},
+{
+    "name": "Iceland Flag",
+    "short_name": "flag-is",
+    "category": "Flags",
+    "image": "1f1ee-1f1f8.png",
+    "pattern": ":fl00114:"
+},
+{
+    "name": "Italy Flag",
+    "short_name": "it",
+    "category": "Flags",
+    "image": "1f1ee-1f1f9.png",
+    "pattern": ":fl00115:"
+},
+{
+    "name": "Jersey Flag",
+    "short_name": "flag-je",
+    "category": "Flags",
+    "image": "1f1ef-1f1ea.png",
+    "pattern": ":fl00116:"
+},
+{
+    "name": "Jamaica Flag",
+    "short_name": "flag-jm",
+    "category": "Flags",
+    "image": "1f1ef-1f1f2.png",
+    "pattern": ":fl00117:"
+},
+{
+    "name": "Jordan Flag",
+    "short_name": "flag-jo",
+    "category": "Flags",
+    "image": "1f1ef-1f1f4.png",
+    "pattern": ":fl00118:"
+},
+{
+    "name": "Japan Flag",
+    "short_name": "jp",
+    "category": "Flags",
+    "image": "1f1ef-1f1f5.png",
+    "pattern": ":fl00119:"
+},
+{
+    "name": "Kenya Flag",
+    "short_name": "flag-ke",
+    "category": "Flags",
+    "image": "1f1f0-1f1ea.png",
+    "pattern": ":fl00120:"
+},
+{
+    "name": "Kyrgyzstan Flag",
+    "short_name": "flag-kg",
+    "category": "Flags",
+    "image": "1f1f0-1f1ec.png",
+    "pattern": ":fl00121:"
+},
+{
+    "name": "Cambodia Flag",
+    "short_name": "flag-kh",
+    "category": "Flags",
+    "image": "1f1f0-1f1ed.png",
+    "pattern": ":fl00122:"
+},
+{
+    "name": "Kiribati Flag",
+    "short_name": "flag-ki",
+    "category": "Flags",
+    "image": "1f1f0-1f1ee.png",
+    "pattern": ":fl00123:"
+},
+{
+    "name": "Comoros Flag",
+    "short_name": "flag-km",
+    "category": "Flags",
+    "image": "1f1f0-1f1f2.png",
+    "pattern": ":fl00124:"
+},
+{
+    "name": "St. Kitts &amp; Nevis Flag",
+    "short_name": "flag-kn",
+    "category": "Flags",
+    "image": "1f1f0-1f1f3.png",
+    "pattern": ":fl00125:"
+},
+{
+    "name": "North Korea Flag",
+    "short_name": "flag-kp",
+    "category": "Flags",
+    "image": "1f1f0-1f1f5.png",
+    "pattern": ":fl00126:"
+},
+{
+    "name": "South Korea Flag",
+    "short_name": "kr",
+    "category": "Flags",
+    "image": "1f1f0-1f1f7.png",
+    "pattern": ":fl00127:"
+},
+{
+    "name": "Kuwait Flag",
+    "short_name": "flag-kw",
+    "category": "Flags",
+    "image": "1f1f0-1f1fc.png",
+    "pattern": ":fl00128:"
+},
+{
+    "name": "Cayman Islands Flag",
+    "short_name": "flag-ky",
+    "category": "Flags",
+    "image": "1f1f0-1f1fe.png",
+    "pattern": ":fl00129:"
+},
+{
+    "name": "Kazakhstan Flag",
+    "short_name": "flag-kz",
+    "category": "Flags",
+    "image": "1f1f0-1f1ff.png",
+    "pattern": ":fl00130:"
+},
+{
+    "name": "Laos Flag",
+    "short_name": "flag-la",
+    "category": "Flags",
+    "image": "1f1f1-1f1e6.png",
+    "pattern": ":fl00131:"
+},
+{
+    "name": "Lebanon Flag",
+    "short_name": "flag-lb",
+    "category": "Flags",
+    "image": "1f1f1-1f1e7.png",
+    "pattern": ":fl00132:"
+},
+{
+    "name": "St. Lucia Flag",
+    "short_name": "flag-lc",
+    "category": "Flags",
+    "image": "1f1f1-1f1e8.png",
+    "pattern": ":fl00133:"
+},
+{
+    "name": "Liechtenstein Flag",
+    "short_name": "flag-li",
+    "category": "Flags",
+    "image": "1f1f1-1f1ee.png",
+    "pattern": ":fl00134:"
+},
+{
+    "name": "Sri Lanka Flag",
+    "short_name": "flag-lk",
+    "category": "Flags",
+    "image": "1f1f1-1f1f0.png",
+    "pattern": ":fl00135:"
+},
+{
+    "name": "Liberia Flag",
+    "short_name": "flag-lr",
+    "category": "Flags",
+    "image": "1f1f1-1f1f7.png",
+    "pattern": ":fl00136:"
+},
+{
+    "name": "Lesotho Flag",
+    "short_name": "flag-ls",
+    "category": "Flags",
+    "image": "1f1f1-1f1f8.png",
+    "pattern": ":fl00137:"
+},
+{
+    "name": "Lithuania Flag",
+    "short_name": "flag-lt",
+    "category": "Flags",
+    "image": "1f1f1-1f1f9.png",
+    "pattern": ":fl00138:"
+},
+{
+    "name": "Luxembourg Flag",
+    "short_name": "flag-lu",
+    "category": "Flags",
+    "image": "1f1f1-1f1fa.png",
+    "pattern": ":fl00139:"
+},
+{
+    "name": "Latvia Flag",
+    "short_name": "flag-lv",
+    "category": "Flags",
+    "image": "1f1f1-1f1fb.png",
+    "pattern": ":fl00140:"
+},
+{
+    "name": "Libya Flag",
+    "short_name": "flag-ly",
+    "category": "Flags",
+    "image": "1f1f1-1f1fe.png",
+    "pattern": ":fl00141:"
+},
+{
+    "name": "Morocco Flag",
+    "short_name": "flag-ma",
+    "category": "Flags",
+    "image": "1f1f2-1f1e6.png",
+    "pattern": ":fl00142:"
+},
+{
+    "name": "Monaco Flag",
+    "short_name": "flag-mc",
+    "category": "Flags",
+    "image": "1f1f2-1f1e8.png",
+    "pattern": ":fl00143:"
+},
+{
+    "name": "Moldova Flag",
+    "short_name": "flag-md",
+    "category": "Flags",
+    "image": "1f1f2-1f1e9.png",
+    "pattern": ":fl00144:"
+},
+{
+    "name": "Montenegro Flag",
+    "short_name": "flag-me",
+    "category": "Flags",
+    "image": "1f1f2-1f1ea.png",
+    "pattern": ":fl00145:"
+},
+{
+    "name": "St. Martin Flag",
+    "short_name": "flag-mf",
+    "category": "Flags",
+    "image": "1f1f2-1f1eb.png",
+    "pattern": ":fl00146:"
+},
+{
+    "name": "Madagascar Flag",
+    "short_name": "flag-mg",
+    "category": "Flags",
+    "image": "1f1f2-1f1ec.png",
+    "pattern": ":fl00147:"
+},
+{
+    "name": "Marshall Islands Flag",
+    "short_name": "flag-mh",
+    "category": "Flags",
+    "image": "1f1f2-1f1ed.png",
+    "pattern": ":fl00148:"
+},
+{
+    "name": "Macedonia Flag",
+    "short_name": "flag-mk",
+    "category": "Flags",
+    "image": "1f1f2-1f1f0.png",
+    "pattern": ":fl00149:"
+},
+{
+    "name": "Mali Flag",
+    "short_name": "flag-ml",
+    "category": "Flags",
+    "image": "1f1f2-1f1f1.png",
+    "pattern": ":fl00150:"
+},
+{
+    "name": "Myanmar (Burma) Flag",
+    "short_name": "flag-mm",
+    "category": "Flags",
+    "image": "1f1f2-1f1f2.png",
+    "pattern": ":fl00151:"
+},
+{
+    "name": "Mongolia Flag",
+    "short_name": "flag-mn",
+    "category": "Flags",
+    "image": "1f1f2-1f1f3.png",
+    "pattern": ":fl00152:"
+},
+{
+    "name": "Macau SAR China Flag",
+    "short_name": "flag-mo",
+    "category": "Flags",
+    "image": "1f1f2-1f1f4.png",
+    "pattern": ":fl00153:"
+},
+{
+    "name": "Northern Mariana Islands Flag",
+    "short_name": "flag-mp",
+    "category": "Flags",
+    "image": "1f1f2-1f1f5.png",
+    "pattern": ":fl00154:"
+},
+{
+    "name": "Martinique Flag",
+    "short_name": "flag-mq",
+    "category": "Flags",
+    "image": "1f1f2-1f1f6.png",
+    "pattern": ":fl00155:"
+},
+{
+    "name": "Mauritania Flag",
+    "short_name": "flag-mr",
+    "category": "Flags",
+    "image": "1f1f2-1f1f7.png",
+    "pattern": ":fl00156:"
+},
+{
+    "name": "Montserrat Flag",
+    "short_name": "flag-ms",
+    "category": "Flags",
+    "image": "1f1f2-1f1f8.png",
+    "pattern": ":fl00157:"
+},
+{
+    "name": "Malta Flag",
+    "short_name": "flag-mt",
+    "category": "Flags",
+    "image": "1f1f2-1f1f9.png",
+    "pattern": ":fl00158:"
+},
+{
+    "name": "Mauritius Flag",
+    "short_name": "flag-mu",
+    "category": "Flags",
+    "image": "1f1f2-1f1fa.png",
+    "pattern": ":fl00159:"
+},
+{
+    "name": "Maldives Flag",
+    "short_name": "flag-mv",
+    "category": "Flags",
+    "image": "1f1f2-1f1fb.png",
+    "pattern": ":fl00160:"
+},
+{
+    "name": "Malawi Flag",
+    "short_name": "flag-mw",
+    "category": "Flags",
+    "image": "1f1f2-1f1fc.png",
+    "pattern": ":fl00161:"
+},
+{
+    "name": "Mexico Flag",
+    "short_name": "flag-mx",
+    "category": "Flags",
+    "image": "1f1f2-1f1fd.png",
+    "pattern": ":fl00162:"
+},
+{
+    "name": "Malaysia Flag",
+    "short_name": "flag-my",
+    "category": "Flags",
+    "image": "1f1f2-1f1fe.png",
+    "pattern": ":fl00163:"
+},
+{
+    "name": "Mozambique Flag",
+    "short_name": "flag-mz",
+    "category": "Flags",
+    "image": "1f1f2-1f1ff.png",
+    "pattern": ":fl00164:"
+},
+{
+    "name": "Namibia Flag",
+    "short_name": "flag-na",
+    "category": "Flags",
+    "image": "1f1f3-1f1e6.png",
+    "pattern": ":fl00165:"
+},
+{
+    "name": "New Caledonia Flag",
+    "short_name": "flag-nc",
+    "category": "Flags",
+    "image": "1f1f3-1f1e8.png",
+    "pattern": ":fl00166:"
+},
+{
+    "name": "Niger Flag",
+    "short_name": "flag-ne",
+    "category": "Flags",
+    "image": "1f1f3-1f1ea.png",
+    "pattern": ":fl00167:"
+},
+{
+    "name": "Norfolk Island Flag",
+    "short_name": "flag-nf",
+    "category": "Flags",
+    "image": "1f1f3-1f1eb.png",
+    "pattern": ":fl00168:"
+},
+{
+    "name": "Nigeria Flag",
+    "short_name": "flag-ng",
+    "category": "Flags",
+    "image": "1f1f3-1f1ec.png",
+    "pattern": ":fl00169:"
+},
+{
+    "name": "Nicaragua Flag",
+    "short_name": "flag-ni",
+    "category": "Flags",
+    "image": "1f1f3-1f1ee.png",
+    "pattern": ":fl00170:"
+},
+{
+    "name": "Netherlands Flag",
+    "short_name": "flag-nl",
+    "category": "Flags",
+    "image": "1f1f3-1f1f1.png",
+    "pattern": ":fl00171:"
+},
+{
+    "name": "Norway Flag",
+    "short_name": "flag-no",
+    "category": "Flags",
+    "image": "1f1f3-1f1f4.png",
+    "pattern": ":fl00172:"
+},
+{
+    "name": "Nepal Flag",
+    "short_name": "flag-np",
+    "category": "Flags",
+    "image": "1f1f3-1f1f5.png",
+    "pattern": ":fl00173:"
+},
+{
+    "name": "Nauru Flag",
+    "short_name": "flag-nr",
+    "category": "Flags",
+    "image": "1f1f3-1f1f7.png",
+    "pattern": ":fl00174:"
+},
+{
+    "name": "Niue Flag",
+    "short_name": "flag-nu",
+    "category": "Flags",
+    "image": "1f1f3-1f1fa.png",
+    "pattern": ":fl00175:"
+},
+{
+    "name": "New Zealand Flag",
+    "short_name": "flag-nz",
+    "category": "Flags",
+    "image": "1f1f3-1f1ff.png",
+    "pattern": ":fl00176:"
+},
+{
+    "name": "Oman Flag",
+    "short_name": "flag-om",
+    "category": "Flags",
+    "image": "1f1f4-1f1f2.png",
+    "pattern": ":fl00177:"
+},
+{
+    "name": "Panama Flag",
+    "short_name": "flag-pa",
+    "category": "Flags",
+    "image": "1f1f5-1f1e6.png",
+    "pattern": ":fl00178:"
+},
+{
+    "name": "Peru Flag",
+    "short_name": "flag-pe",
+    "category": "Flags",
+    "image": "1f1f5-1f1ea.png",
+    "pattern": ":fl00179:"
+},
+{
+    "name": "French Polynesia Flag",
+    "short_name": "flag-pf",
+    "category": "Flags",
+    "image": "1f1f5-1f1eb.png",
+    "pattern": ":fl00180:"
+},
+{
+    "name": "Papua New Guinea Flag",
+    "short_name": "flag-pg",
+    "category": "Flags",
+    "image": "1f1f5-1f1ec.png",
+    "pattern": ":fl00181:"
+},
+{
+    "name": "Philippines Flag",
+    "short_name": "flag-ph",
+    "category": "Flags",
+    "image": "1f1f5-1f1ed.png",
+    "pattern": ":fl00182:"
+},
+{
+    "name": "Pakistan Flag",
+    "short_name": "flag-pk",
+    "category": "Flags",
+    "image": "1f1f5-1f1f0.png",
+    "pattern": ":fl00183:"
+},
+{
+    "name": "Poland Flag",
+    "short_name": "flag-pl",
+    "category": "Flags",
+    "image": "1f1f5-1f1f1.png",
+    "pattern": ":fl00184:"
+},
+{
+    "name": "St. Pierre &amp; Miquelon Flag",
+    "short_name": "flag-pm",
+    "category": "Flags",
+    "image": "1f1f5-1f1f2.png",
+    "pattern": ":fl00185:"
+},
+{
+    "name": "Pitcairn Islands Flag",
+    "short_name": "flag-pn",
+    "category": "Flags",
+    "image": "1f1f5-1f1f3.png",
+    "pattern": ":fl00186:"
+},
+{
+    "name": "Puerto Rico Flag",
+    "short_name": "flag-pr",
+    "category": "Flags",
+    "image": "1f1f5-1f1f7.png",
+    "pattern": ":fl00187:"
+},
+{
+    "name": "Palestinian Territories Flag",
+    "short_name": "flag-ps",
+    "category": "Flags",
+    "image": "1f1f5-1f1f8.png",
+    "pattern": ":fl00188:"
+},
+{
+    "name": "Portugal Flag",
+    "short_name": "flag-pt",
+    "category": "Flags",
+    "image": "1f1f5-1f1f9.png",
+    "pattern": ":fl00189:"
+},
+{
+    "name": "Palau Flag",
+    "short_name": "flag-pw",
+    "category": "Flags",
+    "image": "1f1f5-1f1fc.png",
+    "pattern": ":fl00190:"
+},
+{
+    "name": "Paraguay Flag",
+    "short_name": "flag-py",
+    "category": "Flags",
+    "image": "1f1f5-1f1fe.png",
+    "pattern": ":fl00191:"
+},
+{
+    "name": "Qatar Flag",
+    "short_name": "flag-qa",
+    "category": "Flags",
+    "image": "1f1f6-1f1e6.png",
+    "pattern": ":fl00192:"
+},
+{
+    "name": "Réunion Flag",
+    "short_name": "flag-re",
+    "category": "Flags",
+    "image": "1f1f7-1f1ea.png",
+    "pattern": ":fl00193:"
+},
+{
+    "name": "Romania Flag",
+    "short_name": "flag-ro",
+    "category": "Flags",
+    "image": "1f1f7-1f1f4.png",
+    "pattern": ":fl00194:"
+},
+{
+    "name": "Serbia Flag",
+    "short_name": "flag-rs",
+    "category": "Flags",
+    "image": "1f1f7-1f1f8.png",
+    "pattern": ":fl00195:"
+},
+{
+    "name": "Russia Flag",
+    "short_name": "ru",
+    "category": "Flags",
+    "image": "1f1f7-1f1fa.png",
+    "pattern": ":fl00196:"
+},
+{
+    "name": "Rwanda Flag",
+    "short_name": "flag-rw",
+    "category": "Flags",
+    "image": "1f1f7-1f1fc.png",
+    "pattern": ":fl00197:"
+},
+{
+    "name": "Saudi Arabia Flag",
+    "short_name": "flag-sa",
+    "category": "Flags",
+    "image": "1f1f8-1f1e6.png",
+    "pattern": ":fl00198:"
+},
+{
+    "name": "Solomon Islands Flag",
+    "short_name": "flag-sb",
+    "category": "Flags",
+    "image": "1f1f8-1f1e7.png",
+    "pattern": ":fl00199:"
+},
+{
+    "name": "Seychelles Flag",
+    "short_name": "flag-sc",
+    "category": "Flags",
+    "image": "1f1f8-1f1e8.png",
+    "pattern": ":fl00200:"
+},
+{
+    "name": "Sudan Flag",
+    "short_name": "flag-sd",
+    "category": "Flags",
+    "image": "1f1f8-1f1e9.png",
+    "pattern": ":fl00201:"
+},
+{
+    "name": "Sweden Flag",
+    "short_name": "flag-se",
+    "category": "Flags",
+    "image": "1f1f8-1f1ea.png",
+    "pattern": ":fl00202:"
+},
+{
+    "name": "Singapore Flag",
+    "short_name": "flag-sg",
+    "category": "Flags",
+    "image": "1f1f8-1f1ec.png",
+    "pattern": ":fl00203:"
+},
+{
+    "name": "St. Helena Flag",
+    "short_name": "flag-sh",
+    "category": "Flags",
+    "image": "1f1f8-1f1ed.png",
+    "pattern": ":fl00204:"
+},
+{
+    "name": "Slovenia Flag",
+    "short_name": "flag-si",
+    "category": "Flags",
+    "image": "1f1f8-1f1ee.png",
+    "pattern": ":fl00205:"
+},
+{
+    "name": "Svalbard &amp; Jan Mayen Flag",
+    "short_name": "flag-sj",
+    "category": "Flags",
+    "image": "1f1f8-1f1ef.png",
+    "pattern": ":fl00206:"
+},
+{
+    "name": "Slovakia Flag",
+    "short_name": "flag-sk",
+    "category": "Flags",
+    "image": "1f1f8-1f1f0.png",
+    "pattern": ":fl00207:"
+},
+{
+    "name": "Sierra Leone Flag",
+    "short_name": "flag-sl",
+    "category": "Flags",
+    "image": "1f1f8-1f1f1.png",
+    "pattern": ":fl00208:"
+},
+{
+    "name": "San Marino Flag",
+    "short_name": "flag-sm",
+    "category": "Flags",
+    "image": "1f1f8-1f1f2.png",
+    "pattern": ":fl00209:"
+},
+{
+    "name": "Senegal Flag",
+    "short_name": "flag-sn",
+    "category": "Flags",
+    "image": "1f1f8-1f1f3.png",
+    "pattern": ":fl00210:"
+},
+{
+    "name": "Somalia Flag",
+    "short_name": "flag-so",
+    "category": "Flags",
+    "image": "1f1f8-1f1f4.png",
+    "pattern": ":fl00211:"
+},
+{
+    "name": "Suriname Flag",
+    "short_name": "flag-sr",
+    "category": "Flags",
+    "image": "1f1f8-1f1f7.png",
+    "pattern": ":fl00212:"
+},
+{
+    "name": "South Sudan Flag",
+    "short_name": "flag-ss",
+    "category": "Flags",
+    "image": "1f1f8-1f1f8.png",
+    "pattern": ":fl00213:"
+},
+{
+    "name": "São Tomé &amp; Príncipe Flag",
+    "short_name": "flag-st",
+    "category": "Flags",
+    "image": "1f1f8-1f1f9.png",
+    "pattern": ":fl00214:"
+},
+{
+    "name": "El Salvador Flag",
+    "short_name": "flag-sv",
+    "category": "Flags",
+    "image": "1f1f8-1f1fb.png",
+    "pattern": ":fl00215:"
+},
+{
+    "name": "Sint Maarten Flag",
+    "short_name": "flag-sx",
+    "category": "Flags",
+    "image": "1f1f8-1f1fd.png",
+    "pattern": ":fl00216:"
+},
+{
+    "name": "Syria Flag",
+    "short_name": "flag-sy",
+    "category": "Flags",
+    "image": "1f1f8-1f1fe.png",
+    "pattern": ":fl00217:"
+},
+{
+    "name": "Swaziland Flag",
+    "short_name": "flag-sz",
+    "category": "Flags",
+    "image": "1f1f8-1f1ff.png",
+    "pattern": ":fl00218:"
+},
+{
+    "name": "Tristan da Cunha Flag",
+    "short_name": "flag-ta",
+    "category": "Flags",
+    "image": "1f1f9-1f1e6.png",
+    "pattern": ":fl00219:"
+},
+{
+    "name": "Turks &amp; Caicos Islands Flag",
+    "short_name": "flag-tc",
+    "category": "Flags",
+    "image": "1f1f9-1f1e8.png",
+    "pattern": ":fl00220:"
+},
+{
+    "name": "Chad Flag",
+    "short_name": "flag-td",
+    "category": "Flags",
+    "image": "1f1f9-1f1e9.png",
+    "pattern": ":fl00221:"
+},
+{
+    "name": "French Southern Territories Flag",
+    "short_name": "flag-tf",
+    "category": "Flags",
+    "image": "1f1f9-1f1eb.png",
+    "pattern": ":fl00222:"
+},
+{
+    "name": "Togo Flag",
+    "short_name": "flag-tg",
+    "category": "Flags",
+    "image": "1f1f9-1f1ec.png",
+    "pattern": ":fl00223:"
+},
+{
+    "name": "Thailand Flag",
+    "short_name": "flag-th",
+    "category": "Flags",
+    "image": "1f1f9-1f1ed.png",
+    "pattern": ":fl00224:"
+},
+{
+    "name": "Tajikistan Flag",
+    "short_name": "flag-tj",
+    "category": "Flags",
+    "image": "1f1f9-1f1ef.png",
+    "pattern": ":fl00225:"
+},
+{
+    "name": "Tokelau Flag",
+    "short_name": "flag-tk",
+    "category": "Flags",
+    "image": "1f1f9-1f1f0.png",
+    "pattern": ":fl00226:"
+},
+{
+    "name": "Timor-Leste Flag",
+    "short_name": "flag-tl",
+    "category": "Flags",
+    "image": "1f1f9-1f1f1.png",
+    "pattern": ":fl00227:"
+},
+{
+    "name": "Turkmenistan Flag",
+    "short_name": "flag-tm",
+    "category": "Flags",
+    "image": "1f1f9-1f1f2.png",
+    "pattern": ":fl00228:"
+},
+{
+    "name": "Tunisia Flag",
+    "short_name": "flag-tn",
+    "category": "Flags",
+    "image": "1f1f9-1f1f3.png",
+    "pattern": ":fl00229:"
+},
+{
+    "name": "Tonga Flag",
+    "short_name": "flag-to",
+    "category": "Flags",
+    "image": "1f1f9-1f1f4.png",
+    "pattern": ":fl00230:"
+},
+{
+    "name": "Turkey Flag",
+    "short_name": "flag-tr",
+    "category": "Flags",
+    "image": "1f1f9-1f1f7.png",
+    "pattern": ":fl00231:"
+},
+{
+    "name": "Trinidad &amp; Tobago Flag",
+    "short_name": "flag-tt",
+    "category": "Flags",
+    "image": "1f1f9-1f1f9.png",
+    "pattern": ":fl00232:"
+},
+{
+    "name": "Tuvalu Flag",
+    "short_name": "flag-tv",
+    "category": "Flags",
+    "image": "1f1f9-1f1fb.png",
+    "pattern": ":fl00233:"
+},
+{
+    "name": "Taiwan Flag",
+    "short_name": "flag-tw",
+    "category": "Flags",
+    "image": "1f1f9-1f1fc.png",
+    "pattern": ":fl00234:"
+},
+{
+    "name": "Tanzania Flag",
+    "short_name": "flag-tz",
+    "category": "Flags",
+    "image": "1f1f9-1f1ff.png",
+    "pattern": ":fl00235:"
+},
+{
+    "name": "Ukraine Flag",
+    "short_name": "flag-ua",
+    "category": "Flags",
+    "image": "1f1fa-1f1e6.png",
+    "pattern": ":fl00236:"
+},
+{
+    "name": "Uganda Flag",
+    "short_name": "flag-ug",
+    "category": "Flags",
+    "image": "1f1fa-1f1ec.png",
+    "pattern": ":fl00237:"
+},
+{
+    "name": "U.S. Outlying Islands Flag",
+    "short_name": "flag-um",
+    "category": "Flags",
+    "image": "1f1fa-1f1f2.png",
+    "pattern": ":fl00238:"
+},
+{
+    "name": "United Nations Flag",
+    "short_name": "flag-un",
+    "category": "Flags",
+    "image": "1f1fa-1f1f3.png",
+    "pattern": ":fl00239:"
+},
+{
+    "name": "United States Flag",
+    "short_name": "us",
+    "category": "Flags",
+    "image": "1f1fa-1f1f8.png",
+    "pattern": ":fl00240:"
+},
+{
+    "name": "Uruguay Flag",
+    "short_name": "flag-uy",
+    "category": "Flags",
+    "image": "1f1fa-1f1fe.png",
+    "pattern": ":fl00241:"
+},
+{
+    "name": "Uzbekistan Flag",
+    "short_name": "flag-uz",
+    "category": "Flags",
+    "image": "1f1fa-1f1ff.png",
+    "pattern": ":fl00242:"
+},
+{
+    "name": "Vatican City Flag",
+    "short_name": "flag-va",
+    "category": "Flags",
+    "image": "1f1fb-1f1e6.png",
+    "pattern": ":fl00243:"
+},
+{
+    "name": "St. Vincent &amp; Grenadines Flag",
+    "short_name": "flag-vc",
+    "category": "Flags",
+    "image": "1f1fb-1f1e8.png",
+    "pattern": ":fl00244:"
+},
+{
+    "name": "Venezuela Flag",
+    "short_name": "flag-ve",
+    "category": "Flags",
+    "image": "1f1fb-1f1ea.png",
+    "pattern": ":fl00245:"
+},
+{
+    "name": "British Virgin Islands Flag",
+    "short_name": "flag-vg",
+    "category": "Flags",
+    "image": "1f1fb-1f1ec.png",
+    "pattern": ":fl00246:"
+},
+{
+    "name": "U.S. Virgin Islands Flag",
+    "short_name": "flag-vi",
+    "category": "Flags",
+    "image": "1f1fb-1f1ee.png",
+    "pattern": ":fl00247:"
+},
+{
+    "name": "Vietnam Flag",
+    "short_name": "flag-vn",
+    "category": "Flags",
+    "image": "1f1fb-1f1f3.png",
+    "pattern": ":fl00248:"
+},
+{
+    "name": "Vanuatu Flag",
+    "short_name": "flag-vu",
+    "category": "Flags",
+    "image": "1f1fb-1f1fa.png",
+    "pattern": ":fl00249:"
+},
+{
+    "name": "Wallis &amp; Futuna Flag",
+    "short_name": "flag-wf",
+    "category": "Flags",
+    "image": "1f1fc-1f1eb.png",
+    "pattern": ":fl00250:"
+},
+{
+    "name": "Samoa Flag",
+    "short_name": "flag-ws",
+    "category": "Flags",
+    "image": "1f1fc-1f1f8.png",
+    "pattern": ":fl00251:"
+},
+{
+    "name": "Kosovo Flag",
+    "short_name": "flag-xk",
+    "category": "Flags",
+    "image": "1f1fd-1f1f0.png",
+    "pattern": ":fl00252:"
+},
+{
+    "name": "Yemen Flag",
+    "short_name": "flag-ye",
+    "category": "Flags",
+    "image": "1f1fe-1f1ea.png",
+    "pattern": ":fl00253:"
+},
+{
+    "name": "Mayotte Flag",
+    "short_name": "flag-yt",
+    "category": "Flags",
+    "image": "1f1fe-1f1f9.png",
+    "pattern": ":fl00254:"
+},
+{
+    "name": "South Africa Flag",
+    "short_name": "flag-za",
+    "category": "Flags",
+    "image": "1f1ff-1f1e6.png",
+    "pattern": ":fl00255:"
+},
+{
+    "name": "Zambia Flag",
+    "short_name": "flag-zm",
+    "category": "Flags",
+    "image": "1f1ff-1f1f2.png",
+    "pattern": ":fl00256:"
+},
+{
+    "name": "Zimbabwe Flag",
+    "short_name": "flag-zw",
+    "category": "Flags",
+    "image": "1f1ff-1f1fc.png",
+    "pattern": ":fl00257:"
+},
+{
+    "name": "CROSSED FLAGS",
+    "short_name": "crossed_flags",
+    "category": "Flags",
+    "image": "1f38c.png",
+    "pattern": ":fl00258:"
+},
+{
+    "name": "CHEQUERED FLAG",
+    "short_name": "checkered_flag",
+    "category": "Flags",
+    "image": "1f3c1.png",
+    "pattern": ":fl00259:"
+},
+{
+    "name": "null",
+    "short_name": "rainbow-flag",
+    "category": "Flags",
+    "image": "1f3f3-fe0f-200d-1f308.png",
+    "pattern": ":fl00260:"
+},
+{
+    "name": "null",
+    "short_name": "waving_white_flag",
+    "category": "Flags",
+    "image": "1f3f3-fe0f.png",
+    "pattern": ":fl00261:"
+},
+{
+    "name": "England Flag",
+    "short_name": "flag-england",
+    "category": "Flags",
+    "image": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png",
+    "pattern": ":fl00262:"
+},
+{
+    "name": "Scotland Flag",
+    "short_name": "flag-scotland",
+    "category": "Flags",
+    "image": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png",
+    "pattern": ":fl00263:"
+},
+{
+    "name": "Wales Flag",
+    "short_name": "flag-wales",
+    "category": "Flags",
+    "image": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png",
+    "pattern": ":fl00264:"
+},
+{
+    "name": "WAVING BLACK FLAG",
+    "short_name": "waving_black_flag",
+    "category": "Flags",
+    "image": "1f3f4.png",
+    "pattern": ":fl00265:"
+},
+{
+    "name": "TRIANGULAR FLAG ON POST",
+    "short_name": "triangular_flag_on_post",
+    "category": "Flags",
+    "image": "1f6a9.png",
+    "pattern": ":fl00266:"
+}
+];

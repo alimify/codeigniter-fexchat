@@ -1,0 +1,422 @@
+window.activities =[
+    {
+        "name": "MAHJONG TILE RED DRAGON",
+        "short_name": "mahjong",
+        "category": "Activities",
+        "image": "1f004.png",
+        "pattern": ":ac00000:"
+    },
+    {
+        "name": "PLAYING CARD BLACK JOKER",
+        "short_name": "black_joker",
+        "category": "Activities",
+        "image": "1f0cf.png",
+        "pattern": ":ac00001:"
+    },
+    {
+        "name": "RIBBON",
+        "short_name": "ribbon",
+        "category": "Activities",
+        "image": "1f380.png",
+        "pattern": ":ac00002:"
+    },
+    {
+        "name": "WRAPPED PRESENT",
+        "short_name": "gift",
+        "category": "Activities",
+        "image": "1f381.png",
+        "pattern": ":ac00003:"
+    },
+    {
+        "name": "JACK-O-LANTERN",
+        "short_name": "jack_o_lantern",
+        "category": "Activities",
+        "image": "1f383.png",
+        "pattern": ":ac00004:"
+    },
+    {
+        "name": "CHRISTMAS TREE",
+        "short_name": "christmas_tree",
+        "category": "Activities",
+        "image": "1f384.png",
+        "pattern": ":ac00005:"
+    },
+    {
+        "name": "FIREWORKS",
+        "short_name": "fireworks",
+        "category": "Activities",
+        "image": "1f386.png",
+        "pattern": ":ac00006:"
+    },
+    {
+        "name": "FIREWORK SPARKLER",
+        "short_name": "sparkler",
+        "category": "Activities",
+        "image": "1f387.png",
+        "pattern": ":ac00007:"
+    },
+    {
+        "name": "BALLOON",
+        "short_name": "balloon",
+        "category": "Activities",
+        "image": "1f388.png",
+        "pattern": ":ac00008:"
+    },
+    {
+        "name": "PARTY POPPER",
+        "short_name": "tada",
+        "category": "Activities",
+        "image": "1f389.png",
+        "pattern": ":ac00009:"
+    },
+    {
+        "name": "CONFETTI BALL",
+        "short_name": "confetti_ball",
+        "category": "Activities",
+        "image": "1f38a.png",
+        "pattern": ":ac00010:"
+    },
+    {
+        "name": "TANABATA TREE",
+        "short_name": "tanabata_tree",
+        "category": "Activities",
+        "image": "1f38b.png",
+        "pattern": ":ac00011:"
+    },
+    {
+        "name": "PINE DECORATION",
+        "short_name": "bamboo",
+        "category": "Activities",
+        "image": "1f38d.png",
+        "pattern": ":ac00012:"
+    },
+    {
+        "name": "JAPANESE DOLLS",
+        "short_name": "dolls",
+        "category": "Activities",
+        "image": "1f38e.png",
+        "pattern": ":ac00013:"
+    },
+    {
+        "name": "CARP STREAMER",
+        "short_name": "flags",
+        "category": "Activities",
+        "image": "1f38f.png",
+        "pattern": ":ac00014:"
+    },
+    {
+        "name": "WIND CHIME",
+        "short_name": "wind_chime",
+        "category": "Activities",
+        "image": "1f390.png",
+        "pattern": ":ac00015:"
+    },
+    {
+        "name": "MOON VIEWING CEREMONY",
+        "short_name": "rice_scene",
+        "category": "Activities",
+        "image": "1f391.png",
+        "pattern": ":ac00016:"
+    },
+    {
+        "name": "null",
+        "short_name": "medal",
+        "category": "Activities",
+        "image": "1f396-fe0f.png",
+        "pattern": ":ac00017:"
+    },
+    {
+        "name": "null",
+        "short_name": "reminder_ribbon",
+        "category": "Activities",
+        "image": "1f397-fe0f.png",
+        "pattern": ":ac00018:"
+    },
+    {
+        "name": "null",
+        "short_name": "admission_tickets",
+        "category": "Activities",
+        "image": "1f39f-fe0f.png",
+        "pattern": ":ac00019:"
+    },
+    {
+        "name": "FISHING POLE AND FISH",
+        "short_name": "fishing_pole_and_fish",
+        "category": "Activities",
+        "image": "1f3a3.png",
+        "pattern": ":ac00020:"
+    },
+    {
+        "name": "TICKET",
+        "short_name": "ticket",
+        "category": "Activities",
+        "image": "1f3ab.png",
+        "pattern": ":ac00021:"
+    },
+    {
+        "name": "VIDEO GAME",
+        "short_name": "video_game",
+        "category": "Activities",
+        "image": "1f3ae.png",
+        "pattern": ":ac00022:"
+    },
+    {
+        "name": "DIRECT HIT",
+        "short_name": "dart",
+        "category": "Activities",
+        "image": "1f3af.png",
+        "pattern": ":ac00023:"
+    },
+    {
+        "name": "BILLIARDS",
+        "short_name": "8ball",
+        "category": "Activities",
+        "image": "1f3b1.png",
+        "pattern": ":ac00024:"
+    },
+    {
+        "name": "GAME DIE",
+        "short_name": "game_die",
+        "category": "Activities",
+        "image": "1f3b2.png",
+        "pattern": ":ac00025:"
+    },
+    {
+        "name": "BOWLING",
+        "short_name": "bowling",
+        "category": "Activities",
+        "image": "1f3b3.png",
+        "pattern": ":ac00026:"
+    },
+    {
+        "name": "FLOWER PLAYING CARDS",
+        "short_name": "flower_playing_cards",
+        "category": "Activities",
+        "image": "1f3b4.png",
+        "pattern": ":ac00027:"
+    },
+    {
+        "name": "RUNNING SHIRT WITH SASH",
+        "short_name": "running_shirt_with_sash",
+        "category": "Activities",
+        "image": "1f3bd.png",
+        "pattern": ":ac00028:"
+    },
+    {
+        "name": "TENNIS RACQUET AND BALL",
+        "short_name": "tennis",
+        "category": "Activities",
+        "image": "1f3be.png",
+        "pattern": ":ac00029:"
+    },
+    {
+        "name": "SKI AND SKI BOOT",
+        "short_name": "ski",
+        "category": "Activities",
+        "image": "1f3bf.png",
+        "pattern": ":ac00030:"
+    },
+    {
+        "name": "BASKETBALL AND HOOP",
+        "short_name": "basketball",
+        "category": "Activities",
+        "image": "1f3c0.png",
+        "pattern": ":ac00031:"
+    },
+    {
+        "name": "SPORTS MEDAL",
+        "short_name": "sports_medal",
+        "category": "Activities",
+        "image": "1f3c5.png",
+        "pattern": ":ac00032:"
+    },
+    {
+        "name": "TROPHY",
+        "short_name": "trophy",
+        "category": "Activities",
+        "image": "1f3c6.png",
+        "pattern": ":ac00033:"
+    },
+    {
+        "name": "AMERICAN FOOTBALL",
+        "short_name": "football",
+        "category": "Activities",
+        "image": "1f3c8.png",
+        "pattern": ":ac00034:"
+    },
+    {
+        "name": "RUGBY FOOTBALL",
+        "short_name": "rugby_football",
+        "category": "Activities",
+        "image": "1f3c9.png",
+        "pattern": ":ac00035:"
+    },
+    {
+        "name": "CRICKET BAT AND BALL",
+        "short_name": "cricket_bat_and_ball",
+        "category": "Activities",
+        "image": "1f3cf.png",
+        "pattern": ":ac00036:"
+    },
+    {
+        "name": "VOLLEYBALL",
+        "short_name": "volleyball",
+        "category": "Activities",
+        "image": "1f3d0.png",
+        "pattern": ":ac00037:"
+    },
+    {
+        "name": "FIELD HOCKEY STICK AND BALL",
+        "short_name": "field_hockey_stick_and_ball",
+        "category": "Activities",
+        "image": "1f3d1.png",
+        "pattern": ":ac00038:"
+    },
+    {
+        "name": "ICE HOCKEY STICK AND PUCK",
+        "short_name": "ice_hockey_stick_and_puck",
+        "category": "Activities",
+        "image": "1f3d2.png",
+        "pattern": ":ac00039:"
+    },
+    {
+        "name": "TABLE TENNIS PADDLE AND BALL",
+        "short_name": "table_tennis_paddle_and_ball",
+        "category": "Activities",
+        "image": "1f3d3.png",
+        "pattern": ":ac00040:"
+    },
+    {
+        "name": "BADMINTON RACQUET AND SHUTTLECOCK",
+        "short_name": "badminton_racquet_and_shuttlecock",
+        "category": "Activities",
+        "image": "1f3f8.png",
+        "pattern": ":ac00041:"
+    },
+    {
+        "name": "null",
+        "short_name": "joystick",
+        "category": "Activities",
+        "image": "1f579-fe0f.png",
+        "pattern": ":ac00042:"
+    },
+    {
+        "name": "SLED",
+        "short_name": "sled",
+        "category": "Activities",
+        "image": "1f6f7.png",
+        "pattern": ":ac00043:"
+    },
+    {
+        "name": "GOAL NET",
+        "short_name": "goal_net",
+        "category": "Activities",
+        "image": "1f945.png",
+        "pattern": ":ac00044:"
+    },
+    {
+        "name": "FIRST PLACE MEDAL",
+        "short_name": "first_place_medal",
+        "category": "Activities",
+        "image": "1f947.png",
+        "pattern": ":ac00045:"
+    },
+    {
+        "name": "SECOND PLACE MEDAL",
+        "short_name": "second_place_medal",
+        "category": "Activities",
+        "image": "1f948.png",
+        "pattern": ":ac00046:"
+    },
+    {
+        "name": "THIRD PLACE MEDAL",
+        "short_name": "third_place_medal",
+        "category": "Activities",
+        "image": "1f949.png",
+        "pattern": ":ac00047:"
+    },
+    {
+        "name": "BOXING GLOVE",
+        "short_name": "boxing_glove",
+        "category": "Activities",
+        "image": "1f94a.png",
+        "pattern": ":ac00048:"
+    },
+    {
+        "name": "MARTIAL ARTS UNIFORM",
+        "short_name": "martial_arts_uniform",
+        "category": "Activities",
+        "image": "1f94b.png",
+        "pattern": ":ac00049:"
+    },
+    {
+        "name": "CURLING STONE",
+        "short_name": "curling_stone",
+        "category": "Activities",
+        "image": "1f94c.png",
+        "pattern": ":ac00050:"
+    },
+    {
+        "name": "BLACK SPADE SUIT",
+        "short_name": "spades",
+        "category": "Activities",
+        "image": "2660-fe0f.png",
+        "pattern": ":ac00051:"
+    },
+    {
+        "name": "BLACK CLUB SUIT",
+        "short_name": "clubs",
+        "category": "Activities",
+        "image": "2663-fe0f.png",
+        "pattern": ":ac00052:"
+    },
+    {
+        "name": "BLACK HEART SUIT",
+        "short_name": "hearts",
+        "category": "Activities",
+        "image": "2665-fe0f.png",
+        "pattern": ":ac00053:"
+    },
+    {
+        "name": "BLACK DIAMOND SUIT",
+        "short_name": "diamonds",
+        "category": "Activities",
+        "image": "2666-fe0f.png",
+        "pattern": ":ac00054:"
+    },
+    {
+        "name": "SOCCER BALL",
+        "short_name": "soccer",
+        "category": "Activities",
+        "image": "26bd.png",
+        "pattern": ":ac00055:"
+    },
+    {
+        "name": "BASEBALL",
+        "short_name": "baseball",
+        "category": "Activities",
+        "image": "26be.png",
+        "pattern": ":ac00056:"
+    },
+    {
+        "name": "FLAG IN HOLE",
+        "short_name": "golf",
+        "category": "Activities",
+        "image": "26f3.png",
+        "pattern": ":ac00057:"
+    },
+    {
+        "name": "null",
+        "short_name": "ice_skate",
+        "category": "Activities",
+        "image": "26f8-fe0f.png",
+        "pattern": ":ac00058:"
+    },
+    {
+        "name": "SPARKLES",
+        "short_name": "sparkles",
+        "category": "Activities",
+        "image": "2728.png",
+        "pattern": ":ac00059:"
+    }
+];

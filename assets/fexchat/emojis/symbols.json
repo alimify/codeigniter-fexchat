@@ -1,0 +1,1437 @@
+window.symbols = [
+    {
+        "name": "HASH KEY",
+        "short_name": "hash",
+        "category": "Symbols",
+        "image": "0023-fe0f-20e3.png",
+        "pattern": ":sy00000:"
+    },
+    {
+        "name": "null",
+        "short_name": "keycap_star",
+        "category": "Symbols",
+        "image": "002a-fe0f-20e3.png",
+        "pattern": ":sy00001:"
+    },
+    {
+        "name": "KEYCAP 0",
+        "short_name": "zero",
+        "category": "Symbols",
+        "image": "0030-fe0f-20e3.png",
+        "pattern": ":sy00002:"
+    },
+    {
+        "name": "KEYCAP 1",
+        "short_name": "one",
+        "category": "Symbols",
+        "image": "0031-fe0f-20e3.png",
+        "pattern": ":sy00003:"
+    },
+    {
+        "name": "KEYCAP 2",
+        "short_name": "two",
+        "category": "Symbols",
+        "image": "0032-fe0f-20e3.png",
+        "pattern": ":sy00004:"
+    },
+    {
+        "name": "KEYCAP 3",
+        "short_name": "three",
+        "category": "Symbols",
+        "image": "0033-fe0f-20e3.png",
+        "pattern": ":sy00005:"
+    },
+    {
+        "name": "KEYCAP 4",
+        "short_name": "four",
+        "category": "Symbols",
+        "image": "0034-fe0f-20e3.png",
+        "pattern": ":sy00006:"
+    },
+    {
+        "name": "KEYCAP 5",
+        "short_name": "five",
+        "category": "Symbols",
+        "image": "0035-fe0f-20e3.png",
+        "pattern": ":sy00007:"
+    },
+    {
+        "name": "KEYCAP 6",
+        "short_name": "six",
+        "category": "Symbols",
+        "image": "0036-fe0f-20e3.png",
+        "pattern": ":sy00008:"
+    },
+    {
+        "name": "KEYCAP 7",
+        "short_name": "seven",
+        "category": "Symbols",
+        "image": "0037-fe0f-20e3.png",
+        "pattern": ":sy00009:"
+    },
+    {
+        "name": "KEYCAP 8",
+        "short_name": "eight",
+        "category": "Symbols",
+        "image": "0038-fe0f-20e3.png",
+        "pattern": ":sy00010:"
+    },
+    {
+        "name": "KEYCAP 9",
+        "short_name": "nine",
+        "category": "Symbols",
+        "image": "0039-fe0f-20e3.png",
+        "pattern": ":sy00011:"
+    },
+    {
+        "name": "COPYRIGHT SIGN",
+        "short_name": "copyright",
+        "category": "Symbols",
+        "image": "00a9-fe0f.png",
+        "pattern": ":sy00012:"
+    },
+    {
+        "name": "REGISTERED SIGN",
+        "short_name": "registered",
+        "category": "Symbols",
+        "image": "00ae-fe0f.png",
+        "pattern": ":sy00013:"
+    },
+    {
+        "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
+        "short_name": "a",
+        "category": "Symbols",
+        "image": "1f170-fe0f.png",
+        "pattern": ":sy00014:"
+    },
+    {
+        "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
+        "short_name": "b",
+        "category": "Symbols",
+        "image": "1f171-fe0f.png",
+        "pattern": ":sy00015:"
+    },
+    {
+        "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
+        "short_name": "o2",
+        "category": "Symbols",
+        "image": "1f17e-fe0f.png",
+        "pattern": ":sy00016:"
+    },
+    {
+        "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
+        "short_name": "parking",
+        "category": "Symbols",
+        "image": "1f17f-fe0f.png",
+        "pattern": ":sy00017:"
+    },
+    {
+        "name": "NEGATIVE SQUARED AB",
+        "short_name": "ab",
+        "category": "Symbols",
+        "image": "1f18e.png",
+        "pattern": ":sy00018:"
+    },
+    {
+        "name": "SQUARED CL",
+        "short_name": "cl",
+        "category": "Symbols",
+        "image": "1f191.png",
+        "pattern": ":sy00019:"
+    },
+    {
+        "name": "SQUARED COOL",
+        "short_name": "cool",
+        "category": "Symbols",
+        "image": "1f192.png",
+        "pattern": ":sy00020:"
+    },
+    {
+        "name": "SQUARED FREE",
+        "short_name": "free",
+        "category": "Symbols",
+        "image": "1f193.png",
+        "pattern": ":sy00021:"
+    },
+    {
+        "name": "SQUARED ID",
+        "short_name": "id",
+        "category": "Symbols",
+        "image": "1f194.png",
+        "pattern": ":sy00022:"
+    },
+    {
+        "name": "SQUARED NEW",
+        "short_name": "new",
+        "category": "Symbols",
+        "image": "1f195.png",
+        "pattern": ":sy00023:"
+    },
+    {
+        "name": "SQUARED NG",
+        "short_name": "ng",
+        "category": "Symbols",
+        "image": "1f196.png",
+        "pattern": ":sy00024:"
+    },
+    {
+        "name": "SQUARED OK",
+        "short_name": "ok",
+        "category": "Symbols",
+        "image": "1f197.png",
+        "pattern": ":sy00025:"
+    },
+    {
+        "name": "SQUARED SOS",
+        "short_name": "sos",
+        "category": "Symbols",
+        "image": "1f198.png",
+        "pattern": ":sy00026:"
+    },
+    {
+        "name": "SQUARED UP WITH EXCLAMATION MARK",
+        "short_name": "up",
+        "category": "Symbols",
+        "image": "1f199.png",
+        "pattern": ":sy00027:"
+    },
+    {
+        "name": "SQUARED VS",
+        "short_name": "vs",
+        "category": "Symbols",
+        "image": "1f19a.png",
+        "pattern": ":sy00028:"
+    },
+    {
+        "name": "SQUARED KATAKANA KOKO",
+        "short_name": "koko",
+        "category": "Symbols",
+        "image": "1f201.png",
+        "pattern": ":sy00029:"
+    },
+    {
+        "name": "SQUARED KATAKANA SA",
+        "short_name": "sa",
+        "category": "Symbols",
+        "image": "1f202-fe0f.png",
+        "pattern": ":sy00030:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
+        "short_name": "u7121",
+        "category": "Symbols",
+        "image": "1f21a.png",
+        "pattern": ":sy00031:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
+        "short_name": "u6307",
+        "category": "Symbols",
+        "image": "1f22f.png",
+        "pattern": ":sy00032:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
+        "short_name": "u7981",
+        "category": "Symbols",
+        "image": "1f232.png",
+        "pattern": ":sy00033:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
+        "short_name": "u7a7a",
+        "category": "Symbols",
+        "image": "1f233.png",
+        "pattern": ":sy00034:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
+        "short_name": "u5408",
+        "category": "Symbols",
+        "image": "1f234.png",
+        "pattern": ":sy00035:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
+        "short_name": "u6e80",
+        "category": "Symbols",
+        "image": "1f235.png",
+        "pattern": ":sy00036:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
+        "short_name": "u6709",
+        "category": "Symbols",
+        "image": "1f236.png",
+        "pattern": ":sy00037:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
+        "short_name": "u6708",
+        "category": "Symbols",
+        "image": "1f237-fe0f.png",
+        "pattern": ":sy00038:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
+        "short_name": "u7533",
+        "category": "Symbols",
+        "image": "1f238.png",
+        "pattern": ":sy00039:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
+        "short_name": "u5272",
+        "category": "Symbols",
+        "image": "1f239.png",
+        "pattern": ":sy00040:"
+    },
+    {
+        "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
+        "short_name": "u55b6",
+        "category": "Symbols",
+        "image": "1f23a.png",
+        "pattern": ":sy00041:"
+    },
+    {
+        "name": "CIRCLED IDEOGRAPH ADVANTAGE",
+        "short_name": "ideograph_advantage",
+        "category": "Symbols",
+        "image": "1f250.png",
+        "pattern": ":sy00042:"
+    },
+    {
+        "name": "CIRCLED IDEOGRAPH ACCEPT",
+        "short_name": "accept",
+        "category": "Symbols",
+        "image": "1f251.png",
+        "pattern": ":sy00043:"
+    },
+    {
+        "name": "CINEMA",
+        "short_name": "cinema",
+        "category": "Symbols",
+        "image": "1f3a6.png",
+        "pattern": ":sy00044:"
+    },
+    {
+        "name": "AUTOMATED TELLER MACHINE",
+        "short_name": "atm",
+        "category": "Symbols",
+        "image": "1f3e7.png",
+        "pattern": ":sy00045:"
+    },
+    {
+        "name": "DIAMOND SHAPE WITH A DOT INSIDE",
+        "short_name": "diamond_shape_with_a_dot_inside",
+        "category": "Symbols",
+        "image": "1f4a0.png",
+        "pattern": ":sy00046:"
+    },
+    {
+        "name": "HUNDRED POINTS SYMBOL",
+        "short_name": "100",
+        "category": "Symbols",
+        "image": "1f4af.png",
+        "pattern": ":sy00047:"
+    },
+    {
+        "name": "NAME BADGE",
+        "short_name": "name_badge",
+        "category": "Symbols",
+        "image": "1f4db.png",
+        "pattern": ":sy00048:"
+    },
+    {
+        "name": "VIBRATION MODE",
+        "short_name": "vibration_mode",
+        "category": "Symbols",
+        "image": "1f4f3.png",
+        "pattern": ":sy00049:"
+    },
+    {
+        "name": "MOBILE PHONE OFF",
+        "short_name": "mobile_phone_off",
+        "category": "Symbols",
+        "image": "1f4f4.png",
+        "pattern": ":sy00050:"
+    },
+    {
+        "name": "NO MOBILE PHONES",
+        "short_name": "no_mobile_phones",
+        "category": "Symbols",
+        "image": "1f4f5.png",
+        "pattern": ":sy00051:"
+    },
+    {
+        "name": "ANTENNA WITH BARS",
+        "short_name": "signal_strength",
+        "category": "Symbols",
+        "image": "1f4f6.png",
+        "pattern": ":sy00052:"
+    },
+    {
+        "name": "TWISTED RIGHTWARDS ARROWS",
+        "short_name": "twisted_rightwards_arrows",
+        "category": "Symbols",
+        "image": "1f500.png",
+        "pattern": ":sy00053:"
+    },
+    {
+        "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
+        "short_name": "repeat",
+        "category": "Symbols",
+        "image": "1f501.png",
+        "pattern": ":sy00054:"
+    },
+    {
+        "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
+        "short_name": "repeat_one",
+        "category": "Symbols",
+        "image": "1f502.png",
+        "pattern": ":sy00055:"
+    },
+    {
+        "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+        "short_name": "arrows_clockwise",
+        "category": "Symbols",
+        "image": "1f503.png",
+        "pattern": ":sy00056:"
+    },
+    {
+        "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+        "short_name": "arrows_counterclockwise",
+        "category": "Symbols",
+        "image": "1f504.png",
+        "pattern": ":sy00057:"
+    },
+    {
+        "name": "LOW BRIGHTNESS SYMBOL",
+        "short_name": "low_brightness",
+        "category": "Symbols",
+        "image": "1f505.png",
+        "pattern": ":sy00058:"
+    },
+    {
+        "name": "HIGH BRIGHTNESS SYMBOL",
+        "short_name": "high_brightness",
+        "category": "Symbols",
+        "image": "1f506.png",
+        "pattern": ":sy00059:"
+    },
+    {
+        "name": "RADIO BUTTON",
+        "short_name": "radio_button",
+        "category": "Symbols",
+        "image": "1f518.png",
+        "pattern": ":sy00060:"
+    },
+    {
+        "name": "BACK WITH LEFTWARDS ARROW ABOVE",
+        "short_name": "back",
+        "category": "Symbols",
+        "image": "1f519.png",
+        "pattern": ":sy00061:"
+    },
+    {
+        "name": "END WITH LEFTWARDS ARROW ABOVE",
+        "short_name": "end",
+        "category": "Symbols",
+        "image": "1f51a.png",
+        "pattern": ":sy00062:"
+    },
+    {
+        "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
+        "short_name": "on",
+        "category": "Symbols",
+        "image": "1f51b.png",
+        "pattern": ":sy00063:"
+    },
+    {
+        "name": "SOON WITH RIGHTWARDS ARROW ABOVE",
+        "short_name": "soon",
+        "category": "Symbols",
+        "image": "1f51c.png",
+        "pattern": ":sy00064:"
+    },
+    {
+        "name": "TOP WITH UPWARDS ARROW ABOVE",
+        "short_name": "top",
+        "category": "Symbols",
+        "image": "1f51d.png",
+        "pattern": ":sy00065:"
+    },
+    {
+        "name": "NO ONE UNDER EIGHTEEN SYMBOL",
+        "short_name": "underage",
+        "category": "Symbols",
+        "image": "1f51e.png",
+        "pattern": ":sy00066:"
+    },
+    {
+        "name": "KEYCAP TEN",
+        "short_name": "keycap_ten",
+        "category": "Symbols",
+        "image": "1f51f.png",
+        "pattern": ":sy00067:"
+    },
+    {
+        "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
+        "short_name": "capital_abcd",
+        "category": "Symbols",
+        "image": "1f520.png",
+        "pattern": ":sy00068:"
+    },
+    {
+        "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
+        "short_name": "abcd",
+        "category": "Symbols",
+        "image": "1f521.png",
+        "pattern": ":sy00069:"
+    },
+    {
+        "name": "INPUT SYMBOL FOR NUMBERS",
+        "short_name": "1234",
+        "category": "Symbols",
+        "image": "1f522.png",
+        "pattern": ":sy00070:"
+    },
+    {
+        "name": "INPUT SYMBOL FOR SYMBOLS",
+        "short_name": "symbols",
+        "category": "Symbols",
+        "image": "1f523.png",
+        "pattern": ":sy00071:"
+    },
+    {
+        "name": "INPUT SYMBOL FOR LATIN LETTERS",
+        "short_name": "abc",
+        "category": "Symbols",
+        "image": "1f524.png",
+        "pattern": ":sy00072:"
+    },
+    {
+        "name": "SIX POINTED STAR WITH MIDDLE DOT",
+        "short_name": "six_pointed_star",
+        "category": "Symbols",
+        "image": "1f52f.png",
+        "pattern": ":sy00073:"
+    },
+    {
+        "name": "JAPANESE SYMBOL FOR BEGINNER",
+        "short_name": "beginner",
+        "category": "Symbols",
+        "image": "1f530.png",
+        "pattern": ":sy00074:"
+    },
+    {
+        "name": "TRIDENT EMBLEM",
+        "short_name": "trident",
+        "category": "Symbols",
+        "image": "1f531.png",
+        "pattern": ":sy00075:"
+    },
+    {
+        "name": "BLACK SQUARE BUTTON",
+        "short_name": "black_square_button",
+        "category": "Symbols",
+        "image": "1f532.png",
+        "pattern": ":sy00076:"
+    },
+    {
+        "name": "WHITE SQUARE BUTTON",
+        "short_name": "white_square_button",
+        "category": "Symbols",
+        "image": "1f533.png",
+        "pattern": ":sy00077:"
+    },
+    {
+        "name": "LARGE RED CIRCLE",
+        "short_name": "red_circle",
+        "category": "Symbols",
+        "image": "1f534.png",
+        "pattern": ":sy00078:"
+    },
+    {
+        "name": "LARGE BLUE CIRCLE",
+        "short_name": "large_blue_circle",
+        "category": "Symbols",
+        "image": "1f535.png",
+        "pattern": ":sy00079:"
+    },
+    {
+        "name": "LARGE ORANGE DIAMOND",
+        "short_name": "large_orange_diamond",
+        "category": "Symbols",
+        "image": "1f536.png",
+        "pattern": ":sy00080:"
+    },
+    {
+        "name": "LARGE BLUE DIAMOND",
+        "short_name": "large_blue_diamond",
+        "category": "Symbols",
+        "image": "1f537.png",
+        "pattern": ":sy00081:"
+    },
+    {
+        "name": "SMALL ORANGE DIAMOND",
+        "short_name": "small_orange_diamond",
+        "category": "Symbols",
+        "image": "1f538.png",
+        "pattern": ":sy00082:"
+    },
+    {
+        "name": "SMALL BLUE DIAMOND",
+        "short_name": "small_blue_diamond",
+        "category": "Symbols",
+        "image": "1f539.png",
+        "pattern": ":sy00083:"
+    },
+    {
+        "name": "UP-POINTING RED TRIANGLE",
+        "short_name": "small_red_triangle",
+        "category": "Symbols",
+        "image": "1f53a.png",
+        "pattern": ":sy00084:"
+    },
+    {
+        "name": "DOWN-POINTING RED TRIANGLE",
+        "short_name": "small_red_triangle_down",
+        "category": "Symbols",
+        "image": "1f53b.png",
+        "pattern": ":sy00085:"
+    },
+    {
+        "name": "UP-POINTING SMALL RED TRIANGLE",
+        "short_name": "arrow_up_small",
+        "category": "Symbols",
+        "image": "1f53c.png",
+        "pattern": ":sy00086:"
+    },
+    {
+        "name": "DOWN-POINTING SMALL RED TRIANGLE",
+        "short_name": "arrow_down_small",
+        "category": "Symbols",
+        "image": "1f53d.png",
+        "pattern": ":sy00087:"
+    },
+    {
+        "name": "null",
+        "short_name": "om_symbol",
+        "category": "Symbols",
+        "image": "1f549-fe0f.png",
+        "pattern": ":sy00088:"
+    },
+    {
+        "name": "MENORAH WITH NINE BRANCHES",
+        "short_name": "menorah_with_nine_branches",
+        "category": "Symbols",
+        "image": "1f54e.png",
+        "pattern": ":sy00089:"
+    },
+    {
+        "name": "NO ENTRY SIGN",
+        "short_name": "no_entry_sign",
+        "category": "Symbols",
+        "image": "1f6ab.png",
+        "pattern": ":sy00090:"
+    },
+    {
+        "name": "NO SMOKING SYMBOL",
+        "short_name": "no_smoking",
+        "category": "Symbols",
+        "image": "1f6ad.png",
+        "pattern": ":sy00091:"
+    },
+    {
+        "name": "PUT LITTER IN ITS PLACE SYMBOL",
+        "short_name": "put_litter_in_its_place",
+        "category": "Symbols",
+        "image": "1f6ae.png",
+        "pattern": ":sy00092:"
+    },
+    {
+        "name": "DO NOT LITTER SYMBOL",
+        "short_name": "do_not_litter",
+        "category": "Symbols",
+        "image": "1f6af.png",
+        "pattern": ":sy00093:"
+    },
+    {
+        "name": "POTABLE WATER SYMBOL",
+        "short_name": "potable_water",
+        "category": "Symbols",
+        "image": "1f6b0.png",
+        "pattern": ":sy00094:"
+    },
+    {
+        "name": "NON-POTABLE WATER SYMBOL",
+        "short_name": "non-potable_water",
+        "category": "Symbols",
+        "image": "1f6b1.png",
+        "pattern": ":sy00095:"
+    },
+    {
+        "name": "NO BICYCLES",
+        "short_name": "no_bicycles",
+        "category": "Symbols",
+        "image": "1f6b3.png",
+        "pattern": ":sy00096:"
+    },
+    {
+        "name": "NO PEDESTRIANS",
+        "short_name": "no_pedestrians",
+        "category": "Symbols",
+        "image": "1f6b7.png",
+        "pattern": ":sy00097:"
+    },
+    {
+        "name": "CHILDREN CROSSING",
+        "short_name": "children_crossing",
+        "category": "Symbols",
+        "image": "1f6b8.png",
+        "pattern": ":sy00098:"
+    },
+    {
+        "name": "MENS SYMBOL",
+        "short_name": "mens",
+        "category": "Symbols",
+        "image": "1f6b9.png",
+        "pattern": ":sy00099:"
+    },
+    {
+        "name": "WOMENS SYMBOL",
+        "short_name": "womens",
+        "category": "Symbols",
+        "image": "1f6ba.png",
+        "pattern": ":sy00100:"
+    },
+    {
+        "name": "RESTROOM",
+        "short_name": "restroom",
+        "category": "Symbols",
+        "image": "1f6bb.png",
+        "pattern": ":sy00101:"
+    },
+    {
+        "name": "BABY SYMBOL",
+        "short_name": "baby_symbol",
+        "category": "Symbols",
+        "image": "1f6bc.png",
+        "pattern": ":sy00102:"
+    },
+    {
+        "name": "WATER CLOSET",
+        "short_name": "wc",
+        "category": "Symbols",
+        "image": "1f6be.png",
+        "pattern": ":sy00103:"
+    },
+    {
+        "name": "PASSPORT CONTROL",
+        "short_name": "passport_control",
+        "category": "Symbols",
+        "image": "1f6c2.png",
+        "pattern": ":sy00104:"
+    },
+    {
+        "name": "CUSTOMS",
+        "short_name": "customs",
+        "category": "Symbols",
+        "image": "1f6c3.png",
+        "pattern": ":sy00105:"
+    },
+    {
+        "name": "BAGGAGE CLAIM",
+        "short_name": "baggage_claim",
+        "category": "Symbols",
+        "image": "1f6c4.png",
+        "pattern": ":sy00106:"
+    },
+    {
+        "name": "LEFT LUGGAGE",
+        "short_name": "left_luggage",
+        "category": "Symbols",
+        "image": "1f6c5.png",
+        "pattern": ":sy00107:"
+    },
+    {
+        "name": "PLACE OF WORSHIP",
+        "short_name": "place_of_worship",
+        "category": "Symbols",
+        "image": "1f6d0.png",
+        "pattern": ":sy00108:"
+    },
+    {
+        "name": "DOUBLE EXCLAMATION MARK",
+        "short_name": "bangbang",
+        "category": "Symbols",
+        "image": "203c-fe0f.png",
+        "pattern": ":sy00109:"
+    },
+    {
+        "name": "EXCLAMATION QUESTION MARK",
+        "short_name": "interrobang",
+        "category": "Symbols",
+        "image": "2049-fe0f.png",
+        "pattern": ":sy00110:"
+    },
+    {
+        "name": "TRADE MARK SIGN",
+        "short_name": "tm",
+        "category": "Symbols",
+        "image": "2122-fe0f.png",
+        "pattern": ":sy00111:"
+    },
+    {
+        "name": "INFORMATION SOURCE",
+        "short_name": "information_source",
+        "category": "Symbols",
+        "image": "2139-fe0f.png",
+        "pattern": ":sy00112:"
+    },
+    {
+        "name": "LEFT RIGHT ARROW",
+        "short_name": "left_right_arrow",
+        "category": "Symbols",
+        "image": "2194-fe0f.png",
+        "pattern": ":sy00113:"
+    },
+    {
+        "name": "UP DOWN ARROW",
+        "short_name": "arrow_up_down",
+        "category": "Symbols",
+        "image": "2195-fe0f.png",
+        "pattern": ":sy00114:"
+    },
+    {
+        "name": "NORTH WEST ARROW",
+        "short_name": "arrow_upper_left",
+        "category": "Symbols",
+        "image": "2196-fe0f.png",
+        "pattern": ":sy00115:"
+    },
+    {
+        "name": "NORTH EAST ARROW",
+        "short_name": "arrow_upper_right",
+        "category": "Symbols",
+        "image": "2197-fe0f.png",
+        "pattern": ":sy00116:"
+    },
+    {
+        "name": "SOUTH EAST ARROW",
+        "short_name": "arrow_lower_right",
+        "category": "Symbols",
+        "image": "2198-fe0f.png",
+        "pattern": ":sy00117:"
+    },
+    {
+        "name": "SOUTH WEST ARROW",
+        "short_name": "arrow_lower_left",
+        "category": "Symbols",
+        "image": "2199-fe0f.png",
+        "pattern": ":sy00118:"
+    },
+    {
+        "name": "LEFTWARDS ARROW WITH HOOK",
+        "short_name": "leftwards_arrow_with_hook",
+        "category": "Symbols",
+        "image": "21a9-fe0f.png",
+        "pattern": ":sy00119:"
+    },
+    {
+        "name": "RIGHTWARDS ARROW WITH HOOK",
+        "short_name": "arrow_right_hook",
+        "category": "Symbols",
+        "image": "21aa-fe0f.png",
+        "pattern": ":sy00120:"
+    },
+    {
+        "name": "null",
+        "short_name": "eject",
+        "category": "Symbols",
+        "image": "23cf-fe0f.png",
+        "pattern": ":sy00121:"
+    },
+    {
+        "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+        "short_name": "fast_forward",
+        "category": "Symbols",
+        "image": "23e9.png",
+        "pattern": ":sy00122:"
+    },
+    {
+        "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+        "short_name": "rewind",
+        "category": "Symbols",
+        "image": "23ea.png",
+        "pattern": ":sy00123:"
+    },
+    {
+        "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
+        "short_name": "arrow_double_up",
+        "category": "Symbols",
+        "image": "23eb.png",
+        "pattern": ":sy00124:"
+    },
+    {
+        "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+        "short_name": "arrow_double_down",
+        "category": "Symbols",
+        "image": "23ec.png",
+        "pattern": ":sy00125:"
+    },
+    {
+        "name": "null",
+        "short_name": "black_right_pointing_double_triangle_with_vertical_bar",
+        "category": "Symbols",
+        "image": "23ed-fe0f.png",
+        "pattern": ":sy00126:"
+    },
+    {
+        "name": "null",
+        "short_name": "black_left_pointing_double_triangle_with_vertical_bar",
+        "category": "Symbols",
+        "image": "23ee-fe0f.png",
+        "pattern": ":sy00127:"
+    },
+    {
+        "name": "null",
+        "short_name": "black_right_pointing_triangle_with_double_vertical_bar",
+        "category": "Symbols",
+        "image": "23ef-fe0f.png",
+        "pattern": ":sy00128:"
+    },
+    {
+        "name": "null",
+        "short_name": "double_vertical_bar",
+        "category": "Symbols",
+        "image": "23f8-fe0f.png",
+        "pattern": ":sy00129:"
+    },
+    {
+        "name": "null",
+        "short_name": "black_square_for_stop",
+        "category": "Symbols",
+        "image": "23f9-fe0f.png",
+        "pattern": ":sy00130:"
+    },
+    {
+        "name": "null",
+        "short_name": "black_circle_for_record",
+        "category": "Symbols",
+        "image": "23fa-fe0f.png",
+        "pattern": ":sy00131:"
+    },
+    {
+        "name": "CIRCLED LATIN CAPITAL LETTER M",
+        "short_name": "m",
+        "category": "Symbols",
+        "image": "24c2-fe0f.png",
+        "pattern": ":sy00132:"
+    },
+    {
+        "name": "BLACK SMALL SQUARE",
+        "short_name": "black_small_square",
+        "category": "Symbols",
+        "image": "25aa-fe0f.png",
+        "pattern": ":sy00133:"
+    },
+    {
+        "name": "WHITE SMALL SQUARE",
+        "short_name": "white_small_square",
+        "category": "Symbols",
+        "image": "25ab-fe0f.png",
+        "pattern": ":sy00134:"
+    },
+    {
+        "name": "BLACK RIGHT-POINTING TRIANGLE",
+        "short_name": "arrow_forward",
+        "category": "Symbols",
+        "image": "25b6-fe0f.png",
+        "pattern": ":sy00135:"
+    },
+    {
+        "name": "BLACK LEFT-POINTING TRIANGLE",
+        "short_name": "arrow_backward",
+        "category": "Symbols",
+        "image": "25c0-fe0f.png",
+        "pattern": ":sy00136:"
+    },
+    {
+        "name": "WHITE MEDIUM SQUARE",
+        "short_name": "white_medium_square",
+        "category": "Symbols",
+        "image": "25fb-fe0f.png",
+        "pattern": ":sy00137:"
+    },
+    {
+        "name": "BLACK MEDIUM SQUARE",
+        "short_name": "black_medium_square",
+        "category": "Symbols",
+        "image": "25fc-fe0f.png",
+        "pattern": ":sy00138:"
+    },
+    {
+        "name": "WHITE MEDIUM SMALL SQUARE",
+        "short_name": "white_medium_small_square",
+        "category": "Symbols",
+        "image": "25fd.png",
+        "pattern": ":sy00139:"
+    },
+    {
+        "name": "BLACK MEDIUM SMALL SQUARE",
+        "short_name": "black_medium_small_square",
+        "category": "Symbols",
+        "image": "25fe.png",
+        "pattern": ":sy00140:"
+    },
+    {
+        "name": "BALLOT BOX WITH CHECK",
+        "short_name": "ballot_box_with_check",
+        "category": "Symbols",
+        "image": "2611-fe0f.png",
+        "pattern": ":sy00141:"
+    },
+    {
+        "name": "null",
+        "short_name": "radioactive_sign",
+        "category": "Symbols",
+        "image": "2622-fe0f.png",
+        "pattern": ":sy00142:"
+    },
+    {
+        "name": "null",
+        "short_name": "biohazard_sign",
+        "category": "Symbols",
+        "image": "2623-fe0f.png",
+        "pattern": ":sy00143:"
+    },
+    {
+        "name": "null",
+        "short_name": "orthodox_cross",
+        "category": "Symbols",
+        "image": "2626-fe0f.png",
+        "pattern": ":sy00144:"
+    },
+    {
+        "name": "null",
+        "short_name": "star_and_crescent",
+        "category": "Symbols",
+        "image": "262a-fe0f.png",
+        "pattern": ":sy00145:"
+    },
+    {
+        "name": "null",
+        "short_name": "peace_symbol",
+        "category": "Symbols",
+        "image": "262e-fe0f.png",
+        "pattern": ":sy00146:"
+    },
+    {
+        "name": "null",
+        "short_name": "yin_yang",
+        "category": "Symbols",
+        "image": "262f-fe0f.png",
+        "pattern": ":sy00147:"
+    },
+    {
+        "name": "null",
+        "short_name": "wheel_of_dharma",
+        "category": "Symbols",
+        "image": "2638-fe0f.png",
+        "pattern": ":sy00148:"
+    },
+    {
+        "name": "null",
+        "short_name": "female_sign",
+        "category": "Symbols",
+        "image": "2640-fe0f.png",
+        "pattern": ":sy00149:"
+    },
+    {
+        "name": "null",
+        "short_name": "male_sign",
+        "category": "Symbols",
+        "image": "2642-fe0f.png",
+        "pattern": ":sy00150:"
+    },
+    {
+        "name": "ARIES",
+        "short_name": "aries",
+        "category": "Symbols",
+        "image": "2648.png",
+        "pattern": ":sy00151:"
+    },
+    {
+        "name": "TAURUS",
+        "short_name": "taurus",
+        "category": "Symbols",
+        "image": "2649.png",
+        "pattern": ":sy00152:"
+    },
+    {
+        "name": "GEMINI",
+        "short_name": "gemini",
+        "category": "Symbols",
+        "image": "264a.png",
+        "pattern": ":sy00153:"
+    },
+    {
+        "name": "CANCER",
+        "short_name": "cancer",
+        "category": "Symbols",
+        "image": "264b.png",
+        "pattern": ":sy00154:"
+    },
+    {
+        "name": "LEO",
+        "short_name": "leo",
+        "category": "Symbols",
+        "image": "264c.png",
+        "pattern": ":sy00155:"
+    },
+    {
+        "name": "VIRGO",
+        "short_name": "virgo",
+        "category": "Symbols",
+        "image": "264d.png",
+        "pattern": ":sy00156:"
+    },
+    {
+        "name": "LIBRA",
+        "short_name": "libra",
+        "category": "Symbols",
+        "image": "264e.png",
+        "pattern": ":sy00157:"
+    },
+    {
+        "name": "SCORPIUS",
+        "short_name": "scorpius",
+        "category": "Symbols",
+        "image": "264f.png",
+        "pattern": ":sy00158:"
+    },
+    {
+        "name": "SAGITTARIUS",
+        "short_name": "sagittarius",
+        "category": "Symbols",
+        "image": "2650.png",
+        "pattern": ":sy00159:"
+    },
+    {
+        "name": "CAPRICORN",
+        "short_name": "capricorn",
+        "category": "Symbols",
+        "image": "2651.png",
+        "pattern": ":sy00160:"
+    },
+    {
+        "name": "AQUARIUS",
+        "short_name": "aquarius",
+        "category": "Symbols",
+        "image": "2652.png",
+        "pattern": ":sy00161:"
+    },
+    {
+        "name": "PISCES",
+        "short_name": "pisces",
+        "category": "Symbols",
+        "image": "2653.png",
+        "pattern": ":sy00162:"
+    },
+    {
+        "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
+        "short_name": "recycle",
+        "category": "Symbols",
+        "image": "267b-fe0f.png",
+        "pattern": ":sy00163:"
+    },
+    {
+        "name": "WHEELCHAIR SYMBOL",
+        "short_name": "wheelchair",
+        "category": "Symbols",
+        "image": "267f.png",
+        "pattern": ":sy00164:"
+    },
+    {
+        "name": "null",
+        "short_name": "medical_symbol",
+        "category": "Symbols",
+        "image": "2695-fe0f.png",
+        "pattern": ":sy00165:"
+    },
+    {
+        "name": "null",
+        "short_name": "atom_symbol",
+        "category": "Symbols",
+        "image": "269b-fe0f.png",
+        "pattern": ":sy00166:"
+    },
+    {
+        "name": "null",
+        "short_name": "fleur_de_lis",
+        "category": "Symbols",
+        "image": "269c-fe0f.png",
+        "pattern": ":sy00167:"
+    },
+    {
+        "name": "WARNING SIGN",
+        "short_name": "warning",
+        "category": "Symbols",
+        "image": "26a0-fe0f.png",
+        "pattern": ":sy00168:"
+    },
+    {
+        "name": "MEDIUM WHITE CIRCLE",
+        "short_name": "white_circle",
+        "category": "Symbols",
+        "image": "26aa.png",
+        "pattern": ":sy00169:"
+    },
+    {
+        "name": "MEDIUM BLACK CIRCLE",
+        "short_name": "black_circle",
+        "category": "Symbols",
+        "image": "26ab.png",
+        "pattern": ":sy00170:"
+    },
+    {
+        "name": "OPHIUCHUS",
+        "short_name": "ophiuchus",
+        "category": "Symbols",
+        "image": "26ce.png",
+        "pattern": ":sy00171:"
+    },
+    {
+        "name": "NO ENTRY",
+        "short_name": "no_entry",
+        "category": "Symbols",
+        "image": "26d4.png",
+        "pattern": ":sy00172:"
+    },
+    {
+        "name": "WHITE HEAVY CHECK MARK",
+        "short_name": "white_check_mark",
+        "category": "Symbols",
+        "image": "2705.png",
+        "pattern": ":sy00173:"
+    },
+    {
+        "name": "HEAVY CHECK MARK",
+        "short_name": "heavy_check_mark",
+        "category": "Symbols",
+        "image": "2714-fe0f.png",
+        "pattern": ":sy00174:"
+    },
+    {
+        "name": "HEAVY MULTIPLICATION X",
+        "short_name": "heavy_multiplication_x",
+        "category": "Symbols",
+        "image": "2716-fe0f.png",
+        "pattern": ":sy00175:"
+    },
+    {
+        "name": "null",
+        "short_name": "latin_cross",
+        "category": "Symbols",
+        "image": "271d-fe0f.png",
+        "pattern": ":sy00176:"
+    },
+    {
+        "name": "null",
+        "short_name": "star_of_david",
+        "category": "Symbols",
+        "image": "2721-fe0f.png",
+        "pattern": ":sy00177:"
+    },
+    {
+        "name": "EIGHT SPOKED ASTERISK",
+        "short_name": "eight_spoked_asterisk",
+        "category": "Symbols",
+        "image": "2733-fe0f.png",
+        "pattern": ":sy00178:"
+    },
+    {
+        "name": "EIGHT POINTED BLACK STAR",
+        "short_name": "eight_pointed_black_star",
+        "category": "Symbols",
+        "image": "2734-fe0f.png",
+        "pattern": ":sy00179:"
+    },
+    {
+        "name": "SPARKLE",
+        "short_name": "sparkle",
+        "category": "Symbols",
+        "image": "2747-fe0f.png",
+        "pattern": ":sy00180:"
+    },
+    {
+        "name": "CROSS MARK",
+        "short_name": "x",
+        "category": "Symbols",
+        "image": "274c.png",
+        "pattern": ":sy00181:"
+    },
+    {
+        "name": "NEGATIVE SQUARED CROSS MARK",
+        "short_name": "negative_squared_cross_mark",
+        "category": "Symbols",
+        "image": "274e.png",
+        "pattern": ":sy00182:"
+    },
+    {
+        "name": "BLACK QUESTION MARK ORNAMENT",
+        "short_name": "question",
+        "category": "Symbols",
+        "image": "2753.png",
+        "pattern": ":sy00183:"
+    },
+    {
+        "name": "WHITE QUESTION MARK ORNAMENT",
+        "short_name": "grey_question",
+        "category": "Symbols",
+        "image": "2754.png",
+        "pattern": ":sy00184:"
+    },
+    {
+        "name": "WHITE EXCLAMATION MARK ORNAMENT",
+        "short_name": "grey_exclamation",
+        "category": "Symbols",
+        "image": "2755.png",
+        "pattern": ":sy00185:"
+    },
+    {
+        "name": "HEAVY EXCLAMATION MARK SYMBOL",
+        "short_name": "exclamation",
+        "category": "Symbols",
+        "image": "2757.png",
+        "pattern": ":sy00186:"
+    },
+    {
+        "name": "HEAVY PLUS SIGN",
+        "short_name": "heavy_plus_sign",
+        "category": "Symbols",
+        "image": "2795.png",
+        "pattern": ":sy00187:"
+    },
+    {
+        "name": "HEAVY MINUS SIGN",
+        "short_name": "heavy_minus_sign",
+        "category": "Symbols",
+        "image": "2796.png",
+        "pattern": ":sy00188:"
+    },
+    {
+        "name": "HEAVY DIVISION SIGN",
+        "short_name": "heavy_division_sign",
+        "category": "Symbols",
+        "image": "2797.png",
+        "pattern": ":sy00189:"
+    },
+    {
+        "name": "BLACK RIGHTWARDS ARROW",
+        "short_name": "arrow_right",
+        "category": "Symbols",
+        "image": "27a1-fe0f.png",
+        "pattern": ":sy00190:"
+    },
+    {
+        "name": "CURLY LOOP",
+        "short_name": "curly_loop",
+        "category": "Symbols",
+        "image": "27b0.png",
+        "pattern": ":sy00191:"
+    },
+    {
+        "name": "DOUBLE CURLY LOOP",
+        "short_name": "loop",
+        "category": "Symbols",
+        "image": "27bf.png",
+        "pattern": ":sy00192:"
+    },
+    {
+        "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
+        "short_name": "arrow_heading_up",
+        "category": "Symbols",
+        "image": "2934-fe0f.png",
+        "pattern": ":sy00193:"
+    },
+    {
+        "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
+        "short_name": "arrow_heading_down",
+        "category": "Symbols",
+        "image": "2935-fe0f.png",
+        "pattern": ":sy00194:"
+    },
+    {
+        "name": "LEFTWARDS BLACK ARROW",
+        "short_name": "arrow_left",
+        "category": "Symbols",
+        "image": "2b05-fe0f.png",
+        "pattern": ":sy00195:"
+    },
+    {
+        "name": "UPWARDS BLACK ARROW",
+        "short_name": "arrow_up",
+        "category": "Symbols",
+        "image": "2b06-fe0f.png",
+        "pattern": ":sy00196:"
+    },
+    {
+        "name": "DOWNWARDS BLACK ARROW",
+        "short_name": "arrow_down",
+        "category": "Symbols",
+        "image": "2b07-fe0f.png",
+        "pattern": ":sy00197:"
+    },
+    {
+        "name": "BLACK LARGE SQUARE",
+        "short_name": "black_large_square",
+        "category": "Symbols",
+        "image": "2b1b.png",
+        "pattern": ":sy00198:"
+    },
+    {
+        "name": "WHITE LARGE SQUARE",
+        "short_name": "white_large_square",
+        "category": "Symbols",
+        "image": "2b1c.png",
+        "pattern": ":sy00199:"
+    },
+    {
+        "name": "HEAVY LARGE CIRCLE",
+        "short_name": "o",
+        "category": "Symbols",
+        "image": "2b55.png",
+        "pattern": ":sy00200:"
+    },
+    {
+        "name": "WAVY DASH",
+        "short_name": "wavy_dash",
+        "category": "Symbols",
+        "image": "3030-fe0f.png",
+        "pattern": ":sy00201:"
+    },
+    {
+        "name": "PART ALTERNATION MARK",
+        "short_name": "part_alternation_mark",
+        "category": "Symbols",
+        "image": "303d-fe0f.png",
+        "pattern": ":sy00202:"
+    },
+    {
+        "name": "CIRCLED IDEOGRAPH CONGRATULATION",
+        "short_name": "congratulations",
+        "category": "Symbols",
+        "image": "3297-fe0f.png",
+        "pattern": ":sy00203:"
+    },
+    {
+        "name": "CIRCLED IDEOGRAPH SECRET",
+        "short_name": "secret",
+        "category": "Symbols",
+        "image": "3299-fe0f.png",
+        "pattern": ":sy00204:"
+    }
+];
